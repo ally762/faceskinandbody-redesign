@@ -83,6 +83,16 @@
     lb.addEventListener('click', e => { if (e.target === lb) closeLb(); });
   }
 
+  /* Testimonials: equal cards, long reviews expand on click */
+  d.querySelectorAll('.quote-card').forEach(card => {
+    const q = card.querySelector('blockquote'), cap = card.querySelector('figcaption');
+    if (!q || !cap || q.scrollHeight <= q.clientHeight + 4) return;
+    const b = d.createElement('button');
+    b.type = 'button'; b.className = 'quote-more'; b.textContent = 'Read more'; b.setAttribute('aria-expanded', 'false');
+    b.addEventListener('click', () => { const o = card.classList.toggle('is-open'); b.textContent = o ? 'Read less' : 'Read more'; b.setAttribute('aria-expanded', o); });
+    cap.appendChild(b);
+  });
+
   /* Team bio toggles */
   d.querySelectorAll('.member__toggle').forEach(b => b.addEventListener('click', () => {
     const m = b.closest('.member'); const o = m.classList.toggle('is-open'); b.setAttribute('aria-expanded', o); b.textContent = o ? 'Read less' : 'Read more';

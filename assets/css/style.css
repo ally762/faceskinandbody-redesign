@@ -58,6 +58,7 @@ h4 { font-family: var(--f-sans); font-size: .8rem; letter-spacing: .18em; text-t
 .caps { text-transform: uppercase; font-family: var(--f-sans) !important; font-size: .95rem !important; letter-spacing: .14em; font-weight: 700 !important; }
 p { margin: 0 0 1.1em; }
 strong { color: var(--ink); font-weight: 700; }
+h1 strong, h2 strong, h3 strong, h4 strong, .cta strong, .cine strong, .quote-card strong { color: inherit; font-weight: inherit; }
 
 .container { width: 100%; max-width: var(--container); margin: 0 auto; padding: 0 var(--gutter); }
 .narrow { max-width: 820px; }
@@ -380,9 +381,19 @@ ol.check li::before { counter-increment: c; content: counter(c, decimal-leading-
 
 /* testimonials */
 .testi { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
-.quote-card { padding: 40px 34px; border-radius: var(--radius-lg); border: 1px solid var(--line-light); background: rgba(255,255,255,.04); display: flex; flex-direction: column; }
+.testi { align-items: start; }
+.quote-card { padding: 38px 34px 32px; border-radius: var(--radius-lg); border: 1px solid var(--line-light); background: rgba(255,255,255,.04); display: flex; flex-direction: column; min-height: 360px; margin: 0; transition: background .4s, border-color .4s; }
+.quote-card:hover { border-color: rgba(248,244,238,.3); }
+.quote-card.is-open { background: rgba(255,255,255,.07); }
 .quote-card .stars { color: var(--bronze-2); letter-spacing: .2em; margin-bottom: 18px; }
-.quote-card blockquote { margin: 0 0 26px; font-family: var(--f-display); font-size: 1.35rem; line-height: 1.45; color: var(--ivory); flex: 1; }
+.quote-card blockquote {
+  margin: 0 0 18px; font-family: var(--f-display); font-weight: 300; font-size: 1.18rem; line-height: 1.55; color: rgba(248,244,238,.92);
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 6; line-clamp: 6; overflow: hidden;
+}
+.quote-card.is-open blockquote { display: block; -webkit-line-clamp: unset; line-clamp: none; }
+.quote-card figcaption { margin-top: auto; display: flex; justify-content: space-between; align-items: center; gap: 16px; padding-top: 18px; border-top: 1px solid var(--line-light); }
+.quote-more { background: none; border: 0; padding: 0; color: var(--bronze-2); font-size: .7rem; letter-spacing: .18em; text-transform: uppercase; font-weight: 600; white-space: nowrap; }
+.quote-more:hover { color: var(--ivory); }
 .quote-card cite { font-style: normal; font-size: .76rem; letter-spacing: .18em; text-transform: uppercase; color: var(--sand); }
 .quote-mark { font-family: var(--f-display); font-size: 6rem; line-height: .6; color: var(--bronze-2); display: block; height: 40px; }
 

@@ -1,0 +1,556 @@
+{
+ "slug": "non-surgical-face-lifts",
+ "title": "Non-surgical Face Lifts Calgary — Face Skin & Body Bar",
+ "description": "Face Skin & Body Bar in Calgary provides non-surgical face lifts with advanced, non-invasive technology to naturally improve your appearance.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/68f14390ce09d14e097be478/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/non-surgical-face-lifts",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/7e20471f-b3e4-4332-b541-0f2e900eed33/FSB_Final-10+%281%29.jpg",
+     "alt": "Medical professional placing a laser helmet on a woman patient lying in a hospital bed.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Evoke / Define: Non-Invasive Lower Facelift in Calgary",
+     "html": "Evoke / Define: Non-Invasive Lower Facelift in Calgary"
+    },
+    {
+     "t": "p",
+     "html": "The desire for a more youthful appearance is universal, but the prospect of surgery can be daunting. The lower face—prone to sagging skin, jowls, and the stubborn \"double chin\"—is often the first area to reveal signs of aging."
+    },
+    {
+     "t": "p",
+     "html": "Today, many individuals are also facing a new aesthetic challenge: <strong>\"GLP-1 face.\"</strong> Rapid weight loss from medications like OzempicTM or WegovyTM can lead to significant facial volume loss, leaving behind loose, hanging skin and a prematurely aged appearance."
+    },
+    {
+     "t": "p",
+     "html": "We are proud to offer <strong>Evoke / Define</strong>, a revolutionary, hands-free radiofrequency (RF) treatment that delivers highly effective, non-invasive lower face contouring with zero downtime. This cutting-edge procedure remodels your face and neck, specifically targeting skin tightening and the restoration of your natural contours."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What is a Radiofrequency Non-Invasive Lower Facelift?",
+     "html": "What is a Radiofrequency Non-Invasive Lower Facelift?"
+    },
+    {
+     "t": "p",
+     "html": "An Evoke / Define non-invasive lower facelift is an advanced aesthetic treatment that uses clinically proven Bipolar Radiofrequency (RF) technology to remodel the facial tissues. Unlike traditional surgery, this procedure is pain-free and requires no incisions or recovery time. It is a highly customizable treatment designed to:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Tighten skin</strong> following rapid weight loss (GLP-1 medications).",
+      "<strong>Define the jawline</strong> and lift sagging jowls.",
+      "<strong>Reduce stubborn fat</strong> in the submental area (double chin)."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Challenge of the Lower Face",
+     "html": "The Challenge of the Lower Face"
+    },
+    {
+     "t": "p",
+     "html": "The lower face—encompassing the cheeks, jawline, and the area under the chin—is often the first place to betray signs of aging or weight fluctuations."
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>The \"Weight Loss Gap\":</strong> While GLP-1 medications can be an effective tool for weight management, the skin’s elasticity often struggles to keep pace. As the fat beneath the surface disappears quickly, it can leave the face looking 'deflated' or the jawline sagging.",
+      "<strong>Gravity's Toll:</strong> Skin naturally loses elasticity over time, leading to the formation of jowls that obscure a once-defined profile.",
+      "<strong>The Tightening Gap:</strong> Many fat reduction methods eliminate fat but fail to address the resulting loose skin. Evoke / Define solves this by tightening the \"envelope\" of the skin as it contours the face.",
+      "<strong>Stubborn Fat:</strong> The <em>submental area</em> (double chin) is notoriously difficult to address through diet and exercise alone, even for the slimmest individuals."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How do Non-Invasive Lower Facelifts Work ?",
+     "html": "How do Non-Invasive Lower Facelifts Work ?"
+    },
+    {
+     "t": "p",
+     "html": "The success of the Evoke / Define treatment lies in its targeted, hands-free application of RF energy."
+    },
+    {
+     "t": "list",
+     "ordered": true,
+     "items": [
+      "<strong>Cheek &amp; Jawline Applicators:</strong> These comfortably deliver thermal energy deep into the subdermal layers, initiating collagen production and remodeling. This is essential for patients experiencing volume loss, as it helps \"shrink-wrap\" the skin to the new facial structure, lifting the cheeks and softening nasolabial folds.",
+      "<strong>Chin Applicator:</strong> This specifically targets the subcutaneous fat deposits that form a double chin. The controlled temperature causes apoptosis (fat cell destruction) while simultaneously tightening the overlying skin. This is key, as other fat reduction treatments often fail to address the resulting loose skin. Evoke / Define provides a comprehensive treatment that destroys fat and ensures maximum skin tightening for a more defined profile."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "<strong>The Experience:</strong> The procedure is completely painless—you simply feel a gentle, sustained warmth."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits of a Non-Invasive Lower Facelift",
+     "html": "Benefits of a Non-Invasive Lower Facelift"
+    },
+    {
+     "t": "p",
+     "html": "The Non-Invasive Lower Facelift&nbsp; treatment offers incredible benefits for those seeking facial improvement without the risks or recovery of surgery:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Defined Jawline &amp; Contours:</strong> Effectively reduces jowls and firms the skin for a sharper, more youthful appearance.",
+      "<strong>Double Chin Reduction:</strong> Destroys stubborn submental fat while providing crucial skin tightening.",
+      "<strong>Enhanced Collagen:</strong> Stimulates new collagen production, leading to firmer, more resilient skin.",
+      "<strong>Comfort &amp; Convenience:</strong> The treatment is painless, non-invasive, and requires 0 days of downtime.",
+      "<strong>Treats/Benefits:</strong> Sagging skin, jowls, undefined jawline, double chin, and nasolabial folds"
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Difference: Evoke vs XERF™",
+     "html": "The Difference: Evoke vs XERF™"
+    },
+    {
+     "t": "p",
+     "html": "While both treatments utilize radiofrequency (RF) energy to rejuvenate the face, they operate on very different levels. XERF™ is a manual tool for surface tightening, whereas we utilize Evoke for its superior ability to provide structural remodeling and facial contouring."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Why our clinic chose evoke",
+     "html": "Why our clinic chose evoke"
+    },
+    {
+     "t": "p",
+     "html": "We’ve invested in Evoke because we believe our patients deserve the most consistent and structural results possible. Here is why Evoke is our gold standard:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Architectural Contouring:</strong> XERF™ is primarily a \"skin\" treatment. Evoke goes deeper, remodeling the subdermal layers and the fibroseptal network. It doesn't just tighten the surface; it reshapes the foundation to sharpen your jawline and reduce jowl heaviness.",
+      "<strong>Precision via Automated:</strong> Manual devices like XERF™ and our Forma RF device rely on the technician's movement. Evoke uses built in automation to monitor skin temperature 1,000 times per second. This ensures the entire area stays at the optimal temperature for collagen production without the \"spicy\" hot spots common in manual treatments.",
+      "<strong>The Effortless Experience:</strong> Evoke is the ultimate \"lunchtime\" treatment. You can relax, catch up on emails, or read while the technology performs a consistent, medical-grade lift."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Evoke / Define vs XERF",
+     "html": "Evoke / Define vs XERF"
+    },
+    {
+     "t": "code",
+     "blocks": [
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Feature",
+         "Evoke / Define (Non-Invasive Lower Facelift)",
+         "XERF (Manual RF)"
+        ],
+        [
+         "Method",
+         "Automated, hands-free headset",
+         "Handheld wand moved by technician"
+        ],
+        [
+         "Primary Goal",
+         "Structural sculpting & jawline definition",
+         "Surface skin thightening"
+        ],
+        [
+         "Consistency",
+         "Uniform heat via automated sensors",
+         "Varies by provider technique"
+        ],
+        [
+         "Discomfort",
+         "1/5 (Very little)",
+         "1/5 (Very little"
+        ],
+        [
+         "Experience",
+         "Passive, relaxing",
+         "Active \"procedure\"feel"
+        ],
+        [
+         "Best For",
+         "Jowls, double chins & lifting",
+         "Fine lines and skin density"
+        ],
+        [
+         "Commitment",
+         "Weekly treatment sessions",
+         "Monthly treatment sessions"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "Evoke / Define is an excellent treatment for individuals who are experiencing mild to moderate signs of aging in the lower face and neck, including:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Sagging skin or jowls along the jawline.",
+      "The appearance of a double chin or submental fullness.",
+      "Those seeking skin tightening and lifting without a surgical procedure.",
+      "Patients looking for a comfortable, non-invasive treatment with zero downtime."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Treatable Areas",
+     "html": "Treatable Areas"
+    },
+    {
+     "t": "code",
+     "blocks": [
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Treatment Area",
+         "Treatment Time",
+         "Focus"
+        ],
+        [
+         "Face (Cheeks & Jawline)",
+         "30 to 45 minutes",
+         "Skin Tightening & Collagen Remodeling"
+        ],
+        [
+         "Neck (Submental/Chin)",
+         "30 to 45 minutes",
+         "Fat Burning & Skin Tightening"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From The Treatment",
+     "html": "What To Expect From The Treatment"
+    },
+    {
+     "t": "p",
+     "html": "The Evoke / Define procedure is designed for ultimate comfort and convenience, allowing you to relax, read, or even work during your session."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "Number Of Treatments Required"
+    },
+    {
+     "t": "p",
+     "html": "Your precise treatment plan will be determined during your consultation, based on your goals and the skin's response, but the required commitment is typically:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Skin Tigething:</strong> 4 to 6 sessions, performed once a week.",
+      "<strong>Subcutaneous Fat (Double Chin):</strong> 6 to 8 sessions, performed once a week."
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Potential Results",
+     "html": "Potential Results"
+    },
+    {
+     "t": "p",
+     "html": "Initial improvement is often visible around 3 weeks after the last treatment."
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Results continue to improve over the next 3 months as new collagen and elastin are generated."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "The final result is a gradual, more natural lifting and enhanced definition."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Cost of AN Evoke / Define Treatment(s)",
+     "html": "The Cost of AN Evoke / Define Treatment(s)"
+    },
+    {
+     "t": "p",
+     "html": "The cost of your Evoke / Define treatment plan will be discussed during your consultation and is based on the number of sessions required to achieve your natural improvement. It is a significantly more affordable treatment option compared to a lower face lift surgery."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Aftercare",
+     "html": "Aftercare"
+    },
+    {
+     "t": "p",
+     "html": "No special aftercare is required. You can immediately return to your normal routine."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Recovery Timeline",
+     "html": "Recovery Timeline"
+    },
+    {
+     "t": "p",
+     "html": "0 Days Downtime. Some patients may experience slight, temporary redness, which dissipates within a couple of hours."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before & After of Non-Invasive Lower Facelift",
+     "html": "Before &amp; After of Non-Invasive Lower Facelift"
+    },
+    {
+     "t": "p",
+     "html": "View our impressive before-and-after photos of our Non-Invasive Lower Face Lift results achieved only at Face Skin &amp; Body Bar."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1760646838119-5PPXKBZJWN1SB9R79IH7/A013A4D7-9C01-470F-98BA-A27BABF36255.jpg",
+     "alt": "A013A4D7-9C01-470F-98BA-A27BABF36255.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1760646838372-VCACK8J5XA0YENG9TW1R/evoke-before-after-dr-r-rorich-dr-d-weir-preview-1.jpg",
+     "alt": "evoke-before-after-dr-r-rorich-dr-d-weir-preview-1.jpg"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "We specialize in advanced, non-invasive treatment technology to achieve optimal aesthetic improvement. We often build custom treatment plans that combine Evoke / Define with other synergistic technologies like RF Microneedling and Traditional Microneedling. This combined approach delivers superior collagen production and skin tightening for a comprehensive lifting and remodeling effect that enhances your youthful appearance more than a single procedure alone. Trust our experts to provide a personalized plan for your lower face lift goals."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444382494-COQ7UAK1DD1RTNUVN88Q/After_Facial_Treatment+%281%29.jpg",
+     "alt": "Woman stretching in bed, smiling at the camera, with a flower illustration on the wall behind her and a window above.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Non-Invasive Lower Facelift Client Testimonials",
+     "html": "Non-Invasive Lower Facelift Client Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“I’m in my late 20s and have never had really defined features. I follow Face on social media and decided to come in to see whether filler for my jawline was a good fit. The Injector actually recommended I start with a series of Evoke Sessions wait 3 months and then look at filler. I was a bit skeptical of this device but I ended up taking a risk and bought 4 sessions. I’m so glad I did! The results were so natural looking and I had an actual jawline and my double chin looked so much better. I never even ended up going for filler in the end because I was so happy with my results. You have to have patience with this treatment but it really does work.”"
+    },
+    {
+     "t": "p",
+     "html": "-C. H"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"My friend highly recommended Face Skin &amp; Body Bar, and after enjoying several fantastic facials, I booked a consultation for more advanced treatments. Lisane suggested the Evoke device. I have a strong aversion to pain, so I specifically needed something that was genuinely non-invasive and pain-free but would still deliver real results. I wanted to target my persistent jowls and stubborn double chin. They showed me impressive before-and-after photos and even let me try the device. I was convinced and signed up for a series of 6 treatments. Committing to a weekly appointment was easy—I simply brought my laptop and could comfortably work the entire time! When I came in for my 3-month follow-up, I was absolutely blown away by the difference. The lifting and contouring effect was remarkable—my entire profile had changed. This treatment is a game-changer! Highly recommend!”"
+    },
+    {
+     "t": "p",
+     "html": "-Mei L"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book A Consultation Today",
+     "html": "<strong>Book A Consultation Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Ready to redefine your jawline and reduce your double chin with the most comfortable, non-invasive procedure available? Book a consultation today to learn how the Evoke / Define treatment can provide the lifting and skin tightening you desire."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/16b36fa5-8bd0-4410-807c-47fdac5e3738/pexels-ron-lach-8624599.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

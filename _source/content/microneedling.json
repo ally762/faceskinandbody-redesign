@@ -1,0 +1,668 @@
+{
+ "slug": "microneedling",
+ "title": "Microneedling Treatments in Calgary — Face Skin & Body Bar",
+ "description": "Achieve smoother, healthier skin with microneedling in Calgary. Safe and effective treatments to refresh and improve your natural glow.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/686584df0c9cf06d532847bc/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/microneedling",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2ce58692-e2f7-44e2-99fe-0953de65e20e/microneedling_1.jpg",
+     "alt": "A woman receiving a cosmetic or beauty treatment from a technician in a salon or spa setting.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Microneedling In Calgary",
+     "html": "Microneedling In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>We Are the Microneedling Specialists in Calgary!</em>"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we offer expert microneedling treatments designed to revitalize your skin and address a wide array of skin concerns. Our signature collagen induction therapy is a highly effective, minimally invasive procedure that harnesses your body's natural healing capabilities to restore a healthy, youthful glow. If you're seeking improved skin texture, diminished imperfections, and overall skin rejuvenation, our expert team is here to guide you."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Line graph with four wave-like lines of varying heights within a circle, representing data trends.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Diagram showing three lines intersecting a circle from outside, labeled with arrows pointing toward the circle's interior.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "ACNE"
+    },
+    {
+     "t": "p",
+     "html": "HYPERPIGMENTATION/SUN DAMAGE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "Illustration of a transparent sphere with lines passing through it, representing a planet or an abstract 3D shape.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Empty black sign with a red border and the words 'Coming Soon' in white text.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A simple line drawing of a heart rate monitor or electrocardiogram display with a wavy line in the center inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "DULL"
+    },
+    {
+     "t": "p",
+     "html": "DRY / DEHYDRATED"
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is Microneedling?",
+     "html": "What Is Microneedling?"
+    },
+    {
+     "t": "p",
+     "html": "Microneedling, also known as collagen induction therapy, is a cutting-edge cosmetic procedure that involves the precise stamping of the skin with tiny, sterile needles. While the idea of needles on the skin might sound intimidating, the process is carefully controlled and surprisingly well-tolerated. These micro-injuries are superficial and trigger your body's innate healing response. In response to these controlled micro-traumas, your skin initiates a powerful cascade of regeneration, leading to a significant increase in the production of two vital proteins: Elastin and collagen."
+    },
+    {
+     "t": "p",
+     "html": "Collagen and elastin are the foundational building blocks of healthy, youthful skin. As we age, the natural production of these proteins declines, leading to common skin concerns like sagging, wrinkles, and loss of firmness. By stimulating new collagen production, microneedling treatments effectively reverse these signs of aging, encouraging the skin to become firmer, smoother, and more resilient. This process not only repairs existing damage but also strengthens the skin's structure for long-term benefits."
+    },
+    {
+     "t": "p",
+     "html": "The controlled micro-injuries created by the microneedling treatment also create microscopic channels in the skin. These channels serve a dual purpose: They facilitate enhanced absorption of topical serums and other active ingredients applied during and after the procedure. This allows these powerful ingredients to penetrate deeper into the skin, maximizing their efficacy and contributing to superior results."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Benefits Of Microneedling",
+     "html": "The Benefits Of Microneedling"
+    },
+    {
+     "t": "p",
+     "html": "Our microneedling treatments at Face Skin &amp; Body Bar are a versatile solution for a multitude of skin concerns, offering comprehensive skin rejuvenation. This powerful collagen induction therapy can significantly improve the appearance of:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Sagging Skin &amp; Volume Loss:</strong> By boosting collagen production, microneedling treatments help to firm and tighten the skin, leading to a more lifted appearance and improved definition along the cheeks, jawline, and jowls.",
+      "<strong>Textured Skin and Enlarged Pores</strong>: The process of collagen induction refines skin texture, making it smoother and more even. It also helps to minimize the appearance of enlarged pores, creating a more uniform surface.",
+      "<strong>Acne Scars:</strong> Microneedling is particularly effective for treating various types of acne scars, including ice pick, boxcar, and rolling scars. It breaks down old scar tissue and stimulates new, healthy collagen to fill in depressions, leading to a significant reduction in their visibility.&nbsp;",
+      "<strong>Stretch Marks</strong>: Similar to acne scars, microneedling can improve the appearance of stretch marks by stimulating collagen production and remodelling the dermal layer, leading to smoother, less noticeable marks.",
+      "<strong>Deep Lines and Fine Lines</strong>: The increased collagen production plumps the skin from within, effectively diminishing the appearance of fine lines and deeper wrinkles such as crow's feet and nasolabial folds. This results in smoother, more youthful-looking skin.",
+      "<strong>Hyperpigmentation</strong>: By promoting cellular turnover and the elimination of pigmented cells, microneedling can help fade various forms of hyperpigmentation, including sun spots and age spots, leading to a more even skin tone.",
+      "<strong>Overall Skin Health &amp; Rejuvenation:</strong> Beyond specific concerns, regular microneedling treatments promote overall skin rejuvenation, leading to a healthier, more vibrant, and youthful complexion."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "Microneedling is an appropriate and highly effective treatment for almost anyone in search of improved skin texture and a refreshed appearance. It is particularly beneficial for individuals experiencing:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Visible fine lines and wrinkles",
+      "Concerns with acne scars or other textural irregularities",
+      "Hyperpigmentation or uneven skin tone",
+      "Loss of skin elasticity and firmness",
+      "Enlarged pores",
+      "Stretch marks on the body"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "During your initial consultation, our experienced practitioners will conduct a thorough assessment of your skin and discuss your specific skin concerns to determine if microneedling treatments are the most appropriate and effective pathway to your desired outcomes.<br>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect At A Microneedling Session?",
+     "html": "What To Expect At A Microneedling Session?"
+    },
+    {
+     "t": "p",
+     "html": "Your microneedling treatment at Face Skin &amp; Body Bar is a meticulously planned and executed process, designed for your comfort and optimal results. Each session typically lasts approximately 1.5 hours and involves three key steps:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Cleansing and Numbing",
+     "html": "<strong>Skin Cleansing and Numbing </strong>"
+    },
+    {
+     "t": "p",
+     "html": "&nbsp;Your skin will be thoroughly cleansed to remove any makeup, oils, or impurities. A topical numbing cream will then be applied to the treatment area to ensure your comfort throughout the procedure. This cream typically takes 20-30 minutes to take effect."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Microneedle Stamping",
+     "html": "<strong>Microneedle Stamping</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Once your skin is adequately numbed, your practitioner will use a sterile, professional-grade microneedling device to create precise, controlled micro-channels in the targeted areas. We specifically utilize a stamping motion rather than a dragging or \"gliding\" technique. This method ensures even coverage and consistent depth, maximizing the therapeutic effect."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Why Stamping Is Superior:",
+     "html": "<strong>Why Stamping Is Superior:</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Stamping is the preferred method for microneedling because it allows for needles to penetrate the skin vertically and cleanly. Unlike older roller devices or improper gliding techniques, stamping minimizes the risk of tearing or scratching the skin, which can lead to increased trauma, unnecessary discomfort, and potentially less predictable results. This precise, perpendicular insertion creates optimal micro-channels for enhanced collagen production and product absorption, ensuring a safer and more effective microneedling treatment."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Collagen Mask & Ice Globe Facial Massage:",
+     "html": "<strong>Collagen Mask &amp; Ice Globe Facial Massage:</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Following the microneedling process, high-quality Hyaluronic Acid will be directly applied onto the open channels, followed by a soothing and deeply hydrating collagen mask. This mask not only calms the skin but also infuses it with beneficial ingredients. A gentle ice globe facial massage will then be performed to further soothe the skin, reduce redness, and enhance product absorption."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The average number of microneedling treatments recommended depends on the specific skin concerns being addressed and the desired level of improvement."
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Anti-Aging &amp; Overall Skin Health</strong>: For general anti-aging and skin health, a series of 3 microneedling treatments is typically recommended for optimal results. Each session would be spaced 4 to 6 weeks apart for face and 6 to 8 weeks apart for anything below the chin; the neck and body require a longer healing time between sessions for optimal results.",
+      "<strong>Acne Scarring</strong>: For more persistent concerns like acne scars, a series of 4 microneedling treatments is often required to achieve significant improvement. These will be spaced 6 weeks apart for the face.&nbsp;"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Your practitioner will recommend a personalized treatment plan during your consultation."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "What Does Microneedling Feel Like?",
+     "html": "<strong>What Does Microneedling Feel Like?</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The discomfort level for a microneedling treatment is generally very low, rated at approximately 2/5. Thanks to the topical numbing cream applied beforehand, most clients report feeling only a light pressure or a mild vibrating sensation during the procedure. Any discomfort is typically fleeting and well-tolerated."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cost Of Microneedling At Face Skin & Body Bar",
+     "html": "<strong>Cost Of Microneedling At Face Skin &amp; Body Bar</strong>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Microneedling, Collagen Mask & Ice Globes - Face - $375 (Series of 3 $1000)",
+     "html": "Microneedling, Collagen Mask &amp; Ice Globes - Face - <strong>$375 (Series of 3 $1000)</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong><em>Membership Pricing</em></strong>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plan- $337.50</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plus - $330</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>The Accelerated - $318.75</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Microneedling, Collagen Mask & Ice Globes - Face & Neck - $475 (Series of 3 $1255)",
+     "html": "Microneedling, Collagen Mask &amp; Ice Globes - Face &amp; Neck<strong> - $475 (Series of 3 $1255)</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong><em>Membership Pricing</em></strong>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plan- $427.50</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plus - $418</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>The Accelerated - $403.75</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Microneedling, Collagen Mask & Ice Globes - Face, Neck & Décolleté - $525",
+     "html": "Microneedling, Collagen Mask &amp; Ice Globes - Face, Neck &amp; Décolleté - <strong>$525</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong><em>Membership Pricing</em></strong>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plan- $472.50</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plus - $462</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>The Accelerated - $446.25</em>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Results",
+     "html": "<strong>Results</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The results of your microneedling treatment are not immediate, but are truly transformative as your skin undergoes its natural regenerative process. You can typically expect to see initial improvements around 4 weeks after your treatment, with continued and progressive enhancement over the next 3 months as new collagen production takes full effect. Your skin will appear smoother, firmer, more even-toned, and visibly rejuvenated."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "After Care",
+     "html": "<strong>After Care</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Proper after care is crucial for optimizing your microneedling results and ensuring a smooth recovery. Your practitioner will provide detailed post-treatment instructions, which typically include:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Keeping the treated area clean and hydrated",
+      "Avoiding direct sun exposure and using a high-SPF broad-spectrum sunscreen daily",
+      "Refraining from using harsh exfoliants, retinoids, or active ingredients for several days",
+      "Avoiding excessive sweating or strenuous exercise immediately after the treatment",
+      "Using the AlumierMD Post-care Kit as directed. Each kit contains a gentle cleanser, a soothing recovery balm, and SPF"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Recovery Timeline",
+     "html": "<strong>Recovery Timeline</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The downtime following a microneedling treatment is generally minimal, ranging from 1 to 3 days."
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Day 1:</strong> You can expect some redness and mild swelling, similar to a sunburn. Your skin may feel sensitive.",
+      "<strong>Days 2-3:</strong> Redness usually subsides significantly. Your skin may feel dry or tight, and you might notice some very light flaking as the skin renews itself. This is when you want to be generous with the recovery balm provided in your post-care kit.",
+      "<strong>Beyond:</strong> Your skin will continue to heal and improve, revealing a more radiant complexion."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "The exact recovery timeline can vary based on individual skin sensitivity and the intensity of the treatment."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before & After",
+     "html": "Before &amp; After"
+    },
+    {
+     "t": "p",
+     "html": "Witness the remarkable transformations achieved with our microneedling treatments. Our gallery showcases real client results, demonstrating the significant improvements in skin texture, reduction of fine lines, sun damage, fading of acne scars, and overall skin rejuvenation that our collagen induction therapy can deliver."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ec8ef382-8976-4767-b332-d7a28d9450e8/image0.png",
+     "alt": "Side-by-side comparison of a woman's face before and after skincare or cosmetic treatment, showing improved skin appearance. She has blue eyes, light brown hair, and is wearing earrings in both images.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Contraindications",
+     "html": "Contraindications"
+    },
+    {
+     "t": "p",
+     "html": "While microneedling is safe and effective for many, there are certain contraindications that may prevent you from undergoing the treatment. These include, but are not limited to:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Active acne breakouts or open wounds in the treatment area. Refer to RF Microneedling if you need a treatment while suffering from an active breakout.",
+      "Active herpes simplex (cold sores) in the treatment area. We can also provide you with a prescription for an antiviral prior to your appointment.",
+      "History of keloid scars",
+      "Current use of Accutane (isotretinoin) or within 6 months of stopping",
+      "Certain autoimmune diseases",
+      "Pregnancy or breastfeeding",
+      "Uncontrolled diabetes",
+      "Certain blood clotting disorders or taking blood thinners"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "A thorough medical history will be taken during your consultation to ensure your safety and suitability for microneedling treatments."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/fa9568d4-6f50-45c7-ae59-f0880f0c88e0/microneedling_4.jpg",
+     "alt": "A woman receiving a cosmetic treatment with a small device on her face, wearing a headband and lying on a medical bed.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar in Calgary, we are dedicated to providing exceptional skin care with a personalized approach. When you choose us for your microneedling treatment, you benefit from:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Expert Practitioners",
+     "html": "<strong>Expert Practitioners </strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our team consists of highly trained and experienced professionals who are passionate about skin health and committed to delivering outstanding results."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Advanced Technology",
+     "html": "<strong>Advanced Technology</strong>"
+    },
+    {
+     "t": "p",
+     "html": "We utilize state-of-the-art microneedling devices and adhere to the highest standards of safety and hygiene."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "personalized Treatment plans",
+     "html": "<strong>personalized Treatment plans</strong>"
+    },
+    {
+     "t": "p",
+     "html": "&nbsp;We understand that every client's skin is unique. We develop customized microneedling treatment plans tailored to your specific skin concerns and aesthetic goals."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Comprehensive Care",
+     "html": "<strong>Comprehensive Care</strong>"
+    },
+    {
+     "t": "p",
+     "html": "From your initial consultation to meticulous aftercare instructions, we provide continuous support and guidance throughout your skin rejuvenation journey."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Commitment to Results",
+     "html": "<strong>Commitment to Results</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our ultimate goal is to help you achieve beautiful, healthy, and radiant skin that boosts your confidence."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Microneedling Testimonials",
+     "html": "Microneedling Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I've struggled with acne scars for years, and after a series of microneedling treatments at Face Skin &amp; Body Bar, my skin is so much smoother and more even. I feel so much more confident!\""
+    },
+    {
+     "t": "p",
+     "html": "- Sarah L."
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I've been so impressed with my microneedling experience with Alexa. After two sessions, I can honestly say she's incredibly professional, but also has this amazing knack for making you feel completely relaxed and confident. The collagen mask and ice globes at the end of the treatment are such a luxurious touch and feel incredible on the skin. I've also been really happy with how quickly I've healed, with very little downtime. I'm already seeing noticeable improvements in my skin, and I'm genuinely looking forward to my next session with her. I highly recommend it.\""
+    },
+    {
+     "t": "p",
+     "html": "- Julia M"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"The fine lines around my eyes have dramatically improved after just a few sessions. The collagen induction therapy really works! The team at Face Skin &amp; Body Bar is amazing.\""
+    },
+    {
+     "t": "p",
+     "html": "- Mark T."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book A Consult Today",
+     "html": "<strong>Book A Consult Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Are you ready to transform your skin and experience the remarkable benefits of collagen induction therapy? Don't let skin concerns like fine lines, acne scars, or uneven texture hold you back from achieving the radiant complexion you’ve always dreamed of."
+    },
+    {
+     "t": "p",
+     "html": "Contact the team at Face Skin &amp; Body Bar in Calgary today to schedule your microneedling consultation. Our expert team looks forward to assessing your skin, discussing your goals, and crafting a personalized microneedling treatment plan to help you embark on your journey to beautiful, revitalized skin. Let us help you unveil a healthier, more confident you!"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/6939c27c-9da9-4df1-94ca-9928a4a51ee2/Microneedling_3.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

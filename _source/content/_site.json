@@ -1,0 +1,534 @@
+{
+ "nav": [
+  {
+   "text": "Medical Aesthetics",
+   "children": [
+    {
+     "text": "Chemical Peels",
+     "href": "/chemical-peels"
+    },
+    {
+     "text": "Injectables",
+     "href": "/injectables"
+    },
+    {
+     "text": "Microneedling",
+     "href": "/microneedling"
+    },
+    {
+     "text": "RF Microneedling",
+     "href": "/rf-microneedling"
+    },
+    {
+     "text": "RF Skin Tightening",
+     "href": "/rf-skin-tightening"
+    },
+    {
+     "text": "IPL Treatment",
+     "href": "/ipl"
+    },
+    {
+     "text": "Non-Invasive Lower FaceLift",
+     "href": "/non-surgical-face-lifts"
+    },
+    {
+     "text": "Non-Surgical Aesthetics",
+     "href": "/medical-aesthetics"
+    }
+   ]
+  },
+  {
+   "text": "Facials",
+   "children": [
+    {
+     "text": "Facials",
+     "href": "/facials"
+    },
+    {
+     "text": "Acne Facials",
+     "href": "/acne-facials"
+    },
+    {
+     "text": "Anti-Aging Facials",
+     "href": "/anti-aging-facials"
+    },
+    {
+     "text": "Brightening Facial",
+     "href": "/brightening-facials"
+    },
+    {
+     "text": "Dermaplaning",
+     "href": "/dermaplaning"
+    },
+    {
+     "text": "Men’s Facials",
+     "href": "/mens-facials"
+    },
+    {
+     "text": "Back Facials",
+     "href": "/back-facials"
+    }
+   ]
+  },
+  {
+   "text": "Conditions",
+   "children": [
+    {
+     "text": "Acne",
+     "href": "/acne"
+    },
+    {
+     "text": "Acne Scars Treatment",
+     "href": "/acne-scars-treatment"
+    },
+    {
+     "text": "Dry/Dehydrated",
+     "href": "/dry-dehydrated"
+    },
+    {
+     "text": "Sensitive/Rosacea",
+     "href": "/sensitive-rosacea"
+    },
+    {
+     "text": "Hyperpigmentation/Sun Damage",
+     "href": "/hyperpigmentation-sun-damage"
+    },
+    {
+     "text": "Fine Lines & Aging",
+     "href": "/fine-lines-wrinkles-treatment"
+    },
+    {
+     "text": "Dull Skin",
+     "href": "/dull-skin"
+    }
+   ]
+  },
+  {
+   "text": "Neuromodulators",
+   "children": [
+    {
+     "text": "Neurotoxins",
+     "href": "/neuromodulators"
+    },
+    {
+     "text": "Dysport™",
+     "href": "/dysport"
+    },
+    {
+     "text": "Nuceiva™",
+     "href": "/nuceiva"
+    }
+   ]
+  },
+  {
+   "text": "Dermal Fillers",
+   "children": [
+    {
+     "text": "Dermal Fillers",
+     "href": "/dermal-fillers"
+    },
+    {
+     "text": "Cheek Fillers",
+     "href": "/cheek-fillers"
+    },
+    {
+     "text": "Chin Fillers",
+     "href": "/chin-fillers"
+    },
+    {
+     "text": "Jaw Fillers",
+     "href": "/jaw-fillers"
+    },
+    {
+     "text": "Lip Fillers",
+     "href": "/lip-fillers"
+    }
+   ]
+  },
+  {
+   "text": "Laser hair removal",
+   "href": "/laser-hair-removal"
+  },
+  {
+   "text": "Skincare Products",
+   "children": [
+    {
+     "text": "Shop AlumierMD",
+     "href": "/shop-alumiermd"
+    },
+    {
+     "text": "Essentials",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Sunscreens",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Eye Products",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Cleansers",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Targeted Serums",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Exfoliants",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Post Procedure",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Collections",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Masks",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Fine Lines & Aging",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Hyperpigmentation/Sun Damage",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Dry/Dehydrated",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Dull",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Acne",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    },
+    {
+     "text": "Sensitive/Rosacea",
+     "href": "https://www.alumiermd.ca/join?code=N378PKW9"
+    }
+   ]
+  },
+  {
+   "text": "About Us",
+   "children": [
+    {
+     "text": "Gift Cards",
+     "href": "https://faceskin.zenoti.com/webstoreNew/giftcards/47b033c8-bf43-4cac-9722-8f901dde6590"
+    },
+    {
+     "text": "Exclusive Treatment Plans, Programs & Packages",
+     "href": "/treatment-packages"
+    },
+    {
+     "text": "Memberships",
+     "href": "/memberships"
+    },
+    {
+     "text": "Our Story",
+     "href": "/our-story"
+    },
+    {
+     "text": "Contact Us",
+     "href": "/contact-us"
+    }
+   ]
+  },
+  {
+   "text": "+1 (403) 454-5607",
+   "href": "tel:403-454-5607"
+  }
+ ],
+ "footer": [
+  {
+   "t": "img",
+   "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/39ca3812-efc2-46a5-8e6e-f55204c004e1/Face-Logo-Stacked2.png",
+   "alt": "",
+   "title": "",
+   "sub": "",
+   "link": "/home",
+   "linkText": ""
+  },
+  {
+   "t": "p",
+   "html": "MORE DETAILS"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"/join-the-team\">JOIN THE TEAM </a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"/journal\">JOURNAL </a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"/terms-conditions\">TERMS &amp; CONDITIONS</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"/cancellation-policy\">CANCELLATION POLICY</a>"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"/privacy-policy\">PRIVACY POLICY</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "LocatioN",
+   "html": "LocatioN"
+  },
+  {
+   "t": "p",
+   "html": "#126 – 620 10th Ave SW <br>Calgary, AB <br>T2R 1C3"
+  },
+  {
+   "t": "p",
+   "html": "<a href=\"tel:14034545607\">+1 (403) 454-5607&nbsp;</a><a href=\"mailto:tel:+1?\"><br></a> <br><a href=\"mailto:reception@faceskinandbody.ca?\">Email Us Here</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Hours",
+   "html": "Hours"
+  },
+  {
+   "t": "p",
+   "html": "<strong>Monday:</strong> 10:00am - 6:00pm&nbsp;&nbsp;<br><strong>Tuesday:</strong> 11:00am - 7:00pm&nbsp;&nbsp;<br><strong>Wednesday:</strong>10:00am - 8:00pm&nbsp;&nbsp;<br><strong>Thursday:</strong> 10:00am - 8:00pm&nbsp;&nbsp;<br><strong>Friday:</strong> 10:00am - 7:00pm&nbsp;&nbsp;<br><strong>Saturday:</strong> 10:00am - 5:00pm&nbsp;<br><strong>Sunday:</strong> 10:00 am - 5:00pm"
+  },
+  {
+   "t": "p",
+   "html": "© 2026 Face Skin &amp; Body Bar | All right reserved | Web design by <a href=\"https://studiogiddyup.com\">Studio Giddy Up</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Treatments",
+   "html": "Treatments"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Facials",
+   "html": "<a href=\"/facials\">Facials</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Acne Scars Treatment",
+   "html": "<a href=\"/acne-scars-treatment\">Acne Scars Treatment</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "ACNE FACIALS",
+   "html": "<a href=\"/acne-facials\">ACNE FACIALS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Chemical Peels",
+   "html": "<a href=\"/chemical-peels\">Chemical Peels</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Injectables",
+   "html": "<a href=\"/injectables\">Injectables</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "MEDICAL AESTHETICS",
+   "html": "<a href=\"/medical-aesthetics\">MEDICAL AESTHETICS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Laser Hair Removal",
+   "html": "<a href=\"/laser-hair-removal\">Laser Hair Removal</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Skin Concerns",
+   "html": "Skin Concerns"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Fine Lines & Aging",
+   "html": "<a href=\"/fine-lines-and-aging\">Fine Lines &amp; Aging</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Hyperpigmentation/Sun Damage",
+   "html": "<a href=\"/hyperpigmentation-sun-damage\">Hyperpigmentation/Sun Damage</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Dry/Dehydrated",
+   "html": "<a href=\"/dry-dehydrated\">Dry/Dehydrated</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Dull",
+   "html": "<a href=\"/dull-skin\">Dull</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Acne",
+   "html": "<a href=\"/acne\">Acne</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Sensitive/Rosacea",
+   "html": "<a href=\"/sensitive-rosacea\">Sensitive/Rosacea</a>"
+  },
+  {
+   "t": "img",
+   "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3cab1e6a-2674-49c8-9aa6-78d73a6eb330/face-skin-body-bar-calgary-injectables-laser-facial-1.jpg",
+   "alt": "",
+   "title": "",
+   "sub": "",
+   "link": "",
+   "linkText": ""
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Shop AlumierMD",
+   "html": "Shop AlumierMD"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Shop All Alumiermd",
+   "html": "<a href=\"/shop-alumiermd\">Shop All Alumiermd</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP ESSENTIALS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/essentials?code=N378PKW9\">SHOP ESSENTIALS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP SUNSCREENS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/sunscreens?code=N378PKW9\">SHOP SUNSCREENS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP EYE PRODUCTS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/eye-products?code=N378PKW9\">SHOP EYE PRODUCTS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP CLEANSERS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/cleansers?code=N378PKW9\">SHOP CLEANSERS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP MOISTURIZERS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/moisturizers?code=N378PKW9\">SHOP MOISTURIZERS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP TARGETED SERUMS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/targeted-serums?code=N378PKW9\">SHOP TARGETED SERUMS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP EXFOLIANTS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/exfoliants?code=N378PKW9\">SHOP EXFOLIANTS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP POST PROCEDURE",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/post-procedure?code=N378PKW9\">SHOP POST PROCEDURE</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP COLLECTIONS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/collections?code=N378PKW9\">SHOP COLLECTIONS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP MASKS",
+   "html": "<a href=\"https://www.alumiermd.ca/t/categories/masks?code=N378PKW9\">SHOP MASKS</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHop Gift Cards",
+   "html": "<a href=\"https://faceskin.zenoti.com/webstoreNew/giftcards/47b033c8-bf43-4cac-9722-8f901dde6590\">SHop Gift Cards</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "SHOP Skin Concerns",
+   "html": "SHOP Skin Concerns"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Fine Lines & Aging",
+   "html": "<a href=\"https://www.alumiermd.ca/t/skin-condition/aging?code=N378PKW9\">Fine Lines &amp; Aging</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Hyperpigmentation/Sun Damage",
+   "html": "<a href=\"https://www.alumiermd.ca/t/skin-condition/discoloration?code=N378PKW9\">Hyperpigmentation/Sun Damage</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Dry/Dehydrated",
+   "html": "<a href=\"https://www.alumiermd.ca/t/skin-type/dry-skin?code=N378PKW9\">Dry/Dehydrated</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Dull",
+   "html": "<a href=\"https://www.alumiermd.ca/t/skin-type/dry-skin?code=N378PKW9\">Dull</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Acne",
+   "html": "<a href=\"https://www.alumiermd.ca/t/skin-condition/blemish-prone?code=N378PKW9\">Acne</a>"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Sensitive/Rosacea",
+   "html": "<a href=\"https://www.alumiermd.ca/t/skin-condition/redness-prone-and-sensitive?code=N378PKW9\">Sensitive/Rosacea</a>"
+  }
+ ],
+ "announce": "Winter Skin Rescue: Any 60 Min Facial $140 (Reg. $155) • Any 75 Min Facial $165 (Reg. $185) • Extra savings for members • All Winter Long"
+}

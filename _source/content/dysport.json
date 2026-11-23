@@ -1,0 +1,381 @@
+{
+ "slug": "dysport",
+ "title": "Dysport™ In Calgary — Face Skin & Body Bar",
+ "description": " Book a complimentary consultation today to discuss a customized treatment plan and start your journey to smoother, youthful skin. Call Face Skin & Body Bar!",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/68fad05c4762ac1260b45a56/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/dysport",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/454c2879-7ba1-4729-9be6-62de71241ead/AdobeStock_269743803.jpeg",
+     "alt": "A woman is lying on a medical bed receiving a facial injection from a healthcare professional wearing black gloves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Dysport™ In Calgary",
+     "html": "Dysport™ In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "Ready to soften unwanted lines and restore your natural beauty? Dysport™ is one of the most popular and effective neuromodulator treatment options for smoothing dynamic wrinkles and lines in the face. At Face Skin &amp; Body Bar, we specialize in delivering precise Dysport™ injections to refresh your look in a natural and subtle way"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Line graph with uneven peaks and valleys inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "A simple line drawing of a circle with diagonal lines inside, resembling a patterned sphere or globe.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Dry/Dehydrated"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Everyone Says \"Botox\"",
+     "html": "Why Everyone Says \"Botox\""
+    },
+    {
+     "t": "p",
+     "html": "In the world of aesthetics, one name has become shorthand for an entire category of neuromodulators: BOTOX™. It's a phenomenon similar to calling all facial tissues Kleenex™ or all adhesive bandages Band-Aids™. The brand name has simply become the common noun people use to describe any product in that class."
+    },
+    {
+     "t": "p",
+     "html": "In reality, BOTOX™ is just one of more than four different neuromodulator medications officially approved by Health Canada. Each of these prescription medications works to temporarily relax muscles and smooth wrinkles - but they all have subtle differences in molecular structure, onset time, and diffusion rates."
+    },
+    {
+     "t": "p",
+     "html": "During your initial visit, our Registered Nurse Injector performs a detailed assessment of your medical history and specific goals. After evaluating the lines and wrinkles in the areas you wish to treat, they will then, with the guidance of our Medical Director, prescribe the exact type of neuromodulator medication that will work best for your skin and facial anatomy."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Dysport Works",
+     "html": "How Dysport Works"
+    },
+    {
+     "t": "p",
+     "html": "Dysport™ is an injectable prescription medicine that temporarily relaxes the specific facial muscles responsible for repeated expressions. When we laugh, frown, or squint, the muscle movement creates dynamic wrinkles and lines. This treatment interrupts the signal between the nerve and the muscle, causing the muscle to relax. By allowing the muscle to relax, Dysport™ effectively softens the look of existing deep wrinkles and prevents future lines from developing. The entire Dysport™ procedure is quick and delivers a smoother, refreshed, natural-looking result."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Dysport",
+     "html": "Benefits Of Dysport"
+    },
+    {
+     "t": "p",
+     "html": "Dysport™ provides numerous benefits:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Smooths Wrinkles and Lines:</strong> It significantly reduces the appearance of moderate to severe lines and wrinkles, including crow's feet and forehead wrinkles.",
+      "<strong>Natural Results</strong>: Our precise Dysport™ treatment ensures movement is preserved where desired, giving you beautifully natural results. We aim to enhance your natural beauty.",
+      "<strong>Quick Treatment:</strong> The treatment takes as little as 15 to 25 minutes, fitting easily into your busy schedule.",
+      "<strong>Preventative Care: </strong>Regular Dysport™ injections prevent dynamic lines from etching into static wrinkles.",
+      "<strong>Versatility:</strong> Dysport™ can also be paired with lip fillers and other procedures for total facial rejuvenation. Understanding BOTOX™ and Dysport™ options allows us to tailor a plan just for you."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "The ideal candidate is seeking to treat dynamic wrinkles or fine lines. If you have visible lines when your face is at rest, or deep lines when you animate, Dysport™ can help."
+    },
+    {
+     "t": "p",
+     "html": "Dysport™ is a powerful solution for concerns such as:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Frown lines between the eyebrows (glabella)",
+      "Horizontal forehead wrinkles",
+      "Crow's feet around the eyes",
+      "Subtle fine lines around the mouth"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "We frequently use Dysport™ as a treatment in conjunction with lip or cheek fillers for a balanced approach to natural beauty. We will thoroughly assess whether Dysport™ is the right neuromodulator treatment for your goals during your consultation."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your Dysport™ treatment begins with a thorough consultation to assess your lines and discuss your desired natural results. The treatment itself involves a series of quick, fine injections into the target muscle groups."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "Number Of Treatments Required"
+    },
+    {
+     "t": "p",
+     "html": "The effects of one treatment of Dysport™ typically last between three and four months. To maintain beautifully smooth skin, we recommend scheduling Dysport™ treatments 3 to 4 times per year. Consistency is key to preventing deep wrinkles and fine lines."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Cost",
+     "html": "Treatment Cost"
+    },
+    {
+     "t": "p",
+     "html": "We use the Dysport™ procedure to target several key treatment areas, including the upper face for forehead wrinkles and crow's feet. We also utilize it for non-cosmetic areas like the masseter area (to slim the jawline or treat grinding) and to smooth subtle lines around the mouth. Our expertise covers comprehensive neuromodulator treatment plans."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Clinical Excellence",
+     "html": "Clinical Excellence"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Lead Registered Nurse Injector, Lisane",
+     "html": "<strong>Our Lead Registered Nurse Injector, Lisane</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Your Dysport™ treatment will be administered by Lisane, our Lead Registered Nurse Injector. Lisane brings over a decade of nursing experience combined with extensive training in medical aesthetics, making her an expert in facial anatomy and precision."
+    },
+    {
+     "t": "p",
+     "html": "Lisane has vast experience with all leading neuromodulators, including Dysport™, BOTOX™, and Nuceiva™, and she regularly attends industry conferences and training sessions to stay current. A self-proclaimed perfectionist and a stickler for health and safety standards, Lisane will always put your well-being above everything else."
+    },
+    {
+     "t": "p",
+     "html": "Her dedication is always focused on achieving the most subtle and natural results. Because she is also a trained and experienced Medical Aesthetician, Lisane is uniquely positioned to offer you numerous options during your consultation. She ensures every treatment is precisely tailored to your facial anatomy, enhancing your natural beauty while safely addressing your wrinkles and lines.<br>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "p",
+     "html": "Following your Dysport™ procedure, there is virtually no downtime. You may experience slight redness or minor swelling at the treatment sites, which typically subsides within hours."
+    },
+    {
+     "t": "p",
+     "html": "While some patients notice a softening of lines within a few days, the final, full natural results of your Dysport™ treatment will be visible after about two weeks. We recommend scheduling a follow-up appointment around two weeks after your initial neuromodulator treatment to review your results and ensure you are completely satisfied. The relief from deep wrinkles is worth the wait!"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "We pride ourselves on offering clinical expertise with a focus on natural aesthetic outcomes. Our commitment to using only Health Canada-approved products, combined with the precision of our Lead Injector, Lisane, ensures the highest standard of care for your skin. When you choose us for Dysport™, you are choosing a personalized treatment plan built around your unique natural features."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5edbe995-9096-4bb1-b3a7-7db8e70747b2/face-skin-body-bar-calgary-injectables-laser-treatments-5.jpg",
+     "alt": "A woman in black gloves performing a cosmetic or skincare procedure on a man lying down with eyes closed, in a clinical setting.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Client Testimonials",
+     "html": "Client Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "<em>I switched to Dysport here, and the results are fantastic! The minimal downtime meant I could go right back to work.\"</em>"
+    },
+    {
+     "t": "p",
+     "html": "-A.F., Calgary"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "<em>My frown lines were stubborn. Lisane treated them, and I still look completely natural, just refreshed. Best treatment experience</em>"
+    },
+    {
+     "t": "p",
+     "html": "-&nbsp;K.J."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book A Consultation Today",
+     "html": "<strong>Book A Consultation Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": ". Ready to explore how Dysport™ can refresh your look?"
+    },
+    {
+     "t": "p",
+     "html": "Book your complimentary consultation today to discuss a customized treatment plan and start your journey to smoother, youthful skin."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/a5a59054-e447-41e5-af5a-92c6fe35a493/face-skin-body-bar-calgary-injectables-laser-facial-9.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

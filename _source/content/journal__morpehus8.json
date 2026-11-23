@@ -1,0 +1,218 @@
+{
+ "slug": "journal__morpehus8",
+ "title": "Morpheus8, Neurotoxin & Dermal Fillers — Face Skin & Body Bar",
+ "description": "Explore the benefits of Morpheus8, Botox, and Dermal Fillers—three powerful, non-invasive treatments that rejuvenate, lift, and smooth your skin.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/654408fd22f3995e0f84e20f/1749745324684/FSB_Final-5.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/morpehus8",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"Morpheus8, Neurotoxin & Dermal Fillers   \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/morpehus8\",\"datePublished\":\"2023-11-03T10:31:54-0600\",\"dateModified\":\"2025-06-12T10:22:04-0600\",\"headline\":\"Morpheus8, Botox (neurotoxin) &amp; Dermal Fillers\",\"author\":\"Guest User\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/654408fd22f3995e0f84e20f/1749745324684/FSB_Final-5.jpg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Discover the holy trinity of non-invasive cosmetic treatments: Morpheus8, Neurotoxins (Botox, Dysport, Nuceiva), and Dermal Fillers. Each treatment offers unique benefits for rejuvenating your skin and achieving a refreshed, youthful &amp; rejuvenated appearance."
+    },
+    {
+     "t": "p",
+     "html": "**Please note we use the word Botox in this article to reference the common term for Neurotoxins. There are numerous brands of neurotoxins on the market that are all great at delivering fantastic results for cosmetic purposes. Face prefers Nuceiva due to its effectiveness, its less ‘heavy’ quality and the lower price point per vial which is then passed on to our clients via a lower price point per unit."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5edbe995-9096-4bb1-b3a7-7db8e70747b2/face-skin-body-bar-calgary-injectables-laser-treatments-5.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Erase Lines and Wrinkles Safely and Effectively with Botox (Neurotoxin)",
+     "html": "Erase Lines and Wrinkles Safely and Effectively with Botox (Neurotoxin)"
+    },
+    {
+     "t": "p",
+     "html": "Neurotoxin more commonly known as Botox is the ultimate anti-wrinkle solution. It offers a safe and effective way to soften<a href=\"/fine-lines-and-aging\"> fine lines and wrinkles</a> without sacrificing natural facial expressions. Whether it's crow's feet, frown lines, furrows, or forehead lines, Neurotoxin (Botox, Nuceiva, Dysport) delivers impressive results and is now more affordable than ever. This is because the market has been flooded with other brands like Nuceiva, Dysport &amp; Letybo that offer more competitive pricing with the same results achieved. With customized treatment plans tailored to suit your budget, you can enjoy visible results in just three to seven days. Neurotoxin can be used as a preventative measure in your late 20s or early 30s or a complete reversal &amp; softening of most lines/wrinkles in your 40s."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "What to Expect During Your Botox Appointment",
+     "html": "What to Expect During Your Botox Appointment"
+    },
+    {
+     "t": "p",
+     "html": "An experienced Nurse Injector injects a small amount of Neurotoxin (Botox, Nuceiva or Letybo) into the specific muscles responsible for your wrinkles. This blocks nerve signals, causing the muscles to relax and reducing the appearance of lines and wrinkles. With a procedure duration ranging from 15 to 45 minutes, Botox fits easily into your busy schedule."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Post-Procedure Care",
+     "html": "Post-Procedure Care"
+    },
+    {
+     "t": "p",
+     "html": "After your injections, avoid rubbing or massaging the treated areas to prevent unwanted spreading of the toxin. Steer clear of strenuous activity, flying, or lying down for a few hours to allow the Neurotoxin to settle. This is a great treatment for booking on your lunch break or before heading out as you can apply mineral-based make-up immediately afterward."
+    },
+    {
+     "t": "p",
+     "html": "The best part? You'll start seeing results within just three to seven days after your procedure."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/a70901c0-ee17-40bb-baa0-45d1979af154/face-skin-body-bar-calgary-injectables-laser-treatments-4.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Morpheus8: The Ultimate Skin Rejuvenation Solution",
+     "html": "Morpheus8: The Ultimate Skin Rejuvenation Solution"
+    },
+    {
+     "t": "p",
+     "html": "Experience the cutting-edge technology of Morpheus8, a state-of-the-art microneedling device that combines fractional radiofrequency and microneedling techniques. By stimulating collagen production deep within your skin, Morpheus8 effectively reduces fine lines, wrinkles, and other signs of aging. Say goodbye to sagging skin and hello to a more youthful, tight, and elastic complexion. Suitable for all skin types, Morpheus8 guarantees long-lasting results without the downtime or risks associated with invasive procedures."
+    },
+    {
+     "t": "p",
+     "html": "It is used to safely and effectively treat anti-aging concerns by tightening sagging jowls, double chins, or treating the laxity in the neck. It can restore volume and elasticity to the sensitive eye area and can also be used to treat stretch marks and laxity in the abdominal area, which is great for post-partum or after losing weight."
+    },
+    {
+     "t": "p",
+     "html": "The resurfacing tip is great for treating <a href=\"/acne\">acne scars</a> and unnecessary texture on the skin resulting in a smooth, glass like complexion. We offer the resurfacing tip at the end of a regular treatment series or within a standard 4 treatment Acne Series."
+    },
+    {
+     "t": "p",
+     "html": "It should also be noted that people with darker skin what’s considered a fitzpatrick 3 or 4 or higher should pre treat their skin prior to the initial appointment this is to avoid any potential for increasing pigment and will optimize the results. If you fall into this category always meet with a practitioner ahead of time and discuss options and duration for pre-treatment prior to starting your series."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Morpheus8 Procedure",
+     "html": "The Morpheus8 Procedure"
+    },
+    {
+     "t": "p",
+     "html": "We numb your skin with a powerful topical anesthetic, then let the magic begin. The Morpheus8 device is delivered to the treatment area by a stamping motion (very similar to traditional microneedling but with 24 gold tip pins), tiny needles penetrate and emit radiofrequency energy. The procedure typically takes less than an hour, with redness and swelling subsiding within a few days. If your abdomen is treated the redness and marks from the treatment take longer to dissipate. Initial results will be seen within weeks and a continuous improvement for up to three months as new collagen is formed. Optimal results are seen 12 weeks after the last treatment and a series of 3 or 4 is recommended the first time you do it and then once a year after that for maintenance."
+    },
+    {
+     "t": "p",
+     "html": "The experience level of a practitioner is incredibly important for results. The power of the device is really impressive, but only when the clinic knows how to use it. Numerous depths, modes, and energy levels can be used to target different concerns (<a href=\"/fine-lines-and-aging\">anti-aging</a>, fatty deposits, skin tightening, resurfacing or <a href=\"/acne\">acne</a>). This is where the expertise lies with the provider in having a thorough understanding of the theory and science behind the device. Make sure to ask for case studies and before &amp; afters achieved at the clinic when doing your due diligence."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Aftercare Instructions for Morpheus8 Treatments",
+     "html": "Aftercare Instructions for Morpheus8 Treatments"
+    },
+    {
+     "t": "p",
+     "html": "To minimize redness and swelling, apply a cold pack. Keep your skin moisturized, avoid sun exposure, and use broad-spectrum SPF 30 or higher. Skip makeup for 24 hours and opt for gentle cleansers without harsh chemicals or exfoliants. <a href=\"/dry-dehydrated\">Hydrate your skin</a> by drinking plenty of water and refraining from strenuous activities that induce excessive sweating for the first 24 hours. At Face, we provide everyone with a beautiful <a href=\"/shop-alumiermd\">AlumierMD</a> after-care kit that includes everything you need."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1687984771222-88GBF1CVKN7ADWM08GTI/face-skin-body-bar-calgary-injectables-laser-treatments-2.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Enhance Your Look and Restore Volume with Dermal Fillers",
+     "html": "Enhance Your Look and Restore Volume with Dermal Fillers"
+    },
+    {
+     "t": "p",
+     "html": "Rediscover a youthful appearance without going under the knife or dealing with downtime. Dermal fillers are the secret to replenishing lost volume, smoothing out lines, and enhancing your facial contours. Say goodbye to sunken cheeks and hello to a fuller, more youthful face. Smooth away vertical lip lines and plump up your lips for an irresistibly attractive pout. Bid farewell to chin creases and hello to a refined jawline. Dermal fillers can even bring balance and harmony to your facial features, creating a stunning overall look."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Comfortable, Precise Treatments for Stunning Results",
+     "html": "Comfortable, Precise Treatments for Stunning Results"
+    },
+    {
+     "t": "p",
+     "html": "Don't let a little discomfort deter you from achieving your desired look. We prioritize your comfort by applying numbing creams or gels to the treatment area when warranted. Most filler brands come with built-in anesthetics for a virtually painless experience. Our skilled practitioners use fine needles to inject the fillers into the targeted areas, ensuring precise depth and placement."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Simple Aftercare for Long-Lasting Results",
+     "html": "Simple Aftercare for Long-Lasting Results"
+    },
+    {
+     "t": "p",
+     "html": "Post-procedure care is essential for optimal results. Our experts provide you with detailed instructions to follow, including avoiding strenuous activities, excessive heat, sun exposure, and refraining from touching or massaging the treated areas for a specific duration. We've got you covered every step of the way."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5804fcb8-902c-400e-b0b0-46ce94d97ca2/face-skin-body-bar-calgary-injectables-laser-facial-6.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Combining Morpheus8, Botox, and Dermal Fillers for The Optimal Skin Rejuvenation",
+     "html": "Combining Morpheus8, Botox, and Dermal Fillers for The Optimal Skin Rejuvenation"
+    },
+    {
+     "t": "p",
+     "html": "Why settle for just one treatment when you can have it all? By combining Morpheus8, Botox, and Dermal Fillers, you can enjoy the immediate results of Botox and Dermal Fillers, as well as the long-lasting benefits of Morpheus8."
+    },
+    {
+     "t": "p",
+     "html": "Morpheus8 should also decrease the number of units of Botox you traditionally received. The best timing to use all of these treatments together would be to either complete a Morpheus8 series, wait a minimum of 2 weeks then top up any lines with Botox or enhance and contour with any dermal fillers. If you are interested in lip fillers, they could safely be delivered at any time during your Morpheus8 series. If you are one of those who need to get Botox regularly people you should book in within the window between a minimum of 2 weeks after your Morpheus8 treatment and a maximum of 2 weeks ahead of your next Morpheus8 appointment"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "A Holistic Approach to Anti-Aging",
+     "html": "A Holistic Approach to Anti-Aging"
+    },
+    {
+     "t": "p",
+     "html": "This comprehensive approach to skin rejuvenation ensures you are combating the signs of aging from a complete and holistic approach. The power of Medical Grade skincare can also not be understated. Do not invest in these services unless you use quality skin care at home. You will reap the benefits of a quality skin care regime and be rewarded with the best results possible from the more expensive treatments."
+    },
+    {
+     "t": "p",
+     "html": "We understand that not everyone can afford or be willing to invest in all of these amazing treatment options all at once, nor is it 100% necessary for everyone. We pride ourselves on an open and transparent consultation process with our clients and work within their budgets to provide them with the most optimal treatment plan to address their concerns. We also offer payment plans for treatment series and with the purchase of 2 or more vials of <a href=\"/injectables\">Dermal Fillers</a>, so please be sure to discuss with our practitioners during the consultation process."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Ready to Learn More?",
+     "html": "Ready to Learn More?"
+    },
+    {
+     "t": "p",
+     "html": "If you would like to know more about any or all of these treatments, please schedule a free consultation with one of our skincare professionals by calling the clinic at <a href=\"tel:4034545607\">(403) 454-5607</a> or book online directly through our <a href=\"https://faceskin.zenoti.com/webstoreNew/services\">website.</a>"
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "Morpheus8, Botox (neurotoxin) & Dermal Fillers",
+  "date": "Nov 3",
+  "datetime": "2023-11-03",
+  "author": "Written by Guest User"
+ }
+}

@@ -1,0 +1,477 @@
+{
+ "slug": "rf-microneedling",
+ "title": "RF Microneedling In Calgary — Face Skin & Body Bar",
+ "description": "Ready to experience the benefits of RF Microneedling in Calgary. Refresh and improve your skin with treatments at Face Skin & Body Bar.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/68668f2756a13a13bfa63096/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/rf-microneedling",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/32a0ea37-83c3-4620-81d0-5b579d0e139e/RF+Microneedling+Calgary+%281%29.jpg",
+     "alt": "Close-up of two women, one with dark skin and short hair, the other with light skin and long, platinum blonde hair, looking at each other against a beige background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "RF Microneedling In Calgary",
+     "html": "RF Microneedling In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>Advanced RF Microneedling for Anti-Aging, Acne Scar Revision, and Facial Contouring at Face Skin &amp; Body Bar in Calgary!</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Line graph illustration with three sliders on a black background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "ACNE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Black background with a gray circle and an X crossing through the circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Oscilloscope displaying a waveform within a circular frame.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "DULL"
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is RF Microneedling?",
+     "html": "What Is RF Microneedling?"
+    },
+    {
+     "t": "p",
+     "html": "RF Microneedling is a cutting-edge cosmetic procedure available at Face Skin &amp; Body Bar in Calgary that combines the benefits of traditional microneedling with the power of radiofrequency energy."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How RF Microneedling Works",
+     "html": "How RF Microneedling Works"
+    },
+    {
+     "t": "p",
+     "html": "This innovative Microneedling treatment involves the use of tiny, sterile needles to create micro-injuries in the skin, stimulating the body's natural healing response, which in turn creates collagen and elastin. Simultaneously, RF Energy is delivered deep into the dermis, the underlying layer of the skin. This dual-action approach of Microneedling amplifies the results compared to microneedling alone, leading to significant improvements in various skin concerns. The controlled thermal damage caused by the radiofrequency energy further enhances collagen synthesis and Skin Tightening, making this a highly effective solution for facial rejuvenation, acne scar revision, and overall skin improvement.&nbsp;"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of RF Microneedling",
+     "html": "Benefits Of RF Microneedling"
+    },
+    {
+     "t": "p",
+     "html": "The benefits of Microneedling are extensive, making it a popular choice for individuals in Calgary seeking non-surgical skin enhancement. Primarily, it’s a powerful tool for stimulating Collagen Production. The micro-injuries trigger the body's natural healing mechanisms, leading to the growth of new collagen and elastin fibres. The addition of RF Energy intensifies this process, resulting in noticeable skin tightening and a reduction in fine lines and wrinkles."
+    },
+    {
+     "t": "p",
+     "html": "Beyond anti-aging, Microneedling is highly effective in treating acne scars. By breaking down old scar tissue and stimulating new collagen production, Microneedling can significantly improve the texture and appearance of acne scars, leading to smoother skin. Furthermore, it can address various other skin concerns, including improving overall skin texture and tone, reducing pore size, and even minimizing the appearance of stretch marks on areas like the abdomen and thighs. The ability to target multiple layers of the skin makes it a versatile treatment for comprehensive facial and body rejuvenation. The enhanced collagen synthesis achieved through Microneedling contributes to long-lasting improvements in skin quality."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "Ideal candidates for RF Microneedling at Face Skin &amp; Body Bar in Calgary include individuals looking to address fine lines and wrinkles, sagging skin, and textural irregularities. Those with acne scars seeking significant improvement are also excellent candidates for Microneedling. Furthermore, individuals with enlarged pores, uneven skin tone, or those experiencing early signs of aging can benefit from the skin tightening and collagen production stimulated by Microneedling. It is also a suitable option for individuals seeking non-surgical facial remodelling and contouring, such as jawline definition and cheek lifting. While Microneedling is generally safe for most skin types, a thorough consultation is essential to determine individual suitability and discuss any specific skin concerns."
+    },
+    {
+     "t": "p",
+     "html": "Those already invested in their skin health through the \"ABCs\" of skincare—Retin-A (Retinols), Broad Spectrum SPF, and Vitamin C—are also excellent candidates for RF Microneedling. These key ingredients prime the skin for the treatment, contributing to improved skin texture, enhanced collagen synthesis, and sustained results."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Treatable Areas",
+     "html": "Treatable Areas"
+    },
+    {
+     "t": "p",
+     "html": "RF Microneedling is a versatile treatment that can address a wide range of areas on the face and body. Common treatable areas include the full face, targeting fine lines and wrinkles, sagging skin, and overall rejuvenation. The delicate skin around the eyes can also be treated to address crow's feet. The neck area, often showing signs of aging, responds well to Microneedling for skin tightening. Beyond the face and neck, this treatment can be used on the upper arms to address laxity, the abdomen for Skin Tightening and Stretch Marks, the upper thighs for skin texture improvement, and even the knees to tighten loose skin. The versatility of RF Energy delivery through microneedling treatments allows for targeted treatment of various skin concerns across different body regions."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From The Treatment",
+     "html": "What To Expect From The Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Before your RF Microneedling session at Face Skin &amp; Body Bar in Calgary, a topical anaesthetic will be applied to the treatment area for approximately 45 to 60&nbsp; minutes to minimize discomfort. During the procedure, our skilled practitioners will use a handheld device equipped with tiny needles to create controlled micro-injuries on the skin's surface while simultaneously delivering RF Energy to the deeper layers. The depth and intensity of the RF Energy can be adjusted based on your specific skin concerns and treatment goals. The sensation during the session can vary, but is generally described as a tolerable prickling or warming sensation. The entire appointment typically lasts between 1.5 to 2 hours, including the numbing time.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "For your peace of mind, our Medical Aestheticians have extensive experience, rigorous clinical training, and continuous education on the most current peer-reviewed advancements in this technology. This dedication translates to a more comfortable and effective treatment, featuring precise parameter adjustments and confident techniques designed to achieve optimal outcomes for your specific skin concerns, enhancing your comfort and overall experience."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The number of treatments required to achieve optimal results depends on the individual and the specific skin concerns being addressed. For anti-aging and general facial rejuvenation, a series of 1 to 3 sessions may be recommended. For more significant acne scars or facial remodelling, 3 to 4 microneedling treatments may be necessary. Facial resurfacing typically requires 1 to 3 sessions. Treatments are usually spaced 4 to 6 weeks apart and up to 8 weeks for any body part below the neck to allow for adequate healing and collagen synthesis. A consultation with our experts at Face Skin &amp; Body Bar is crucial to determine the ideal number of Microneedling sessions for your needs."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "What Does RF Microneedling Feel Like?",
+     "html": "<strong>What Does RF Microneedling Feel Like?</strong>"
+    },
+    {
+     "t": "p",
+     "html": "While a topical anesthetic is applied, some individuals may still experience a mild prickling, pressure, or warming sensation during the procedure. The level of discomfort is generally well-tolerated and is often described as a 3.5 out of 5 on a discomfort scale. Our practitioners at Face Skin &amp; Body Bar in Calgary are committed to ensuring your comfort throughout the entire Microneedling treatment.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Our experienced RF Microneedling providers, having performed a high volume of treatments, are adept at ensuring a more comfortable experience. Their confidence and skill enable precise and efficient procedures with optimized parameter adjustments."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "RF Microneedling cost",
+     "html": "<strong>RF Microneedling cost</strong>"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar in Calgary, single-session RF Microneedling treatments range from <strong>$550 to $750</strong>, depending on the size of the target area and the complexity of your skin concerns. Smaller targeted zones—such as the lower face, neck, or isolated areas—sit at the lower end of the spectrum, while full-face and combined face-and-neck treatments represent the full area investment."
+    },
+    {
+     "t": "p",
+     "html": "While a single procedure delivers visible refinements in skin texture and tone, achieving optimal, long-lasting collagen stimulation and tissue tightening typically requires a series of three to four sessions. To make your long-term skin health goals more attainable, we offer multi-treatment package options that reduce the individual cost per session. During your initial consultation, our clinical team will evaluate your skin, discuss your primary goals, and provide a transparent, customized pricing plan tailored specifically to you."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Results",
+     "html": "<strong>Results</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The results of Microneedling are gradual and progressive, but well worth the wait. You may notice some initial skin tightening and improvement in skin texture immediately after and within a few weeks after your first session. However, the most significant results, driven by new collagen production and enhanced collagen and elastin, will typically become visible over the following 3 months. You can expect a reduction in fine lines and wrinkles, improved acne scars, enhanced skin texture and tone, laxity and overall facial rejuvenation."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "RF Microneedling After Care",
+     "html": "<strong>RF Microneedling After Care</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Following your Microneedling treatment at Face Skin &amp; Body Bar, your skin may appear slightly red and feel warm, similar to a mild sunburn. This is normal and usually subsides within 1 to 3 days. It is crucial to keep your skin well-hydrated with gentle moisturizers and avoid direct sun exposure. We recommend using a broad-spectrum sunscreen with a high SPF. Avoid any skincare products with active ingredients (Retinols, Vitamin C, or Acids), avoid any exfoliation, avoid heat and pools for 3 days, and strenuous activities for a few days post-treatment.&nbsp;&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We provide all of our clients with an AlumierMD post-procedure kit that contains a gentle facial cleanser, a recovery balm that soothes and hydrates the skin, and a broad-spectrum SPF that can be used for up to a week after the treatment.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We ask all clients to plan for 1 to 3 days of downtime, not work out for 24 hours, and avoid the sun and other sources of heat for the first couple of days following the procedure."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Recovery Timeline",
+     "html": "<strong>Recovery Timeline</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The recovery timeline after RF Microneedling is relatively short. Most individuals can return to their normal activities <strong>within 1 to 3 days</strong>. The initial redness and swelling typically resolve within this timeframe. Continued improvement in your skin will be noticeable over the following weeks and months as new collagen synthesis occurs."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before & After",
+     "html": "Before &amp; After"
+    },
+    {
+     "t": "p",
+     "html": "View our impressive before-and-after photos of RF Microneedling results achieved at Face Skin &amp; Body Bar."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053486173-9VV3M8YIBZ3L97IR0VUF/1.png",
+     "alt": "Morpheus8 (Copy) (Copy)"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053488742-QBDQ9MB0ISGH8DH5HAOR/2.png",
+     "alt": "Morpheus8 (Copy) (Copy)"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053502760-F5WEKOUEX1B12ECQ279X/3.png",
+     "alt": "Morpheus8 (Copy) (Copy)"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1690858544662-JRDA9J5ESVQ2Y7HI0GVW/morpheus8-before-after-dr-j-hellman-preview-7.png",
+     "alt": "morpheus8-before-after-dr-j-hellman-preview-7.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053502941-MBNF6Y6RAZMA2HFW37QZ/4.png",
+     "alt": "Morpheus8 (Copy) (Copy)"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053513310-4WEP5Y5AT9TX3XIV1P0O/5.png",
+     "alt": "Morpheus8 (Copy) (Copy)"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053513786-CZIWHPY753KOEIZ6VLWH/6.png",
+     "alt": "6.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053567490-GA0ISJMAACR9AJCAOGR1/7.png",
+     "alt": "7.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053567790-JZF4MNE9R6A18A0HH48P/8.png",
+     "alt": "8.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053576182-T9P3BD814B9Y0KRYCKD7/9.png",
+     "alt": "9.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1752091971354-5Q75ONI6GU13TTO5Z3J6/IMG_1889.JPEG",
+     "alt": "IMG_1889.JPEG"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar in Calgary, we specialize in advanced RF Microneedling techniques. Our providers have undergone extensive training and possess the expertise to deliver outstanding and safe results. We prioritize personalized care, taking the time to understand your unique skin concerns and tailor our treatments accordingly. Our commitment to using cutting-edge technology and adhering to the highest safety standards ensures you receive the best possible care."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/020d1f1a-4e54-4c3c-9cab-8dffd6551d20/face-skin-body-bar-calgary-injectables-laser-treatments-4.jpg",
+     "alt": "A woman receives a facial treatment using a handheld device from a skincare professional in a clinic setting.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Morpheus8 RF Microneedling Testimonials",
+     "html": "Morpheus8 RF Microneedling Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "I’ve been seeing Wendy for my Morpheus 8 treatment, and she has been very supportive during the entire process. My scarring and texture have improved, making my skin look smoother. My jawline has also become more defined, and my skin feels tighter; this has definitely made my face look slimmer!"
+    },
+    {
+     "t": "p",
+     "html": "-David Sam"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I received a series of treatments between July'23 and Mar'24, and I cannot say how happy I am! Wendy (my consultant) was professional, knowledgeable and friendly throughout the process. The clinic is extremely clean and pleasant. All around, an incredible experience!”"
+    },
+    {
+     "t": "p",
+     "html": "- Todd Hirsch"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "Very knowledgeable staff, kind, caring, paying attention to details and professional. I had a Morpheus treatment. I am already extremely happy with my results. This place is well worth the drive for their awesome beauty treatments."
+    },
+    {
+     "t": "p",
+     "html": "-Lisa M."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Get Started - Book A Consultation Today",
+     "html": "<strong>Get Started - Book A Consultation Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Ready to experience the transformative benefits of <strong>RF Microneedling</strong>? Contact Face Skin &amp; Body Bar in Calgary today to schedule your complimentary consultation. Our expert team will assess your <strong>skin</strong> and create a personalized plan to address your specific needs and help you achieve your desired results."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

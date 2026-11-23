@@ -1,0 +1,97 @@
+{
+ "slug": "contact-us",
+ "title": "Contact Us — Face Skin & Body Bar",
+ "description": "Calgary’s only open-concept facial bar, laser & injectables clinic. Located in the Beltline—start your personalized skincare journey with expert treatments.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e40057139ea3268df8cd33/1692663895668/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/contact-us",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/75173bb9-1ab3-4170-b076-7464ceb36e7d/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg",
+     "alt": "Two women with colorful hydrojelly masks on, one with blue and the other with pink, standing close and looking at the camera against a beige background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Contact",
+     "html": "Contact"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Location",
+     "html": "Location"
+    },
+    {
+     "t": "p",
+     "html": "#126 - 620 10th Ave SW <br>Calgary, AB, T2R 1C3"
+    },
+    {
+     "t": "p",
+     "html": "You can find us on the ground floor of the SODO Building, just two doors down from Orchard."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Get in touch",
+     "html": "Get in touch"
+    },
+    {
+     "t": "p",
+     "html": "<a href=\"tel:403-454-5607\">(403) 454-5607 </a><br><a href=\"mailto:reception@faceskinandbody.ca?subject=Website%20Inquiry\">reception</a><a href=\"mailto:info@faceskinandbody.ca\">@faceskinandbody.ca</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Hours",
+     "html": "Hours"
+    },
+    {
+     "t": "p",
+     "html": "Monday: 10:00am - 6:00pm <br>Tuesday: 11:00am - 7:00pm <br>Wednesday: 11:00am - 7:00pm <br>Thursday: 11:00am - 7:00pm <br>Friday: 10:00am - 6:00pm <br>Saturday: 10:00am - 5:00pm <br>Sunday: 10:00am - 5:00pm"
+    },
+    {
+     "t": "p",
+     "html": "Holidays: 10:00am - 5:00pm"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Parking",
+     "html": "Parking"
+    },
+    {
+     "t": "p",
+     "html": "Street parking is available along 10th Ave SW. This parking is FREE after 6 PM on weekdays and all day Saturday &amp; Sunday."
+    },
+    {
+     "t": "p",
+     "html": "Alternatively, there is the underground Indigo Lot #156 and Impark Lot #82 west of the building."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

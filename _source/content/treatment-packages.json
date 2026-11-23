@@ -1,0 +1,190 @@
+{
+ "slug": "treatment-packages",
+ "title": "Custom Skin Treatment Packages Calgary — Face Skin & Body Bar",
+ "description": "Get advanced medical aesthetics treatments with customizable packages. Achieve your best skin through expert care and tailored, effective solutions.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64a768cb6f6f9064e510664d/1688692939880/face-skin-body-bar-calgary-injectables-laser-treatments-11.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/treatment-packages",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/38979e0f-16d5-45c1-b057-bcfda322122e/face-skin-body-bar-calgary-injectables-laser-treatments-12.jpg",
+     "alt": "Portrait of three diverse young adults standing close together against a plain beige background, looking directly at the camera demonstrating all the skin types that Face Skin & Body Bar can treat effectively",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Transform your skin: Schedule a complimentary consultation with Calgary’s leading facial rejuvenation experts.",
+     "html": "Transform your skin: Schedule a complimentary consultation with Calgary’s leading facial rejuvenation experts."
+    },
+    {
+     "t": "p",
+     "html": "Imagine a treatment plan designed exclusively for you. At Face Skin and Body Bar, we specialize in creating comprehensive, customizable packages that address your specific skincare goals. Our experts will listen, assess, and develop a tailor-made strategy from our wide range of advanced treatments &amp; technologies, ensuring you achieve the \"wow\" moment you've been waiting for."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/f1ef13d0-4b7b-4619-94cc-030b5a0df91c/face-skin-body-bar-calgary-injectables-laser-treatments-15.jpg",
+     "alt": "A woman with short curly hair applying or demonstrating skincare, with a white facial mask on her cheek.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Exclusive Treatment Plans",
+     "html": "<strong>Our Exclusive Treatment Plans</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our experience has taught us that each client is unique, with different goals, conditions, budgets, and time constraints. We have curated treatment packages that are fully customizable based on individual needs, so you are left feeling confident and excited about your plan of care."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "See What's Possible: Explore Our Example Treatment Plans.",
+     "html": "<strong>See What's Possible: Explore Our Example Treatment Plans</strong>."
+    },
+    {
+     "t": "p",
+     "html": "<em>While this list is not meant to be comprehensive, it provides a clear example of our ability to address and effectively reverse various skin concerns thanks to our wide range of available services.</em>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Exclusive Lift & Define Collection",
+     "html": "The Exclusive Lift &amp; Define Collection"
+    },
+    {
+     "t": "p",
+     "html": "<strong>See Visible Lifting &amp; Definition: Our Calgary-Exclusive Facial &amp; Neck Rejuvenation Plan.</strong> Combining the proven power of RF Microneedling and our unique Non-Invasive Facelift device, this tier delivers significant results: lifted cheeks, a more defined jawline, and a reduction in double chin fat. Tailor your plan by including optional targeted therapies, neurotoxin, or peels. Recognizing its crucial role in maximizing and sustaining your results, the AlumierMD Rejuvenating Collection is an integral part of this transformative plan, ensuring lasting skin health and radiance."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Plan Duration:",
+     "html": "Treatment Plan Duration:"
+    },
+    {
+     "t": "p",
+     "html": "5 to 12 months for the full plan"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Bridal Skin Prep Collection",
+     "html": "Bridal Skin Prep Collection"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Say \"I Do\" to Glowing Skin: Your Calgary Bridal Prep Journey.</strong> Our Bridal Skin Prep package is designed to give Calgary brides clear, radiant skin ready for every photo on their big day. We recommend a personalized 12-24 week plan that may include a series of 5 Medical Grade Peels with an AlumierMD Prep &amp; Enhance Kit, 6 Radiofrequency Skin Tightening sessions, or a series of 3 Microneedling Treatments. We'll complete your glow with a final Dermaplaning or Forma Facial just days before your wedding or special event."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Plan Duration:",
+     "html": "Treatment Plan Duration:"
+    },
+    {
+     "t": "p",
+     "html": "3-6 months for the full plan"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Texture & Tone Transformation",
+     "html": "Texture &amp; Tone Transformation"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Refine Texture &amp; Even Skin Tone: </strong> This treatment plan includes 3 Microneedling sessions for smoother skin, 3 Medical Grade Peels to improve tone and clarity, and a personalized AlumierMD Prep &amp; Enhance Kit to support your skin's journey to a more balanced complexion."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Plan Duration:",
+     "html": "Treatment Plan Duration:"
+    },
+    {
+     "t": "p",
+     "html": "&nbsp;15 weeks for the full plan"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1687984771510-491W47S2XYTRX1HFLRPN/face-skin-body-bar-calgary-injectables-laser-treatments-6.jpg",
+     "alt": "A woman receiving an IPL Treatment for redness and rosacea while lying on a treatment bed. A technician wearing black scrubs and gloves operates a handheld device near her face, which has protective goggles on.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Wedding Skincare Packages",
+     "html": "<strong>Our Wedding Skincare Packages</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Over the years, we have worked with many brides, grooms and wedding parties to successfully achieve their desired skincare goals ahead of their wedding day. As experts and trusted advisors within the industry, we understand how crucial skin preparation can be in boosting your confidence and allowing you to focus on what truly matters on your big day."
+    },
+    {
+     "t": "p",
+     "html": "To book a consultation, we encourage you to call the clinic and ask to book in for a Treatment Package Consultation with our Clinical Manager, Wendy. You can view our example treatment packages and offerings below."
+    },
+    {
+     "t": "btn",
+     "text": "View Packages",
+     "href": "/s/Face-Wedding-Packages-Client-Facing.pdf"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/6b8ad6ad-ce16-4f8a-8074-53af54d926f0/Medicard_1024x380.png",
+     "alt": "Medicard",
+     "title": "",
+     "sub": "",
+     "link": "https://apply.medicard.com/22673",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

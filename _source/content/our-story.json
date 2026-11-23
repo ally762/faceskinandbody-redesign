@@ -1,0 +1,254 @@
+{
+ "slug": "our-story",
+ "title": "Our Story — Face Skin & Body Bar",
+ "description": "Face Skin & Body Bar is Calgary’s premier skincare clinic. We specialize in targeted facial treatments, injectables and medical aesthetics.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64a768cb6f6f9064e510664d/1688692939880/face-skin-body-bar-calgary-injectables-laser-treatments-11.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/our-story",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/a70901c0-ee17-40bb-baa0-45d1979af154/face-skin-body-bar-calgary-injectables-laser-treatments-4.jpg",
+     "alt": "A woman receiving a radiofrequency microneedling facial treatment to build collagen and elastin with a handheld skincare device from a practitioner.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Calgary’s Premier Skincare Clinic",
+     "html": "Calgary’s Premier Skincare Clinic"
+    },
+    {
+     "t": "p",
+     "html": "Experience the difference at Face Skin &amp; Body Bar, Calgary's premier skincare clinic. We offer a comprehensive range of targeted facial treatments and non-surgical aesthetic procedures designed to help you achieve your desired results. Our specialties include skin tightening, acne scar revision, and the correction of discoloration (redness and pigmentation). From complimentary consultations to thoughtfully curated treatment packages and programs, our team of highly skilled Clinical Estheticians and Registered Nurse Injectors will guide you every step of the way. We're committed to helping you look and feel your best."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8c400b15-271d-4162-b3d5-10fd02f05178/faceskinbodybar-328-e1643408415978.jpg",
+     "alt": "Two women smiling standing close together against a plain white wall, one with blond hair wearing a floral shirt, the other with black hair wearing a black sleeveless top.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Meet the Team",
+     "html": "<strong>Meet the Team</strong>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "LISANE MARINS, BSCN,RN - CO-FOUNDER + Clinical Director & Lead Injector",
+     "html": "LISANE MARINS, BSCN,RN - CO-FOUNDER + Clinical Director &amp; Lead Injector"
+    },
+    {
+     "t": "p",
+     "html": "With a Bachelor of Science in Nursing and over 16 years of medical experience, Lisane is the clinical heart and visionary behind our practice. After a distinguished decade-long career as a Registered Nurse working in a variety of roles, she transitioned into medical aesthetics by completing advanced clinical programs in neurotoxins and dermal fillers. As our Co-Founder, Clinical Director, and Lead Injector, she personally developed the treatment protocols and safety standards that define our clinic."
+    },
+    {
+     "t": "p",
+     "html": "Lisane remains a hands-on provider, delivering precise injectable treatments and advanced RF microneedling with a focus on anatomical safety. She specializes in crafting detailed, long-term treatment plans that prioritize natural-looking rejuvenation and medical excellence. Driven by an unwavering pursuit of knowledge, Lisane ensures every custom skin journey is rooted in the highest standards of nursing care."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Heather Dybvig - Co-Founder + Manager of Operations",
+     "html": "Heather Dybvig - Co-Founder + Manager of Operations"
+    },
+    {
+     "t": "p",
+     "html": "With over a decade of high-level corporate leadership experience in Calgary, Heather is the operational force behind Face Skin &amp; Body Bar. Her background in high-level project management and private-sector strategy ensures that our clinic operates with precise professional standards. As Co-Founder, she translates her corporate know-how into a seamless client experience, managing the business’s growth and daily excellence. When she isn’t overseeing the clinic’s operations, you’ll find her at the front desk, committed to providing a warm and organized welcome to every guest."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Wendy, bsc, cidesco | Clinic Manager & Lead Medical Aesthetician",
+     "html": "Wendy, bsc, cidesco | Clinic Manager &amp; Lead Medical Aesthetician"
+    },
+    {
+     "t": "p",
+     "html": "A cornerstone of our clinic since 2020, Wendy has built a loyal following through her detailed approach and authentic commitment to long-term skin health. Holding a Bachelor of Science from the University of Calgary, an internationally recognized CIDESCO Esthetics Diploma, and a Clinical Aesthetics Diploma, she seamlessly merges academic rigor with aesthetic technique to deliver thoughtful, evidence-based care."
+    },
+    {
+     "t": "p",
+     "html": "Wendy specializes in high-impact corrective treatments, including RF microneedling, non-invasive lower facelifts, and advanced skin tightening. Renowned for her expertise in designing custom combination therapies and targeted medical-grade peel protocols, she tailors every regimen to the individual. Whether executing a complex clinical procedure or curating a personalized home-care routine, Wendy’s focus remains constant: achieving visible, lasting results that elevate her clients' natural skin."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/25a84aa3-cf50-4862-ad74-3a9fac545fb6/7015EC25-4105-4010-86F8-F21975179D16.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Useway - Senior MEdical Aesthetician",
+     "html": "Useway - Senior MEdical Aesthetician"
+    },
+    {
+     "t": "p",
+     "html": "With over eight years of clinical experience, Useway brings deep industry knowledge and refined expertise to our practice. She focuses heavily on advanced facial rejuvenation, specializing in targeted strategies to manage acne, clear complexions, and address the visible signs of aging."
+    },
+    {
+     "t": "p",
+     "html": "Useway is skilled in utilizing advanced clinical technologies, including IPL for reducing redness and pigmentation, and radiofrequency microneedling to boost collagen and refine skin texture. Combining technical precision with a attentive approach, she customizes every procedure to help clients achieve clear, vibrant, and long-lasting results."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ce3c9f88-a4a7-495d-9597-07c0a7c119f0/Usewaywebsite.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Misty- senior Medical Aesthetician",
+     "html": "Misty- senior Medical Aesthetician"
+    },
+    {
+     "t": "p",
+     "html": "With over 25 years of hands-on experience in medical aesthetics, advanced skin treatments, and laser therapy, Misty brings a deeply knowledgeable, results-driven approach to every consultation. Having owned and operated a full-service med spa for a decade, she understands that great skin care goes beyond standard protocols—it requires a thoughtful balance of advanced clinical knowledge, individualized treatment planning, and genuine care."
+    },
+    {
+     "t": "p",
+     "html": "Certified across more than 25 professional skincare lines and industry-leading laser platforms, Misty constantly refines her craft to deliver safe, effective, and transformative results. Her passion lies in creating personalized, evidence-based treatment plans that restore skin health and help clients feel truly confident in their own skin."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/f2e42d0e-5938-446a-9cb4-3b28e8cb6138/IMG_1678.JPG",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Adela - MEdical Aesthetician",
+     "html": "Adela - MEdical Aesthetician"
+    },
+    {
+     "t": "p",
+     "html": "Adela brings a rich background in clinical practice and industry education to our team, having served as both a practicing aesthetician and an instructor at a local academy. Her background in teaching gives her a unique ability to break down complex skin processes, ensuring clients feel fully informed and confident in their care. She pairs this educational background with an intentional, results-driven approach to every consultation."
+    },
+    {
+     "t": "p",
+     "html": "Specializing in advanced microneedling, clinical skin treatments, and customized aesthetic care, Adela designs targeted treatment plans tailored to each individual's goals. Whether she is addressing specific skin concerns or guiding clients toward optimal long-term skin health, her focus is always on delivering effective, high-quality results with patient comfort and safety at the forefront."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/bfe6282d-98c7-46d5-82e7-98440a477ec8/Adela_1503.png",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "SAIGE - Medical Aesthetician",
+     "html": "SAIGE - Medical Aesthetician"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ae0eaf8b-14d6-45d4-9d01-a16b33e72e19/Saige.png",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "A graduate of the NIWE Academy and a Certified Clinical Aesthetician, Saige provides high-performance, personalized skincare tailored to each client's unique needs. Her practice seamlessly pairs advanced clinical techniques with a warm, attentive approach, ensuring that every treatment is as restorative as it is effective."
+    },
+    {
+     "t": "p",
+     "html": "Specializing in custom skin solutions, Saige is dedicated to guiding clients toward their healthier, radiant skin. She takes the time to understand individual skin goals, combining targeted therapies with genuine, thoughtful care to deliver visible, long-lasting results."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book a treatment with our experts.",
+     "html": "<strong>Book a treatment with our experts.</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

@@ -1,0 +1,427 @@
+{
+ "slug": "jaw-fillers",
+ "title": "Jawline Filler In Calgary — Face Skin & Body Bar",
+ "description": "Discover the transformative power of a beautifully contoured jawline. Our expert Nurse Injectors are ready to create a customized treatment Read this!",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/691b6fb358a51410934f1ae3/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/jaw-fillers",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/c816de36-84e4-4616-9817-698fcd0a4b8a/jaw+fillers.jpg",
+     "alt": "A woman receiving a cosmetic injection in her chin, administered by a healthcare professional wearing gloves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Expert Jawline Filler In Calgary",
+     "html": "Expert Jawline Filler In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>The Art of Facial Contouring at Face Skin &amp; Body Bar</em>"
+    },
+    {
+     "t": "p",
+     "html": "Welcome to Face Skin &amp; Body Bar, Calgary's premier destination for advanced dermal filler treatments. If you're seeking a stronger, more defined jawline or a more balanced facial appearance, our expert Nurse Injectors specialize in the art of jawline filler. This revolutionary aesthetic solution offers a non-surgical path to significant facial contour improvement, delivering results that are both striking and natural."
+    },
+    {
+     "t": "p",
+     "html": "The desire for a contoured jawline has soared, and for good reason. A well-defined jawline and chin can dramatically impact facial harmony, lending an air of youth, strength, and elegance. Our tailored jawline filler treatments utilize premium dermal fillers to add precise volume where it's needed most. Whether you’re looking to sharpen an indistinct profile, minimize the look of jowls, or achieve a more masculine or feminine shape, our comprehensive approach ensures a result that respects and enhances your unique facial structure."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Engineering drawing of a circle with a horizontal line and a pattern of peaks and valleys inside.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "Line art illustration of a circle with diagonal lines inside and outside the circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Dry/Dehydrated"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Jawline Filler Treatments Work",
+     "html": "How Jawline Filler Treatments Work"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Defines & Contours",
+     "html": "Defines &amp; Contours"
+    },
+    {
+     "t": "p",
+     "html": "Jawline filler is a highly specialized dermal filler treatment that uses injectable hyaluronic acid to artfully add volume and definition along the mandible (jawbone). The procedure involves precise injections of filler into strategic points along the jawline and sometimes the chin."
+    },
+    {
+     "t": "p",
+     "html": "The primary goal of these treatments is to enhance the contour and create a more defined shape. The expertly placed dermal fillers act as a scaffolding, strengthening the bone structure appearance and tightening the surrounding skin. For individuals experiencing age-related changes, jawline filler can restore lost volume that contributes to jowling, offering a lifting and rejuvenating effect. Furthermore, the strategic use of filler on the chin can enhance projection, which is crucial for achieving a balanced side profile. Our Nurse Injectors consider the entire lower face, often combining jawline filler with chin filler to create a seamless, elegant contour."
+    },
+    {
+     "t": "p",
+     "html": "These dermal filler treatments are quick and require minimal downtime, making them a popular choice for those with busy lifestyles. The process is a careful balance of science and artistry, utilizing the properties of the filler to contour and enhance the underlying facial body structure. Other areas like the cheeks and lips can often benefit from concurrent dermal filler treatments to maintain overall facial symmetry. We prioritize your comfort and the stunning effectiveness of the jawline filler treatments we provide"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Jawline Filler Treatments",
+     "html": "Benefits Of Jawline Filler Treatments"
+    },
+    {
+     "t": "p",
+     "html": "Choosing jawline filler offers a multitude of compelling benefits:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Define and Contour:</strong> The most immediate and sought-after benefit is a significantly more defined jawline and sharper contour. This treatment is key to achieving that coveted contoured appearance.",
+      "<strong>Balance the Profile:</strong> Strategic injections of filler in the jawline and chin can dramatically improve the side profile, ensuring facial features are in harmonious balance.",
+      "<strong>Non-Surgical:</strong> Unlike surgical options, these dermal filler treatments are minimally invasive, require no general anesthesia, and involve little to no downtime.",
+      "<strong>Improve Jowling:</strong> By adding structural volume along the jawline, the filler can subtly lift and firm the area, minimizing the sagging appearance of jowls.",
+      "<strong>Natural-Looking Results:</strong> Modern dermal fillers are designed to integrate smoothly with the underlying tissue, providing results that look natural, not overdone.",
+      "<strong>Versatile Treatments:</strong> The same filler technology used for the jawline can also refine the lips, lift the cheeks, and address under-eye concerns."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "These filler treatments are an excellent option for those looking to subtly yet effectively enhance their look without the commitment of surgery."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "The ideal candidate for jawline filler treatments is typically an adult in good general health who wishes to:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Improve the definition and contour of their jawline",
+      "Strengthen a recessive or underdeveloped chin",
+      "Achieve a more symmetrical or balanced facial appearance and shape",
+      "Minimize the appearance of mild to moderate jowls along the jawline",
+      "Enhance their overall facial profile and body structure",
+      "Seek non-surgical treatments for facial volume restoration"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Candidates should have realistic expectations for the outcome of dermal filler treatments. While jawline filler offers dramatic improvements, it is not a substitute for extensive surgical procedures. During your consultation, we assess your skin quality, facial anatomy, and goals to determine if jawline filler is the best of the many available treatments for you. Other complementary filler treatments, like cheeks or lips, may also be recommended to enhance the overall contour / profile."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your jawline filler experience at Face Skin &amp; Body Bar begins with a comprehensive consultation. Your Nurse Injector will discuss your aesthetic goals, examine your jawline and chin, and develop a customized treatment plan using appropriate dermal fillers."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Most patients achieve their desired contour and volume with a single session of jawline filler treatments. The amount of filler used depends on the degree of definition and projection desired for the jawline and chin. Additional filler treatments may be scheduled for a touch-up or to gradually build volume and shape. Since the filler naturally metabolizes over time, maintenance treatments are necessary, typically every 9 to 18 months, to sustain the beautiful contour and definition"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Cost",
+     "html": "<strong>Treatment Cost</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The cost of jawline filler is determined by the type and total volume of dermal fillers used to achieve the desired contour of the jawline and chin. Pricing is based on the number of syringes of filler required. We provide a clear, itemized quote during your consultation. Investing in expert filler treatments ensures a safe experience and stunning, long-lasting appearance results. We also offer other treatments that can be combined with dermal fillers to provide long-lasting results, such as radiofrequency skin tightening and radiofrequency microneedling."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Potential Results",
+     "html": "Potential Results<br>"
+    },
+    {
+     "t": "p",
+     "html": "The results of your jawline filler will be visible immediately after the injections. Over the next two weeks, as any minor swelling subsides and the filler fully integrates with your tissue, the final, refined contour and improved shape of your jawline and chin will emerge. You can expect a stronger, more defined jawline that dramatically enhances your facial symmetry and overall body appearance. These results from dermal filler treatments are long-lasting, often extending well over a year."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AfterCare",
+     "html": "AfterCare"
+    },
+    {
+     "t": "p",
+     "html": "Following your jawline filler treatments, we advise avoiding strenuous exercise, excessive heat, and alcohol for 24-48 hours. Massaging the area should be avoided unless specifically instructed by your Nurse Injector. Protecting your skin from excessive sun exposure is always a must. Following these simple steps enhances the longevity of your filler."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Recovery Timeline",
+     "html": "Recovery Timeline"
+    },
+    {
+     "t": "p",
+     "html": "The recovery from jawline filler is swift. Most patients return to their normal activities immediately. Some common, temporary side effects of the injections include minor swelling, bruising, or redness at the treatment sites. These effects are typically mild and resolve within a few days to a week. The minimal recovery time is a key factor in the popularity of these dermal filler treatments."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before And After",
+     "html": "Before And After"
+    },
+    {
+     "t": "p",
+     "html": "When it comes to advanced aesthetic treatments like jawline filler, expertise matters. At Face Skin &amp; Body Bar, our commitment to excellence sets us apart. We don't just administer injections; we offer a holistic approach to facial aesthetics."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1762814495542-SN2M7F7DDAP2K9PW20UP/Copy+of+Cheek_Jawline_Filler.png",
+     "alt": "Side-by-side comparison of a woman's face before and after cosmetic procedure showing a more contoured chin and jawline post-treatment.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1763408904570-JYPD3O6Q1W6W0SN3F5W0/IMG_1680.jpg",
+     "alt": "A woman in a black face tattoo removal technician uniform performs a tattoo removal on another woman. The technician is wearing black gloves and carefully working on the client's face, who is lying down with her eyes closed.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Face Skin & Body Bar Advantage",
+     "html": "The Face Skin &amp; Body Bar Advantage"
+    },
+    {
+     "t": "p",
+     "html": "Our Nurse Injectors are not only highly trained in the precise art of dermal fillers - including the delicate art of jawline filler, lips, cheeks and under-eye treatments - but they are also extensively trained in clinical aesthetics. This dual expertise means every assessment, consultation, and treatment plan considers all the cutting-edge technology and products we offer."
+    },
+    {
+     "t": "p",
+     "html": "This unique background allows us to provide a comprehensive strategy. For example, a client seeking a defined jawline may receive a recommendation for jawline filler to add volume and contour, but the plan might also include skin tightening technology to address other areas that affect the overall appearance of the lower face. We look beyond the syringe, ensuring that your jawline filler procedure complements your entire face, addressing issues like fine lines, volume loss, and contour definition across the cheeks, chin, and under eyes. This integrated approach is how we consistently enhance and perfect your shape and appearance with superior dermal filler treatments."
+    },
+    {
+     "t": "p",
+     "html": "We use only premium, Health Canada-approved dermal fillers and follow stringent safety protocols. Trust our Nurse Injectors to guide you through the process of achieving the most beautiful and balanced contour possible using jawline filler."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Client Testimonials",
+     "html": "Client Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I was hesitant about getting jawline filler, but the team at Face Skin &amp; Body Bar was amazing. My Nurse Injector Lisane was so skilled; the injections were almost painless. The difference in my profile and chin is incredible. Highly recommend their filler treatments!\""
+    },
+    {
+     "t": "p",
+     "html": "- Ophelia J"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"After years of wishing for a more defined jawline, I finally went for jawline filler. The expertise here is unmatched. They perfectly understood the shape and contour I was going for."
+    },
+    {
+     "t": "p",
+     "html": "- Mark B"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book A Consultation Today",
+     "html": "<strong>Book A Consultation Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Ready to discover the transformative power of a beautifully contoured jawline? The journey to a stronger profile and a more confident appearance begins with a conversation. Our expert Nurse Injectors are ready to create a customized treatment plan that leverages the best in dermal fillers to achieve your aesthetic goals."
+    },
+    {
+     "t": "p",
+     "html": "Don't settle for less than the best in Calgary for your jawline filler treatments. Let us enhance your natural beauty and perfect your contour. Contact Face Skin &amp; Body Bar today to schedule your personalized consultation for jawline filler and other filler treatments like lips and cheeks."
+    },
+    {
+     "t": "p",
+     "html": "Schedule a consultation with one of our expert Nurse Injectors to discuss your goals for jawline filler?"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/a5a59054-e447-41e5-af5a-92c6fe35a493/face-skin-body-bar-calgary-injectables-laser-facial-9.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

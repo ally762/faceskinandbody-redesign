@@ -1,0 +1,165 @@
+{
+ "slug": "journal__skincare",
+ "title": "Non-Surgical Skin Tightening in Calgary — Face Skin & Body Bar",
+ "description": "Discover non-surgical skin tightening in Calgary using RF, RF microneedling & lower face lift alternatives. Lift, contour & rejuvenate with zero downtime.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/67c76246a01b214602a76246/1749743490290/IMG_9470.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/skincare",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"Non-Surgical Skin Tightening in Calgary \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/skincare\",\"datePublished\":\"2025-03-05T08:58:03-0700\",\"dateModified\":\"2025-06-12T09:51:30-0600\",\"headline\":\"Non-Surgical Skin Tightening in Calgary\",\"author\":\"Heather Dybvig\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/67c76246a01b214602a76246/1749743490290/IMG_9470.jpg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we specialize in advanced radiofrequency (RF), RF microneedling, and non-invasive lower facelift alternatives to help you achieve a youthful, rejuvenated appearance without the downtime of surgery. We are the <a href=\"/\">leading clinic in Calgary</a> offering a comprehensive range of devices and treatments designed specifically for non-surgical lower face lifting and skin tightening.<br><br>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Why Choose Non-Surgical Skin Tightening?",
+     "html": "Why Choose Non-Surgical Skin Tightening?"
+    },
+    {
+     "t": "p",
+     "html": "More and more people are choosing non-surgical skin tightening treatments due to their minimal invasiveness, reduced recovery time, and impressive results. If you're searching for \"skin tightening treatments near me\" or \"non-surgical facelift Calgary,\" <a href=\"/\">Face Skin &amp; Body Bar</a> is your ideal destination. Our experienced providers combine medical-grade skincare with state-of-the-art technology to deliver optimal outcomes. We understand the nuances of RF and RF microneedling and use precise parameters to maximize results and client satisfaction."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Skin Tightening Treatments:",
+     "html": "<br>Our Skin Tightening Treatments:"
+    },
+    {
+     "t": "p",
+     "html": "We offer a variety of skin tightening treatments to address different needs and concerns:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "RF Skin Tightening Treatments with Bipolar RF Wand (Forma)",
+     "html": "RF Skin Tightening Treatments with Bipolar RF Wand (Forma)"
+    },
+    {
+     "t": "p",
+     "html": "At our clinic, we specialize in <a href=\"/medical-aesthetics\">radiofrequency (RF) technology </a>to enhance skin elasticity. Our skilled providers use RF wands to target specific facial areas, delivering precise and effective results."
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Maintenance/Prevention:</strong> To maintain facial volume and enhance skin brightness, we recommend one session per month. This relaxing treatment, often described as a \"hot stone massage for the face,\" instantly contours and brightens the complexion.",
+      "<strong>Significant Changes:</strong> &nbsp;For reversing signs of aging, we recommend a series of 4 to 6 weekly sessions, followed by monthly or quarterly maintenance treatments. This addresses loose or sagging skin concerns or an undefined jawline."
+     ]
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/93e63374-e8aa-4d3f-8f57-95c534aeff36/Early30s_6_sessions.JPG",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Non-Invasive Lower Face Lift (Evoke / Define)",
+     "html": "Non-Invasive Lower Face Lift (Evoke / Define)"
+    },
+    {
+     "t": "p",
+     "html": "As the only clinic in Calgary with this specialized device, we can address significant volume loss and sagging in the lower face. Our hands-free <a href=\"/medical-aesthetics\">cheek and chin radiofrequency applicators</a> deliver consistent heat for up to 45 minutes, stimulating collagen and tightening skin. We recommend 4, 6, or 8 sessions depending on individual needs. The chin applicator also reduces submental fat, ideal for those looking for double chin reduction and more jaw definition. This treatment is a more powerful intervention than the RF wand and is great for clients already experiencing sagging and definition loss in your lower face. It requires a weekly commitment but can produce fantastic results with zero discomfort."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/95836004-a981-45a4-bcb0-17766082e851/A013A4D7-9C01-470F-98BA-A27BABF36255.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "RF Microneedling - Facial Rejuvenation for Contouring & Anti-Aging",
+     "html": "RF Microneedling - Facial Rejuvenation for Contouring &amp; Anti-Aging"
+    },
+    {
+     "t": "p",
+     "html": "You can address multiple signs of aging with our targeted <a href=\"/medical-aesthetics\">RF Microneedling treatments</a>. This powerful combination of radiofrequency and microneedling stimulates collagen production, resulting in lifted, tightened skin, improved contour, and a refined skin texture. Effectively minimize wrinkles, fine lines, drooping brows, and heavy nasolabial folds. For a complete facial transformation, consider a combination of 3-4 RF Microneedling sessions alongside 4-6 of our Non-Invasive Lower Facelift sessions, customized to your specific concerns. This combination of treatments can produce transformational results and true facial rejuvenation."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ae1ff26b-0c36-4fd8-9c0e-b19433642222/1.png",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Tightening & Medical Grade Skincare",
+     "html": "Skin Tightening &amp; Medical Grade Skincare"
+    },
+    {
+     "t": "p",
+     "html": "To maximize the longevity of your skin tightening treatments, we highly recommend incorporating medical-grade skincare into your daily routine. At Face Skin &amp; Body Bar, we are proud to offer <a href=\"/shop-alumiermd\">AlumierMD </a>products. Quality skincare enhances the results of aesthetic procedures just like a balanced diet enhances physical exercise."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Products that work hand in hand with skin tightening",
+     "html": "<br>Products that work hand in hand with skin tightening"
+    },
+    {
+     "t": "list",
+     "ordered": true,
+     "items": [
+      "<a href=\"https://ca.alumiermd.com/collections/skincare-for-anti-aging?code=N378PKW9\">Aluminence A.G.E.</a> is an advanced age-defense serum with antioxidants, amino acids, and a pollution-shielding exopolysaccharide.",
+      "AlumierMD’s Neck &amp; Decollete <a href=\"https://ca.alumiermd.com/collections/skincare-for-anti-aging?code=N378PKW9\">firming cream </a>is designed for the neck and décolleté areas. Harnessing the power of retinol, it enhances elasticity, reduces the appearance of fine lines, and promotes a smoother texture.",
+      "AlumierMD’s&nbsp;<a href=\"https://ca.alumiermd.com/collections/skincare-for-anti-aging?code=N378PKW9\">0.5 Retinol Resurfacing </a>serum actively targets fine lines and wrinkles while promoting radiance, clarity, resilience and cellular turnover."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "<br><strong>Frequently Asked Questions (FAQ) About Skin Tightening</strong>"
+    },
+    {
+     "t": "list",
+     "ordered": true,
+     "items": [
+      "<strong>What is RF skin tightening?</strong> Radiofrequency skin tightening uses energy waves to heat the skin, stimulating collagen production and tightening the skin.",
+      "<strong>Is RF microneedling painful?</strong> Most clients experience minimal discomfort. We take steps to ensure your comfort during the procedure.",
+      "<strong>How many treatments are needed?</strong> The number of treatments depends on your individual needs and concerns. We'll create a personalized plan during your consultation.",
+      "<strong>What is the recovery time for non-surgical skin tightening?</strong> There is typically little to no downtime with these treatments, for RF Microneedling the downtime can range from 1 to 7 days depending on the procedure.",
+      "<strong>Do you offer financing options for skin tightening treatments?</strong> Yes, we do! Contact us directly to discuss our flexible financing options and partnership with <a href=\"https://apply.medicard.com/22673\">Medicard</a>."
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Ready to Learn More?",
+     "html": "Ready to Learn More?"
+    },
+    {
+     "t": "p",
+     "html": "If you want to learn more about our non-surgical skin tightening treatments and how they can benefit you, contact us at <a href=\"tel:4034545607\">(403) 454-5607 </a>or <a href=\"/contact-us\">schedule a complimentary consultation by clicking here</a>. Our experienced providers will assess your individual needs and recommend the best course of action to help you achieve your desired results. We are located in the Beltline in Calgary."
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "Non-Surgical Skin Tightening in Calgary",
+  "date": "Mar 5",
+  "datetime": "2025-03-05",
+  "author": "Written by Heather Dybvig"
+ }
+}

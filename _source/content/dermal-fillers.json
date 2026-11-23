@@ -1,0 +1,522 @@
+{
+ "slug": "dermal-fillers",
+ "title": "Dermal Filler Services in Calgary — Face Skin & Body Bar",
+ "description": "Restore volume, smooth deep wrinkles, and refine your facial features with dermal fillers in Calgary. These treatments provide natural-looking results tailored to you.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/691b8d8e7c7a935aacfe2dcd/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/dermal-fillers",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/601ae5bc-60c4-40d2-beff-2c9c51e80968/dermal-fillers-calgary.jpeg",
+     "alt": "A woman with closed eyes receiving a cosmetic injection in her face from a medical professional wearing black gloves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Dermal Fillers In Calgary",
+     "html": "Dermal Fillers In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "If you are looking to restore lost volume, smooth deeper wrinkles, or subtly enhance your facial features, dermal fillers are an excellent treatment option. At Face Skin &amp; Body Bar in Calgary, we specialize in using premium hyaluronic acid-based dermal fillers to help you achieve a refreshed and incredibly natural appearance. Discover how our customized treatments can restore a refreshed and natural look."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Line graph with sharp peaks and valleys inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "Illustration of a black circle with diagonal lines inside and small diagonal lines outside, resembling a planet or abstract design.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Dry/Dehydrated"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Are Dermal Fillers?",
+     "html": "What Are Dermal Fillers?"
+    },
+    {
+     "t": "p",
+     "html": "Dermal fillers are injectable gel products used in aesthetic medicine to precisely restore lost volume, smooth out deep wrinkles, and subtly enhance specific facial features. The safest and most effective fillers used today are composed of hyaluronic acid (HA). Since hyaluronic acid is a naturally occurring substance in the body, these dermal fillers are highly biocompatible. When strategically injected, the HA instantly replaces lost structural support and hydration, effectively reversing the visible signs of aging. It's important to note that, unlike neuromodulators (such as BOTOX™), dermal fillers work by restoring physical structure, not by relaxing facial muscles."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Dermal Filler Treatments Work",
+     "html": "How Dermal Filler Treatments Work"
+    },
+    {
+     "t": "p",
+     "html": "Dermal filler treatments work by strategically injecting the hyaluronic acid gel beneath the skin's surface. As we age, we naturally lose fat and collagen, leading to hollowness and the formation of fine lines and wrinkles."
+    },
+    {
+     "t": "p",
+     "html": "The injected filler acts like an internal scaffolding, instantly plumping the area and reducing the visibility of fine lines and deep wrinkles. The hyaluronic acid in the filler also draws moisture to the area, improving skin hydration over time. This targeted treatment instantly restores youthful contours, whether adding volume to the lips or lifting the cheeks."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Dermal Fillers",
+     "html": "Benefits Of Dermal Fillers"
+    },
+    {
+     "t": "p",
+     "html": "Dermal filler treatments offer profound advantages that revitalize both your appearance and your confidence. These treatments immediately enhance key facial features, whether through adding definition to the jawline, creating fuller lips, or minimizing the shadowing from dark circles beneath the eyes, effectively diminishing many visible signs of aging. By restoring lost volume, clients often experience a significant boost in self-assurance. Best of all, this treatment requires minimal to moderate downtime depending on the number of areas treated, allowing you to quickly return to your daily routine with beautiful, immediate results that smooth dynamic fine lines and deep wrinkles."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Are You A Good Candidate For Dermal Fillers?",
+     "html": "Are You A Good Candidate For Dermal Fillers?"
+    },
+    {
+     "t": "p",
+     "html": "The ideal candidate for dermal filler treatments is anyone noticing signs of aging, such as loss of volume, deepening folds (like nasolabial lines), or thinning lips. You may be a great candidate if you wish to subtly enhance specific facial features while maintaining a natural appearance."
+    },
+    {
+     "t": "p",
+     "html": "Dermal fillers are an excellent choice for individuals seeking to:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Add definition and volume to the lips",
+      "Smooth fine lines around the mouth",
+      "Reduce the appearance of dark circles",
+      "Restore lost volume in the cheeks and temples",
+      "Reduce deep wrinkles and folds"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "A consultation is required to review your full medical history and ensure dermal fillers are the right treatment for you."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Consultation & Personalized Treatment Plan",
+     "html": "<strong>Consultation &amp; Personalized Treatment Plan</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Every journey at Face Skin &amp; Body Bar begins with a comprehensive consultation. We will discuss your goals, analyze your facial features, and develop a personalized treatment plan. We carefully select the correct hyaluronic acid filler to achieve maximum volume restoration and the most natural appearance."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required For Best Results",
+     "html": "<strong>Number Of Treatments Required For Best Results</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The beauty of dermal fillers is that the results are often immediate. However, to achieve optimal volume and symmetry, some clients may require follow-up treatments or \"layering\" of filler after the initial session. The results from hyaluronic acid dermal fillers typically last between 12 to 18 months, depending on the product used, the treatment area (e.g., lips), and individual metabolism."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Duration & Comfort Level",
+     "html": "<strong>Treatment Duration &amp; Comfort Level</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The injection portion of the treatment generally takes between 30 to 60 minutes, depending on the number of syringes and treatment areas. We prioritize your comfort by using topical numbing cream and fillers that contain lidocaine, making the procedure very tolerable."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Cost Of Dermal Fillers At Face Skin & Body Bar",
+     "html": "Cost Of Dermal Fillers At Face Skin &amp; Body Bar"
+    },
+    {
+     "t": "p",
+     "html": "The cost of dermal filler treatments is determined by the type of filler used, the amount of volume needed to achieve the desired results, and the specific facial features being addressed (e.g., lips, cheeks, or tear troughs for dark circles)."
+    },
+    {
+     "t": "p",
+     "html": "<strong>The following represents a general price range based on treatment area:</strong>&nbsp;"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Temples:</strong> Typically 0.5 to 1 syringe per side - $375 to $650 per side",
+      "<strong>Cheeks:</strong> Typically 0.5 to 1 syringe per side - $375 to $650 per side",
+      "<strong>Nasolabial Folds / Smile Lines:</strong> Typically 0.5 to 1 syringe per side - $375 to $650 per side",
+      "<strong>Marionette Lines / Chin Shadow:</strong> Typically 0.5 to 1 syringe total - $375 to $650",
+      "<strong>Chin:</strong> Typically 0.5 to 1 syringe total - $375 to $650",
+      "<strong>Jawline:</strong> Typically 1 to 2 syringes per side - $650 to $1300 per side",
+      "<strong>Under Eyes (Tear Troughs):</strong> Typically 0.5 to 1 syringe total - $375 to $650"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "We will provide a detailed and transparent quote for your personalized treatment plan during your consultation."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results, Recovery, And Aftercare",
+     "html": "Results, Recovery, And Aftercare&nbsp;"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Immediate Results",
+     "html": "Immediate Results<br>"
+    },
+    {
+     "t": "p",
+     "html": "Dermal fillers are unique in that the effects are instant. Immediately after your treatment, you will see a visible change in volume and a noticeable softening of fine lines and wrinkles. This includes instant plumping of the lips, lifting of the cheeks, and improved facial symmetry."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Recovery & Full Results",
+     "html": "Recovery &amp; Full Results"
+    },
+    {
+     "t": "p",
+     "html": "Be prepared for some initial swelling and minor bruising. This is completely normal and typically subsides within the first 24 to 48 hours."
+    },
+    {
+     "t": "p",
+     "html": "The filler itself takes about two weeks to fully settle and integrate with your body's natural tissue. Once this full settling period is complete, any initial side effects will have been resolved, revealing your final, beautiful, and natural-looking enhancement."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Essential Aftercare Instructions",
+     "html": "<strong>Essential Aftercare Instructions</strong>"
+    },
+    {
+     "t": "p",
+     "html": "To ensure the best <strong>results</strong> and <strong>minimal downtime</strong>, please follow these simple rules:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>For 24–48 Hours (Activity):</strong> Avoid intense exercise, excessive heat (saunas, hot tubs), and anything that causes heavy sweating.",
+      "<strong>For 24 Hours (Habits):</strong> Do not smoke or vape.",
+      "<strong>For the First Few Days (Comfort):</strong> Expect some swelling and tenderness. You may apply ice packs to the treated area as needed. You are allowed to take Acetaminophen (Tylenol) for discomfort.",
+      "<strong>Avoid (Manipulation):</strong> Do not massage or apply strong pressure to the treated area unless specifically instructed by your injector.",
+      "<strong>Avoid (Medication):</strong> Avoid taking blood thinners, including Ibuprofen, unless medically necessary (always consult your doctor).",
+      "<strong>Future Treatments (Lasers):</strong> You must avoid laser treatments in the area for a minimum of two weeks. For Radiofrequency (RF) or RF Microneedling treatments, you must wait a minimum of six months.",
+      "<strong>General:</strong> Stay well-hydrated! Hyaluronic acid is attracted to water. The more hydrated you are, the better your results."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before And After",
+     "html": "Before And After"
+    },
+    {
+     "t": "p",
+     "html": "See how strategically placed dermal fillers can restore volume to the mid-face, smooth fine lines, and enhance the projection of the lips to create a more youthful and balanced look."
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we go beyond simple injections to offer a modern, integrated approach to facial rejuvenation, prioritizing your safety and natural beauty above all else."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757431911278-QZY65J69U14XOXDE4A04/Cheek_Jawline_Filler.png",
+     "alt": "Cheek_Jawline_Filler.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1763408749520-TW444YM2GHEE1UO6LUAS/Alexa_Injectables_Mapping.jpg",
+     "alt": "Alexa_Injectables_Mapping.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1763408889899-RFD7ZSW38XWN1MA3TZ3P/123.jpg",
+     "alt": "123.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1763408904570-JYPD3O6Q1W6W0SN3F5W0/IMG_1680.jpg",
+     "alt": "IMG_1680.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1763487892500-0L1Q893NHGTMKHYMH6T9/Under_eye_filler.jpg",
+     "alt": "Under_eye_filler.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1763487934394-1JIYIAGZJQ0GZ9F7N4J8/Lip_Filler.jpg",
+     "alt": "Lip_Filler.jpg"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "When it comes to advanced aesthetic treatments like jawline filler, expertise matters. At Face Skin &amp; Body Bar, our commitment to excellence sets us apart. We don't just administer injections; we offer a holistic approach to facial aesthetics."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Commitment To Expertise & Safety",
+     "html": "<strong>Our Commitment To Expertise &amp; Safety</strong>"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Highly Trained &amp; Precise:</strong> Your treatments are administered by our Lead Registered Nurse Injector, who is highly trained in advanced injecting techniques. We ensure precise placement of the hyaluronic acid filler to maximize volume restoration while preserving your unique, natural facial features.",
+      "<strong>Natural &amp; Subtle Results:</strong> Our philosophy is rooted in achieving a subtle, natural appearance. We enhance your look, ensuring you appear refreshed and rejuvenated, never \"done.\"",
+      "<strong>Personalized Treatment Plans:</strong> We develop comprehensive plans tailored to your specific anatomy and all your signs of aging, ensuring the most effective and harmonious outcome."
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Integrated Advantage",
+     "html": "<strong>Our Integrated Advantage</strong>"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Beyond the Needle:</strong> We are not just an injectables clinic. We believe the key to lasting, transformative results lies in combining the best aesthetic procedures.",
+      "<strong>Integrated Aesthetics:</strong> Your personalized plan may incorporate dermal fillers with other advanced treatments like medical-grade skincare, laser treatments, microneedling, or IPL (Intense Pulsed Light) to ensure optimal skin health and superior, enduring results."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Face Skin & Body Bar Advantage",
+     "html": "The Face Skin &amp; Body Bar Advantage"
+    },
+    {
+     "t": "p",
+     "html": "Our Nurse Injectors are not only highly trained in the precise art of dermal fillers - including the delicate art of jawline filler, lips, cheeks and under-eye treatments - but they are also extensively trained in clinical aesthetics. This dual expertise means every assessment, consultation, and treatment plan considers all the cutting-edge technology and products we offer."
+    },
+    {
+     "t": "p",
+     "html": "This unique background allows us to provide a comprehensive strategy. For example, a client seeking a defined jawline may receive a recommendation for jawline filler to add volume and contour, but the plan might also include skin tightening technology to address other areas that affect the overall appearance of the lower face. We look beyond the syringe, ensuring that your jawline filler procedure complements your entire face, addressing issues like fine lines, volume loss, and contour definition across the cheeks, chin, and under eyes. This integrated approach is how we consistently enhance and perfect your shape and appearance with superior dermal filler treatments."
+    },
+    {
+     "t": "p",
+     "html": "We use only premium, Health Canada-approved dermal fillers and follow stringent safety protocols. Trust our Nurse Injectors to guide you through the process of achieving the most beautiful and balanced contour possible using jawline filler."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Client Testimonials",
+     "html": "Client Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I was hesitant about getting jawline filler, but the team at Face Skin &amp; Body Bar was amazing. My Nurse Injector Lisane was so skilled; the injections were almost painless. The difference in my profile and chin is incredible. Highly recommend their filler treatments!\""
+    },
+    {
+     "t": "p",
+     "html": "- Ophelia J"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"After years of wishing for a more defined jawline, I finally went for jawline filler. The expertise here is unmatched. They perfectly understood the shape and contour I was going for."
+    },
+    {
+     "t": "p",
+     "html": "- Mark B"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book A Consultation Today",
+     "html": "<strong>Book A Consultation Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Call us at Face Skin &amp; Body Bar in Calgary today!"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/a5a59054-e447-41e5-af5a-92c6fe35a493/face-skin-body-bar-calgary-injectables-laser-facial-9.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

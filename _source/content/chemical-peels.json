@@ -1,0 +1,582 @@
+{
+ "slug": "chemical-peels",
+ "title": "Chemical Peels Treatment Calgary — Face Skin & Body Bar",
+ "description": "Chemical peel treatments in Calgary for brighter, healthier skin. Target aging, melasma, hyperpigmentation & acne with expert care at Face Skin & Body Bar.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e3e68b2e4c9a18a623d591/1692657291336/face-skin-body-bar-calgary-injectables-laser-facial-6.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/chemical-peels",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5804fcb8-902c-400e-b0b0-46ce94d97ca2/face-skin-body-bar-calgary-injectables-laser-facial-6.jpg",
+     "alt": "Orange spheres of various sizes floating in a gradient orange background to depict the chemical make-up of chemical peels",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Chemical Peels In Calgary",
+     "html": "Chemical Peels In Calgary"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Calgary's Choice for Professional Chemical Peels: Transform the tone & texture of your skin.",
+     "html": "Calgary's Choice for Professional Chemical Peels: Transform the tone &amp; texture of your skin."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "DRY/ DEHYDRATED",
+     "html": "DRY/ DEHYDRATED"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict sensitive skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "SENSITIVE/ ROSACEA",
+     "html": "SENSITIVE/ ROSACEA"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "HYPERpIGMENTATION/ SUN DAMAGE",
+     "html": "HYPERpIGMENTATION/ SUN DAMAGE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Dull",
+     "html": "Dull"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict acne or acne scarring.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Acne",
+     "html": "Acne"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin that has lost collagen and elastin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Fine Lines & Aging",
+     "html": "Fine Lines &amp; Aging"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Medical Grade",
+     "html": "<strong>Medical Grade</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "AlumierMD’s Medical Grade",
+     "html": "AlumierMD’s Medical Grade"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "UP TO 60 MINS | $250",
+     "html": "UP TO 60 MINS | $250"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Membership Pricing:",
+     "html": "<strong>Membership Pricing:</strong>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Smart Skin | $225",
+     "html": "Smart Skin | $225"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Smart Skin Plus | $220",
+     "html": "Smart Skin Plus | $220"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Accelerated Plan | $212.50",
+     "html": "Accelerated Plan | $212.50"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict sensitive skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin losing collagen and elastin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict acne or acne scarring.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Unlock dramatic improvements in your skin's health and appearance with our advanced AlumierMD Medical Grade Peels. These potent and precisely formulated treatments go beyond the surface, utilizing optimal concentrations of pure Alpha Hydroxy Acids (AHAs) and Beta Hydroxy Acids (BHAs). Enhanced with innovative hero ingredients like powerful Enzymes and Resorcinol, our peels are clinically proven to deliver exceptional results you can see and feel."
+    },
+    {
+     "t": "p",
+     "html": "Our skilled Medical Estheticians will carefully select from a curated array of AlumierMD peels to create a personalized treatment plan designed to achieve your unique skin goals:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>AHA Duo Peel:</strong> Ideal for overall rejuvenation and a brighter complexion.",
+      "<strong>BHA 20 Peel:</strong> Specifically targets congested pores and breakouts.",
+      "<strong>Radiant 30 Peel:</strong> A versatile peel for renewal and improved texture.",
+      "<strong>The Glow Peel:</strong> Designed for tone, texture, fine lines &amp; wrinkles and reducing discolouration. Considered the equivalent of a half Jessner Peel. *Only available to those who have already had a Radiant 30, BHA or AHA Duo Peel within the last 6 months.",
+      "<strong>The Power Glow Peel: </strong>A supercharged Glow Peel that, considered the equivalent of a full Jessner peel is able to target fine lines and wrinkles, discolouration, tone and texture. *Only available to those that have already had a Glow Peel and classify as a Fitzpatrick I to III."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Each Medical Grade Peel treatment at our Calgary clinic is meticulously tailored to your individual skin's needs. Following the peel, we apply a customized selection of potent antioxidants, anti-aging, and brightening boosters to maximize penetration and optimize your results."
+    },
+    {
+     "t": "p",
+     "html": "With the AlumierMD system, we can create over 30 customizable treatment variations, suitable for all skin types, conditions, tolerance levels, and your specific skin aspirations. Our experienced Medical Aestheticians in are experts in tailoring each treatment to your unique needs and progressively elevating subsequent peels to deliver truly transformative and long-lasting results."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Customized Medical Grade Peels to Address Your Skin Concerns:",
+     "html": "<strong>Customized Medical Grade Peels to Address Your Skin Concerns:</strong>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Medical Grade Peel - Anti-Aging & Skin Health",
+     "html": "<strong>Medical Grade Peel - Anti-Aging &amp; Skin Health</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Combat the visible signs of aging common in our Alberta climate with this potent AlumierMD medical-grade peel. This treatment expertly blends alpha and beta hydroxy acids with targeted ingredients to effectively address aging skin concerns. By deeply exfoliating dead skin cells and stimulating cell turnover, it visibly reduces the appearance of fine lines, wrinkles, and age spots, promoting overall skin health and a more youthful, revitalized appearance. For optimal and cumulative anti-aging benefits, we recommend a series of 3 or 5 Medical Grade Peels. This allows our aestheticians to strategically increase the efficacy and potency of each subsequent treatment within the AlumierMD system."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Medical Grade Peel - Acne Protocol",
+     "html": "<strong>Medical Grade Peel - Acne Protocol</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Take control of breakouts and achieve clearer skin with our targeted AlumierMD acne peel. This specialized treatment combines the power of salicylic acid, lactic acid, and other effective ingredients to address the multiple factors contributing to acne development. It works by deeply exfoliating to remove dead skin cells and debris, effectively unclogging pores to reduce current breakouts and prevent future ones, while also calming inflammation for improved skin clarity and a smoother texture. For significant and lasting improvement, a series of 3 or 5 Medical Grade Peels is highly recommended."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Medical Grade Peel - Redness or Pigment Correction",
+     "html": "<strong>Medical Grade Peel - Redness or Pigment Correction</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Address unwanted redness or pigmentation concerns with this specialized AlumierMD medical-grade peel. Formulated with a targeted blend of ingredients, this peel gently exfoliates to remove dead skin cells and encourage healthy cell turnover, leading to a more even skin tone and a visible reduction in discoloration or redness. <strong>Important Note for Calgary Clients with Fitz IV, V, or VI Skin Types:</strong> To ensure the safest and most effective treatment, we require the use of a tyrosinase inhibitor for 4 weeks prior to this peel. Please consult with our Medical Aestheticians to discuss this important step."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Your Comprehensive Post-Treatment Support:",
+     "html": "<strong>Your Comprehensive Post-Treatment Support:</strong>"
+    },
+    {
+     "t": "p",
+     "html": "At our Calgary clinic, we are committed to your long-term skin health. To ensure you achieve the best possible results and experience a complete 360-degree approach to skincare, you will receive a complimentary post-treatment kit (a $60 value) to take home. This kit includes:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "A gentle facial cleanser to soothe and cleanse your skin.",
+      "An intensive recovery balm to aid in healing and hydration.",
+      "A broad-spectrum SPF to protect your newly rejuvenated skin from the Alberta sun."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: All treatments following a series of peels and/or reversal of the concern we are targeting</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Resurfacers",
+     "html": "<strong>Resurfacers</strong>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Available as add-ons to any of our facial treatments",
+     "html": "Available as add-ons to any of our facial treatments"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Lactic Acid",
+     "html": "Lactic Acid"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin that is losing collagen and elastin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict sensitive skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Crafted to replenish dehydrated, dull skin through gentle chemical exfoliation, this resurfacing treatment is great for those with sensitive skin."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "C Infusion",
+     "html": "C Infusion"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin that is sagging.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Aimed at brightening and revitalizing skin through the removal of skin cell build-up, this resurfacing treatment is a wonderful option for those wanting more hydration and more rapid skin repair. Vitamin C, lactic acid and plant extracts infuse skin tissues with the necessary antioxidants and hydrating properties to stimulate barrier repair."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Pumpkin Resurfacer",
+     "html": "Pumpkin Resurfacer"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict acne or acne scarring.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Designed to meet the needs of those with acne concerns and enlarged pores, this resurfacing treatment increases cell turnover, corrects pigmentation and reduces inflammation in the skin."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "MangoBrite Resurfacer",
+     "html": "MangoBrite Resurfacer"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "A circle containing three wave-like lines, representing a sound wave or signal.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Designed with Vitamin C, Orange Stem Cells, and Mango Pulp, this hydrating resurfacer provides a basic level of exfoliation as it evens skin tone and helps to repair all levels of hyperpigmentation. Kojic Acid diminishes dark spots by reducing melanin production for a thoroughly brightened complexion."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book your peel today",
+     "html": "<strong>Book your peel today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Bring on the glow",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/12a4ab85-e661-4215-a3b4-036fa0c1ee42/face-skin-body-bar-calgary-injectables-laser-facial-19.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

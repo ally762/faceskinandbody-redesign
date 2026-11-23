@@ -1,0 +1,583 @@
+{
+ "slug": "acne-facials",
+ "title": "Acne Scar & Facial Treatments Calgary — Face Skin & Body Bar",
+ "description": "Reduce acne scars and refresh your skin with acne facials in Calgary. Schedule your treatment at Face Skin & Body Bar for a clearer, balanced complexion.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/684c845e2427cd1f49ad3db4/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/acne-facials",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/4e5e558f-dc24-4de1-93e6-2b04fbde0def/face-skin-body-bar-calgary-injectables-laser-facial-24.jpg",
+     "alt": "Profile of a young woman with clear skin and some acne spots on her cheek, looking to the right, against a plain beige background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Acne Facials In Calgary",
+     "html": "Acne Facials In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>Try Our Purifying Acne Facial for Congested, Acneic, and Oily Skin!</em>"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar in Calgary, we understand the unique challenges of struggling with breakouts, excess oil, and persistent congestion. Our specialized acne facial is expertly formulated as a deep cleanse and purification skin treatment, designed to address these specific concerns. If you're seeking to restore your skin's natural balance, gently exfoliate, and draw out impurities, our purifying acne facial offers a targeted path to a radiant and refreshed complexion."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "A simplified diagram showing three horizontal strings of different shapes inside a circle, representing waveform patterns.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "ACNE"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is A Purifying Acne Facial?",
+     "html": "What Is A Purifying Acne Facial?"
+    },
+    {
+     "t": "p",
+     "html": "Our Purifying Acne Facial is more than just a standard skin treatment; it's a comprehensive approach to combating the root causes of breakouts and congestion. This specialized acne-clearing facial is designed to provide a deep cleanse and purification for skin prone to breakouts, excess oil, and visible pores."
+    },
+    {
+     "t": "p",
+     "html": "The treatment begins with a thorough cleansing, followed by targeted exfoliation to gently lift away dead skin cells and prepare the skin for deeper work. Key to this acne facial is the careful process of extractions, where our skilled estheticians unclog pores, removing blackheads, whiteheads, and other impurities that contribute to congestion and breakouts. This step is crucial for clearing existing blemishes and preventing new ones from forming, significantly improving the overall texture of the skin."
+    },
+    {
+     "t": "p",
+     "html": "Our extended 75-minute Purifying Acne Facial also includes a clarifying Hydrojelly Mask. This professional-grade mask works synergistically with the facial to soothe inflammation, calm irritated skin, and further draw out impurities from deep within the pores. To further enhance results, a session of Blue Light Therapy is incorporated. Blue Light Therapy is scientifically proven to target and eliminate acne-causing bacteria on the skin's surface, reducing inflammation and accelerating the healing process of active breakouts. This multi-step approach ensures a purifying and restorative acne-clearing facial, leaving your skin less congested and more balanced."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Purifying Acne Facials",
+     "html": "Benefits Of Purifying Acne Facials"
+    },
+    {
+     "t": "p",
+     "html": "Embracing our Purifying Acne Facial offers a number of benefits for anyone struggling with breakout-prone skin:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Deep Cleansing and Detoxification</strong>"
+     ]
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Reduced Breakouts and Impurities</strong>"
+     ]
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Minimized Pore Size Appearance</strong>"
+     ]
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Balanced Oil Production</strong>"
+     ]
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Reduced Inflammation and Redness</strong>"
+     ]
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Improved Skin Texture and Tone</strong>"
+     ]
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Enhanced Skin Health</strong>"
+     ]
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Professional Expertise</strong>"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Acne facials at Face Skin &amp; Body Bar in Calgary are designed to clear congested skin, reduce active breakouts, and prevent future acne by cleansing pores, removing oil and debris, and performing safe extractions. These treatments minimize the appearance of enlarged pores, balance oil production, and reduce redness and inflammation through targeted therapies, such as Blue Light and Hydrojelly masks. The result is smoother texture, more even skin tone, and healthier skin overall, delivered by trained professionals for long-term improvement. However, this is not achieved through one treatment alone. The best course of action is to incorporate medical grade products along with regular facials and / or medical grade peels to really make a difference to acne prone skin."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Congested pores and frequent blackheads",
+      "Mild to moderate acne breakouts, including papules and pustules",
+      "Oily skin that often appears shiny or feels greasy",
+      "Uneven skin texture due to breakouts or clogged pores",
+      "Dull or devitalized skin that needs deep purification and exfoliation",
+      "Inflammation and redness associated with active blemishes"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "During your initial visit or at your first consultation, our experienced estheticians will thoroughly assess your skin type and specific skin concerns to confirm if this acne-clearing facial is the most suitable and effective solution for achieving your desired clear and balanced complexion."
+    },
+    {
+     "t": "p",
+     "html": "Our Purifying Acne Facial is specifically designed for individuals experiencing various levels of acne, congestion, and excess oil. You might be an ideal candidate if you struggle with:"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5e40d487-bac2-45a3-a808-c7e4463b4ab9/Extraction.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your 60 or 75-minute Purifying Acne Facial at Face Skin &amp; Body Bar is a comprehensive and calming experience, specially designed to address your skin concerns. The process typically includes:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Deep Cleanse",
+     "html": "<strong>Deep Cleanse</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Your skin will be thoroughly cleansed to remove makeup, surface impurities, and excess oil, preparing it for the treatment."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Gentle Exfoliation",
+     "html": "<strong>Gentle Exfoliation</strong>"
+    },
+    {
+     "t": "p",
+     "html": "A targeted exfoliation step will gently slough away dead skin cells and prepare the pores for deeper purification."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Steam and Preparatory Masque",
+     "html": "<strong>Steam and Preparatory Masque</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Steam will be used to soften the skin and open pores, followed by a preparatory masque to draw out impurities and make extractions more efficient."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Expert Extractions",
+     "html": "<strong>Expert Extractions</strong>"
+    },
+    {
+     "t": "p",
+     "html": "This crucial step involves meticulous and gentle extractions performed by our skilled estheticians to unclog pores, remove blackheads, whiteheads, and other forms of congestion, reducing inflammation and improving skin texture."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Clarifying Hydrojelly Mask (75 min only)",
+     "html": "<strong>Clarifying Hydrojelly Mask (75 min only)</strong>"
+    },
+    {
+     "t": "p",
+     "html": "A specialized Hydrojelly Mask designed to clarify and soothe will be applied. This mask delivers potent ingredients deep into the skin, helping to calm inflammation and further purify pores."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Blue Light Therapy (75 min only)",
+     "html": "<strong>Blue Light Therapy (75 min only)</strong>"
+    },
+    {
+     "t": "p",
+     "html": "A 15-minute session of therapeutic Blue Light Therapy targets acne-causing bacteria, reduces inflammation, and promotes healing, further enhancing the acne-clearing facial results."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Finishing Products",
+     "html": "<strong>Finishing Products</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The treatment concludes with the application of professional-grade serums, moisturizers, and SPF tailored to your skin's needs, leaving your skin balanced and protected."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b0436c50-d2c4-48f5-be9b-6769e1c19a48/Cleansing.jpg",
+     "alt": "A woman undergoing a facial massage at a spa or skincare clinic, with a white cloth laid across her forehead and a skincare professional using their hands to massage her face.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/24662030-d417-432d-8f5d-002c01887fee/bluelight_THerapy.jpg",
+     "alt": "Person lying on a treatment bed wearing a white LED mask for skin treatment",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments And Frequency Required",
+     "html": "<strong>Number Of Treatments And Frequency Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "While a single Purifying Acne Facial may provide some immediate improvement, for optimal and sustained acne clearing, a series of treatments or having them in concert with Medical-Grade Products and / or Medical Grade Peels are typically recommended. The exact number and frequency will depend on the severity of your acne and congestion, and your skin's response to the treatment. Generally, clients benefit from monthly treatments, 4 to 6&nbsp; weeks apart, followed by maintenance facials as needed. Your esthetician will create a personalized treatment plan and recommend any products during your initial visit, as requested."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Areas",
+     "html": "<strong>Treatment Areas</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our Purifying Acne Facial is primarily focused on the face, as this is the most common area for acne, congestion, and enlarged pores. However, the principles and techniques can be adapted to treat other areas prone to breakouts, such as the:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Neck",
+      "Chest (Décolleté)",
+      "Back"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Please discuss any body acne concerns during your consultation."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cost Of Purifying Acne Facials",
+     "html": "<strong>Cost Of Purifying Acne Facials</strong>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60-minute Purifying Acne Facial - $155",
+     "html": "<strong>60-minute Purifying Acne Facial - $155</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Membership Pricing</strong>:"
+    },
+    {
+     "t": "p",
+     "html": "Smart Skin - $166.50"
+    },
+    {
+     "t": "p",
+     "html": "Smart Skin Plus - $162.80"
+    },
+    {
+     "t": "p",
+     "html": "Accelerated - $157.25"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "75-minute Purifying Acne Facial - $185",
+     "html": "<strong>75-minute Purifying Acne Facial - $185</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Membership Pricing</strong>:"
+    },
+    {
+     "t": "p",
+     "html": "Smart Skin - $166.50"
+    },
+    {
+     "t": "p",
+     "html": "Smart Skin Plus - $162.80"
+    },
+    {
+     "t": "p",
+     "html": "Accelerated - $157.25"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "p",
+     "html": "After your Purifying Acne Facial, your skin will feel wonderfully cleansed and refreshed. You might notice a little redness or tenderness, especially if you had extensive extractions. Don't worry—any temporary redness from extractions usually calms down within just a few hours."
+    },
+    {
+     "t": "p",
+     "html": "Over the days that follow, it's completely normal to notice some initial \"purging\"—a sign that deeper impurities are actively moving to the skin's surface. As your skin continues to balance and heal, you may observe a reduction in blackheads, a minimized appearance of clogged pores, and a calming of overall inflammation. With a recommended series of treatments, you'll experience long-term improvement in acne management, leading to clearer, healthier, and more balanced skin."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we are your trusted partners in achieving clear, healthy skin. When you choose us for your acne facial, you benefit from:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Expert Practitioners",
+     "html": "<strong>Expert Practitioners </strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our estheticians are highly trained and experienced in addressing acne and congestion, providing safe and effective extractions and personalized care."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Targeted Solutions",
+     "html": "<strong>Targeted Solutions</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our Purifying Acne Facial is specifically formulated with synergistic ingredients and advanced techniques like Blue Light Therapy to combat the unique challenges of breakout-prone skin."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Comprehensive Approach",
+     "html": "<strong>Comprehensive Approach</strong>"
+    },
+    {
+     "t": "p",
+     "html": "We don't just treat symptoms; we aim to restore your skin's natural balance, preventing future breakouts and improving overall skin health and texture."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hygiene and Safety",
+     "html": "<strong>Hygiene and Safety</strong>"
+    },
+    {
+     "t": "p",
+     "html": "We maintain the highest standards of cleanliness and sterilization to ensure your comfort and safety during every skin treatment."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Personalized Care",
+     "html": "<strong>Personalized Care</strong>"
+    },
+    {
+     "t": "p",
+     "html": "We understand that every client's skin is unique. We provide tailored recommendations, including home care, to optimize and maintain the results of your acne-clearing facial."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Acne Facials Testimonials",
+     "html": "<strong>Acne Facials Testimonials</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"Such an all around wonderful experience! Nas is so knowledgeable and so kind. It was my first time here and she made me feel really comfortable and went through everything step by step. I will definitely be booking more treatments here. I see why there’s so many 5 star reviews.”"
+    },
+    {
+     "t": "p",
+     "html": "- Salma Mohamed"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"wow, wow, wow! I finally decided to search around for a place to get my first facial. A few friends sent me info on where they went, but I wanted to compare to see if I could find someone downtown, and THIS IS THE PLACE! They are prompt in replies in both email and social media, they are incredibly helpful on both platforms, and even better in person. I had such a wonderful experience from inquiry to service, all the staff are kind, helpful and knowledgeable. My skin is feeling wonderful, and I cannot wait to go back. I highly recommend it :) ”"
+    },
+    {
+     "t": "p",
+     "html": "- Chelsey Coulson"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"First time getting a facial done and what an awesome experience! The location was a great vibe, super clean and everyone there was very friendly. Nicole did an excellent job with the service, the facial was relaxing and my skin felt like new!\""
+    },
+    {
+     "t": "p",
+     "html": "- David Nunes"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "It's time to take control of your skin and reveal a clearer, more balanced complexion. Don't let congestion, breakouts, or excess oil dictate your confidence any longer."
+    },
+    {
+     "t": "p",
+     "html": "Contact Face Skin &amp; Body Bar in Calgary today to schedule your Purifying Acne Facial. Our expert team is ready to help you achieve the healthy, uniform skin you deserve."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/286963c1-1d42-45f5-bb2c-5a612138e3f2/face-skin-body-bar-calgary-injectables-laser-facial-20.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

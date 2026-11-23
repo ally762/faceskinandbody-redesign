@@ -1,0 +1,501 @@
+{
+ "slug": "brightening-facials",
+ "title": "Brightening Facial In Calgary — Face Skin & Body Bar",
+ "description": "Transform your skin and reveal a brighter, more radiant you with our signature Brightening Facial from Face Skin & Body Bar. This Brightening Facial is formulated to enhance skin luminosity and hydration. Utilizing a potent blend of antioxidants, peptides, skin brighteners, and anti-aging ingredients, this treatment promotes a brighter, more even-toned complexion.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/68c0749a40efd2200e61536d/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/brightening-facials",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ac8e5e7b-dbe5-48c4-a07b-076c4c157278/Face2-135.jpg",
+     "alt": "A woman lying on a treatment bed receiving a skincare facial treatment from a professional wearing a black mask and gloves, in a spa or skincare clinic.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "The Best Brightening Facial In Calgary",
+     "html": "The Best Brightening Facial In Calgary"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Diagram showing light rays reflecting inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "HYPERpIGMENTATION/ SUN DAMAGE",
+     "html": "HYPERpIGMENTATION/ SUN DAMAGE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "A circle with a diagonal X crossing through it.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Dull",
+     "html": "Dull"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An oscilloscope screen showing a waveform signal.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "FINE LINES & AGING",
+     "html": "FINE LINES &amp; AGING"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is A Brightening Facial?",
+     "html": "What Is A Brightening Facial?"
+    },
+    {
+     "t": "p",
+     "html": "Our Brightening Facial at Face Skin &amp; Body Bar is a powerful facial designed to give your skin a radiant and luminous glow. This advanced facial is formulated to enhance skin luminosity and hydration. Utilizing a potent blend of antioxidants, peptides, skin brighteners, and anti-aging ingredients, this treatment promotes a brighter, more even-toned complexion. The treatment works to revitalize and renew your skin cells, leading to a healthier skin barrier and a more youthful appearance. By incorporating key ingredients that address dullness and uneven skin tone, such as Vitamin C, Hydroquinone, and Kojic Acid, this facial gives your skin a noticeable boost in radiance. This treatment is essential for anyone seeking to improve the overall appearance of their skin."
+    },
+    {
+     "t": "p",
+     "html": "Our extended 75-minute Brightening Facial also includes an illuminating hydrojelly mask and LED Light Therapy, enhancing the treatment's effectiveness and leaving your skin feeling refreshed and revitalized. This facial treatment is suitable for a wide range of skin types and is a cornerstone of our skin care offerings."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of A Brightening Facial",
+     "html": "Benefits Of A Brightening Facial"
+    },
+    {
+     "t": "p",
+     "html": "Our Brightening Facial offers numerous benefits for your skin. This treatment is specifically designed to address dullness, overall skin health, and uneven skin tone, revealing a more vibrant and glowing appearance. The powerful, medical-grade ingredients used in this facial aid in exfoliation, removing dead skin cells that can make your skin look tired and lacklustre."
+    },
+    {
+     "t": "p",
+     "html": "The products and techniques applied in this treatment stimulate collagen production, helping to reduce the appearance of fine lines and wrinkles, promoting firmer and smoother skin. The deep hydration provided by this facial plumps the skin, minimizing the appearance of fine lines and giving your skin a youthful bounce. The exfoliation process also improves skin texture and allows other skin care products to penetrate more effectively."
+    },
+    {
+     "t": "p",
+     "html": "Our facial works to brighten and rejuvenate your skin, making it an ideal choice for anyone looking to improve the overall health and appearance of their skin."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "The Brightening Facial is a versatile treatment suitable for a variety of skin types and skin concerns. If you are struggling with a dull, uneven skin tone or a lack of radiance, this facial is an excellent choice. It is also an ideal treatment for those looking to combat the signs of aging, such as fine lines and wrinkles, and improve overall skin texture.&nbsp;&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "If you want a brighter, more youthful appearance and a boost in hydration, this is the facial for you. The customized nature of our treatment ensures that your unique skin type and skin concerns are addressed, providing you with the best possible outcome."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "When you come in for your Brightening Facial, you can expect a luxurious and comprehensive experience. Your facial treatment will begin with a thorough double cleanse of your skin to remove any impurities. This prepares your skin for the active ingredients that will be applied during the treatment."
+    },
+    {
+     "t": "p",
+     "html": "Next, a gentle facial steam and a tailored exfoliation will be performed to slough off dead skin cells and perform any necessary extractions, revealing the new and healthy skin beneath. This is followed by a revitalizing facial massage that helps to hydrate, increase circulation, and promote lymphatic drainage, decreasing puffiness and inflammation. The facial continues with the application of our powerful C Infusion TX Mask, which is packed with potent peptides and antioxidants. While the mask works its magic, you'll receive a soothing hand and arm massage or scalp massage, allowing you to fully relax during the treatment."
+    },
+    {
+     "t": "p",
+     "html": "For those who opt for the extended 75-minute facial, the treatment is enhanced with an illuminating orange hydrojelly mask and LED Light Therapy. The LED Light Therapy further boosts radiance and addresses a variety of skin concerns. The facial concludes with the application of a potent blend of serums and antioxidants to brighten and hydrate your skin. This comprehensive treatment ensures every aspect of your skin's health is addressed, leaving your skin visibly glowing."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "For optimal results, we recommend a series of 3 to 6 Brightening Facial sessions, spaced 2 to 4 weeks apart. This consistent treatment schedule helps to maintain the health of your skin and address specific skin concerns over time. Regular maintenance treatments are also recommended to prolong the radiant appearance of your skin."
+    },
+    {
+     "t": "p",
+     "html": "Facials are the foundation of any skin regimen. While they are not a magic bullet on their own, the combination of consistent professional facials and a medical-grade skin care routine at home will allow you to see significant, long-lasting changes in the appearance and health of your skin."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Cost",
+     "html": "<strong>Treatment Cost</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The cost of your Brightening Facial depends on the specific treatment you choose to receive:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>60-Minute Brightening Facial:</strong> $155",
+      "<strong>75-Minute Brightening Facial</strong> (with Hydrojelly and <strong>LED Light Therapy</strong>): $185"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "As a valued member of our Skin Investment Club, you can enjoy significant savings on all of our facial treatments. Depending on your membership tier, you can save anywhere from 10% to 15%. For more information on our membership benefits and tiers, please visit our<a href=\"https://www.faceskinandbody.ca/memberships\"> membership page</a>. The Skin Investment Club is a fantastic way to make consistent, professional skin care a part of your routine."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "p",
+     "html": "Immediately after your Brightening Facial, you may notice a significant improvement in the appearance and feel of your skin. Your skin will look more hydrated, and you will feel refreshed. There is little to no downtime with this treatment, making it a great facial to get before a special event."
+    },
+    {
+     "t": "p",
+     "html": "For the first few days following your treatment, depending on the level of exfoliation and any extractions performed, your skin may feel slightly sensitized. It's also completely normal to experience some \"purging\" during the first week, as your skin is clearing out impurities. This is a positive sign that the facial is working and will lead to a clearer complexion."
+    },
+    {
+     "t": "p",
+     "html": "While a single facial provides some immediate benefits, consistent treatments paired with a quality at-home skin care routine are key to achieving and maintaining long-term results, such as a reduction in the appearance of fine lines, overall skin clarity, and a reduction in any hyperpigmentation."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/80d52bfe-f2e0-4440-a2f6-0cd1c69dc97c/LEDLight_THerapy.jpg",
+     "alt": "A woman lying in a hospital bed wearing a mask with LED lights, possibly for therapy or relaxation.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before And After",
+     "html": "Before And After"
+    },
+    {
+     "t": "p",
+     "html": "The Brightening Facial is a rejuvenating experience designed to give your skin a healthy, glowing boost. It begins with a gentle double cleanse to remove impurities, followed by a light exfoliation to gently remove dead skin cells and reveal a fresher layer underneath. Next, we apply a powerful blend of brightening ingredients, including Vitamin C, Hydroquinone, and Kojic Acid, which work together to even out your skin tone and reduce dullness. The treatment also includes a relaxing facial massage to promote circulation and reduce puffiness. For added benefits, an illuminating hydrojelly mask and LED Light Therapy are included in the extended 75-minute session, enhancing the facial’s effectiveness. By the end, your skin will feel refreshed, hydrated, and radiant, with a more even and youthful complexion."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444365913-MLMYT3HJOYD5WNX1KEFO/SkinAssessment_2.jpg",
+     "alt": "SkinAssessment_2.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444350930-6TV7M9B2WEFF8SKASGWJ/Steam.jpg",
+     "alt": "Steam.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444746746-2R01E6LZP9H7BJKLUL2I/Cleansing+%281%29.jpg",
+     "alt": "Cleansing (1).jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444716233-MOZ2NPD5UYOWC2M0PK2G/FacialMassage.jpg",
+     "alt": "FacialMassage.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444835551-2GWK2OUN734O9DFPW567/General_Facial_Mask.jpg",
+     "alt": "General_Facial_Mask.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444840465-270W0F0MXQ0ZKP92ZPV5/hydrojelly.jpg",
+     "alt": "hydrojelly.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444854656-0H8WTGBCJN5E0GTSDFQ8/Head_Massage2.jpg",
+     "alt": "Head_Massage2.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444878962-25VJCWBAA42DSJ0KJ7WW/bluelight_THerapy+%281%29.jpg",
+     "alt": "bluelight_THerapy (1).jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444878961-DI4T430M8HD6ATLY02HH/Blue_Light_THerapy.jpg",
+     "alt": "Blue_Light_THerapy.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444382494-COQ7UAK1DD1RTNUVN88Q/After_Facial_Treatment+%281%29.jpg",
+     "alt": "After_Facial_Treatment (1).jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444365913-MLMYT3HJOYD5WNX1KEFO/SkinAssessment_2.jpg",
+     "alt": "SkinAssessment_2.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444350930-6TV7M9B2WEFF8SKASGWJ/Steam.jpg",
+     "alt": "Steam.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444746746-2R01E6LZP9H7BJKLUL2I/Cleansing+%281%29.jpg",
+     "alt": "Cleansing (1).jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444716233-MOZ2NPD5UYOWC2M0PK2G/FacialMassage.jpg",
+     "alt": "FacialMassage.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444835551-2GWK2OUN734O9DFPW567/General_Facial_Mask.jpg",
+     "alt": "General_Facial_Mask.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444840465-270W0F0MXQ0ZKP92ZPV5/hydrojelly.jpg",
+     "alt": "hydrojelly.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444854656-0H8WTGBCJN5E0GTSDFQ8/Head_Massage2.jpg",
+     "alt": "Head_Massage2.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444878962-25VJCWBAA42DSJ0KJ7WW/bluelight_THerapy+%281%29.jpg",
+     "alt": "bluelight_THerapy (1).jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444878961-DI4T430M8HD6ATLY02HH/Blue_Light_THerapy.jpg",
+     "alt": "Blue_Light_THerapy.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444382494-COQ7UAK1DD1RTNUVN88Q/After_Facial_Treatment+%281%29.jpg",
+     "alt": "After_Facial_Treatment (1).jpg"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we are committed to providing the highest quality skin care treatments. Our experienced estheticians are passionate about helping you achieve your skin goals. We use only premium cosmeceutical and medical-grade products and the latest technology to ensure your Brightening Facial is effective and safe for your skin. Our personalized approach means your treatment is tailored to your specific skin type and concerns, giving you the best possible outcome. We are experts in a range of skincare treatments, and our dedication to healthy skin is what sets us apart. We believe that everyone deserves to have beautiful, healthy skin, and our Brightening Facial is a wonderful step in that direction."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1757444716233-MOZ2NPD5UYOWC2M0PK2G/FacialMassage.jpg",
+     "alt": "A woman receiving a facial massage while lying on a massage table with a white towel wrapped around her head.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Client Testimonials",
+     "html": "Client Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I had a wonderful experience at Face. The facial was so relaxing, and my skin was glowing afterwards. The staff is extremely friendly and well-versed in the products. And the space is nice and clean and bright. I have already booked my next treatment. Can’t wait!”"
+    },
+    {
+     "t": "p",
+     "html": "- Erin Ferguson Real Estate"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"My first experience at Face Skin &amp; Body did not disappoint! Very cool open concept and the music was funky and chill.....a nice change from the typical spa atmosphere/vibe. Nicole was my facialist, and she did a fantastic job. Her massages were lovely and relaxing, and my skin looked and felt soft and glowy when I left. I would highly recommend it to anyone looking for a unique yet relaxing facial experience!”"
+    },
+    {
+     "t": "p",
+     "html": "-Rachelle Buskas"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“The prices are very budget-friendly. I had a dermaplaning and brightening facial. I must say the experience was amazing. I will definitely come back!!\""
+    },
+    {
+     "t": "p",
+     "html": "-Anjali Sood"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Transform your skin and reveal a brighter, more radiant you with our signature Brightening Facial. Say goodbye to dull, tired-looking skin and hello to a glowing, youthful appearance. This comprehensive facial treatment is the key to achieving your skin care goals."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/a5a59054-e447-41e5-af5a-92c6fe35a493/face-skin-body-bar-calgary-injectables-laser-facial-9.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

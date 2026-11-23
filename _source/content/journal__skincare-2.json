@@ -1,0 +1,98 @@
+{
+ "slug": "journal__skincare-2",
+ "title": "2026 Skin Longevity: Medical-Grade Strategies for Texture and Tone — Face Skin & Body Bar",
+ "description": "Master 2026’s skin longevity trends with our professional roadmap. From medical-grade skincare to RF Microneedling, discover how we build resilient, healthy skin.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/69a9ae1a41ea686a2aadd57a/1774287835789/IMG_2171+%281%29.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/skincare-2",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"2026 Skin Longevity: Medical-Grade Strategies for Texture and Tone \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/skincare-2\",\"datePublished\":\"2026-03-23T11:43:55-0600\",\"dateModified\":\"2026-03-23T11:43:55-0600\",\"headline\":\"The New Skin Philosophy: Texture, Tone, and Health\",\"author\":\"Heather Dybvig\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/69a9ae1a41ea686a2aadd57a/1774287835789/IMG_2171+%281%29.jpg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "In 2026, the conversation around aesthetics has matured. We’ve moved past the era of \"quick fixes\" and heavy-handed filters. Today, the most coveted asset isn't a specific feature—it’s vitality. We’re seeing a definitive move toward skin that looks resilient, clear, and fundamentally healthy."
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin and Body Bar, we specialize in this shift. We don't just \"provide services\"; we manage your skin’s long-term trajectory. Our approach is rooted in the understanding that your skin is a dynamic system that requires a strategic, multi-layered plan to perform at its best."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1763849412199-YU10WXV5LP9LX6E4GW21/IMG_2171.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Investing in Skin Quality over Quick Fixes",
+     "html": "<strong>Investing in Skin Quality over Quick Fixes</strong>"
+    },
+    {
+     "t": "p",
+     "html": "In 2026, the trend is Biostimulation. Instead of just \"filling a gap,\" we are asking your skin to work harder for you. The most sought-after look is skin that is firm, bouncy, and evenly toned—results that can’t be achieved with a single \"quick fix\" appointment."
+    },
+    {
+     "t": "p",
+     "html": "Our specialty is building long-term, sustainable change. We focus on a multi-modality approach that treats the skin at every layer:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>The Foundation: Medical-Grade Skincare</strong> True transformation starts at home. We provide customized, high-potency protocols that support your skin barrier and cellular turnover every single day.",
+      "<strong>The Maintenance: Regular Facial Treatments &amp; Peels</strong> Consistency is the secret to longevity. Regular clinical facials and next-generation chemical peels keep your skin polished, hydrated, and functioning at its peak.",
+      "<strong>The Refinement: Smart Neurotoxins</strong> In 2026, \"Tox\" is used strategically. We use it to soften expression lines while maintaining natural movement, preventing deep wrinkles before they form.",
+      "<strong>The Transformation: Annual Advanced Services</strong> To truly reset your skin’s biological clock, we recommend once-a-year \"power treatments.\" Whether it’s <strong>Microneedling</strong>, <strong>RF Microneedling</strong>, or <strong>IPL (Intense Pulsed Light)</strong>, these services trigger deep collagen remodeling and erase years of sun damage and textural irregularities."
+     ]
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1762814510299-LF3WHVSMQ7SDPTAUJ69V/3.png",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Speciality: The Long Game",
+     "html": "<strong>Our Speciality: The Long Game</strong>"
+    },
+    {
+     "t": "p",
+     "html": "We know our clients have demanding lives and limited time. You aren't looking for a radical departure from who you are; you’re looking for a version of yourself that looks as vibrant as you feel."
+    },
+    {
+     "t": "p",
+     "html": "Our expertise lies in building relationships that span years, not minutes. By combining consistent clinical care with targeted advanced technology, we ensure your skin doesn't just look better today—it stays healthier, firmer, and more luminous for the decade to come."
+    },
+    {
+     "t": "p",
+     "html": "<strong>Invest in your most visible asset.</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<a href=\"https://faceskin.zenoti.com/webstoreNew/services\">Schedule Your Comprehensive Skin Assessment</a>"
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "The New Skin Philosophy: Texture, Tone, and Health",
+  "date": "Mar 23",
+  "datetime": "2026-03-23",
+  "author": "Written by Heather Dybvig"
+ }
+}

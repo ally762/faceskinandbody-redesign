@@ -1,0 +1,488 @@
+{
+ "slug": "lip-fillers",
+ "title": "Get Natural Lip Fillers & Augmentation in Calgary — Face Skin & Body Bar",
+ "description": "Natural-looking lip fillers, lip augmentation, and lip injections in Calgary. Book your appointment at Face Skin & Body Bar for naturally beautiful lips.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/6887d768f014c948858f68f4/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/lip-fillers",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/0f54853a-4a37-4821-8ce6-1350afab2b81/lipfiller.jpg",
+     "alt": "Close-up of a woman's face split into two halves, showing a comparison between skin with signs of aging on the left and youthful, smooth skin on the right.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Lip Fillers In Calgary",
+     "html": "Lip Fillers In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>Natural, Balanced Lip Fillers at Face Skin &amp; Body Bar in Calgary!</em>"
+    },
+    {
+     "t": "p",
+     "html": "Dreaming of fuller, more defined, or beautifully balanced lips? Lip filler treatments offer a wonderful and versatile solution to subtly enhance your natural lip shape and volume. Whether you desire a more pronounced pout, improved symmetry, or a boost in hydration and definition, our expertly administered lip filler treatments at Face Skin &amp; Body Bar in Calgary can help you achieve your desired look with natural-looking results."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A stylized illustration of a waveform inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "A diagram of a circular shape with diagonal lines inside and around it, representing a raincloud or weather pattern.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Dry/Dehydrated"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Lip Filler Treatments Work",
+     "html": "How Lip Filler Treatments Work"
+    },
+    {
+     "t": "p",
+     "html": "At the core of our lip filler treatments are premium dermal fillers composed of Hyaluronic Acid (HA). Hyaluronic Acid is a substance that occurs naturally in your body, primarily in your skin, eyes, and joints. Its remarkable ability to attract and hold up to 1,000 times its weight in water makes it an ideal compound for adding volume and hydration. When precisely injected, Hyaluronic Acid fillers work by:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Adding Volume:</strong> The gel-like substance instantly adds fullness to the lips, creating a plump yet natural appearance.",
+      "<strong>Defining Shape:</strong> It can be strategically placed to sharpen the border of your lips, enhance the cupid's bow, or refine the overall contour.",
+      "<strong>Boosting Hydration:</strong> The Hyaluronic Acid attracts water to the treated area, significantly improving the lip's texture, softness, and overall suppleness. This also helps smooth out fine lines around the mouth."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Our lip filler treatments are performed with an artistic eye and a thorough understanding of facial anatomy by our highly skilled and experienced Registered Nurse Injector. This expertise ensures that each injection is precise, leading to harmonious and natural-looking results that beautifully complement your unique features."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Lip Fillers",
+     "html": "Benefits Of Lip Fillers"
+    },
+    {
+     "t": "p",
+     "html": "Lip fillers are a versatile way to address a variety of concerns and aesthetic goals, providing comprehensive enhancement to your smile and overall facial harmony. Our lip injections can help you:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Enhance Volume:</strong> Add subtle or more noticeable plumpness to thin lips, creating a fuller and more youthful appearance.",
+      "<strong>Define the Lip Border:</strong> Create a more distinct and youthful vermilion border (the outline of your lips), sharpening their overall shape.",
+      "<strong>Improve Symmetry:</strong> Correct minor imbalances in lip size and shape, ensuring a more balanced and harmonious look.",
+      "<strong>Smooth Vertical Lip Lines:</strong> Soften those fine lines that can appear above the upper lip (perioral lines or \"smoker's lines\"), contributing to a smoother perioral area.",
+      "<strong>Enhance the Cupid's Bow:</strong> Create a more defined and attractive \"V\" shape in the centre of your upper lip, adding a touch of elegance.",
+      "<strong>Boost Hydration:</strong> Improve lip texture and reduce dryness for a softer, more supple appearance, resulting in a healthy, natural glow.",
+      "<strong>Create a More Balanced Profile:</strong> By subtly enhancing lip projection and proportion, lip fillers can contribute to the overall harmony of your facial features and improve your profile.",
+      "<strong>Reduce Downtime:</strong> Unlike surgical options, lip filler treatments involve minimal downtime, allowing you to return to your daily activities quickly."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "Lip fillers are an excellent treatment option for individuals looking to enhance their natural beauty. You might be an ideal candidate for lip injections if you:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Desire increased volume in your lips, whether subtle or more pronounced",
+      "Wish to define the borders of your lips for a sharper, more youthful outline",
+      "Have asymmetrical lips and want to improve their balance",
+      "Are concerned about fine lines around the mouth",
+      "Seek to improve the hydration and texture of your lips for a more supple feel",
+      "Want to enhance your Cupid's Bow for a more defined shape",
+      "Are looking for a non-surgical solution to achieve fuller, more aesthetically pleasing lips"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "During your personalized consultation, our Registered Nurse Injectors will assess your natural lip shape and facial structure, and discuss your aesthetic goals to determine if lip fillers are the most suitable treatment for you."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your lip filler treatment at Face Skin &amp; Body Bar is designed to be a comfortable and efficient experience. The entire procedure typically takes approximately 30 to 45 minutes:"
+    },
+    {
+     "t": "list",
+     "ordered": true,
+     "items": [
+      "<strong>Personalized Consultation:</strong> Your journey begins with a thorough consultation. Your Registered Nurse Injector will take the time to understand your specific aesthetic goals, assess your natural lip shape and facial anatomy, and recommend the most suitable type and volume of Hyaluronic Acid dermal fillers to achieve your desired natural-looking results.",
+      "<strong>Numbing:</strong> To ensure your comfort during the injections, a topical numbing cream is applied to your lips before the treatment begins. Many dermal fillers also contain lidocaine, a local anesthetic, to further enhance comfort during the actual injections.",
+      "<strong>Precise Injections:</strong> Using very fine needles or cannulas, the dermal filler is carefully and strategically injected into specific areas of your lips. Our injector's artistic eye and expertise ensure precise placement to create the desired volume, definition, and symmetry while maintaining a natural appearance.",
+      "<strong>Gentle Massage:</strong> After the injections, the area may be gently massaged to ensure even distribution of the filler and smooth results."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "For most clients seeking lip enhancement, a single lip filler treatment session is sufficient to achieve their desired initial results. However, lip fillers are not permanent. To maintain your beautiful results, follow-up treatments are typically recommended every 6-12 months, depending on the type of Hyaluronic Acid filler used, your individual metabolism, and how quickly your body breaks down the filler. Our injector will provide a personalized recommendation for maintenance during your consultation."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Cost",
+     "html": "<strong>Treatment Cost</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The cost of lip fillers can vary depending on the type of Hyaluronic Acid dermal filler used and the volume (in millilitres) required to achieve your desired results. During your comprehensive consultation, we will provide you with a detailed quote for your personalized treatment plan."
+    },
+    {
+     "t": "p",
+     "html": "A lip treatment typically ranges from $375 to $650."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "The beauty of lip filler treatments is that the results are typically visible immediately after the injections. You'll notice an instant enhancement in volume, definition, and overall lip shape. While some initial swelling may obscure the final outcome, this will subside to reveal your beautifully natural-looking, supple lips. As the Hyaluronic Acid integrates with your skin, your lips will also feel softer and more hydrated. We will schedule you in for a one-month follow-up appointment to ensure everything has settled and the shape, volume, and balance are to your satisfaction."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "After Care",
+     "html": "After Care"
+    },
+    {
+     "t": "p",
+     "html": "Proper after care is essential for optimizing your lip filler results and ensuring a smooth recovery. Your Registered Nurse Injector will provide you with detailed post-treatment instructions, which typically include:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Avoiding touching, rubbing, or massaging the treated area for at least 24 hours",
+      "Applying a cold compress or ice pack intermittently to reduce swelling and bruising",
+      "Avoiding strenuous exercise, excessive heat (saunas, hot tubs), and alcohol for 24-48 hours",
+      "Staying well-hydrated",
+      "Sleeping with your head slightly elevated to help reduce swelling",
+      "Avoiding excessive sun exposure"
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Recovery Timeline",
+     "html": "Recovery Timeline"
+    },
+    {
+     "t": "p",
+     "html": "The recovery period after lip filler injections is generally minimal, but some common side effects include:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Immediately after</strong>: Mild swelling, tenderness, and possibly some redness at the injection sites are common.",
+      "<strong>First 24-48 hours:</strong> Swelling and minor bruising are typically at their peak. You might experience some mild discomfort.",
+      "<strong>5 to 7 days</strong>: Swelling and bruising should gradually subside. Most visible side effects typically resolve within a week.",
+      "<strong>2 to 4 weeks</strong>: Your lips should have settled, and you will see your final, beautiful results."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before And After",
+     "html": "Before And After"
+    },
+    {
+     "t": "p",
+     "html": "Witness the stunning transformations achieved with our expert lip filler treatments. Our gallery showcases real client results, demonstrating the beautifully enhanced volume, refined definition, and improved symmetry that our dermal fillers can deliver, always prioritizing a natural aesthetic."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753737578713-HCAV34AM6ORX5PIV2296/Lip_Filler+%282%29.png",
+     "alt": "Lip_Filler (2).png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753735542062-S1BHFGF4K0SZ5AU5Y2FK/1.png",
+     "alt": "1.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753735543025-G1WIE3N00V12XRV9RT66/2.png",
+     "alt": "2.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1762812164761-109BKYDYMYAYEMLU0JI5/JPEG+image-4443-8685-69-0.JPEG",
+     "alt": "JPEG image-4443-8685-69-0.JPEG"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1762812285933-VRB90T3K62V700HBQ7DX/IMG_2460.JPG",
+     "alt": "IMG_2460.JPG"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we are committed to providing an unparalleled dermaplaning experience in Calgary. Our dedication to excellence is reflected in:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Expert Practitioners</strong>: Our team consists of highly trained and certified professionals who specialize in precise and safe dermaplaning techniques.",
+      "<strong>Pristine Clinic</strong>: We adhere to the highest standards of hygiene and safety, ensuring every dermaplaning treatment is performed with sterile, single-use surgical blades.",
+      "<strong>Holistic Approach</strong>: Our 75-minute dermaplaning facial goes beyond simple exfoliation, incorporating an Intensive Recovery Hydrojelly mask and LED Light Therapy for comprehensive skin rejuvenation and deep nourishment.",
+      "<strong>Client-Centred Care:</strong> We prioritize your comfort and satisfaction, offering personalized advice and aftercare to ensure optimal, lasting results for all skin types."
+     ]
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1000fd73-6f34-41de-b4c1-7a87a029b906/LipInjectionwomen.PNG",
+     "alt": "A woman receiving a cosmetic injection in her lips from a medical professional wearing black gloves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Client Testimonials",
+     "html": "Client Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I was nervous about getting lip fillers for the first time, but the RN at Face Skin &amp; Body Bar made me feel so comfortable. My lips look amazing—perfectly plump and so natural! I couldn't be happier with the treatment.”"
+    },
+    {
+     "t": "p",
+     "html": "- Sarah L"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I've tried lip injections elsewhere, but the results here are superior. My lips are more defined, and the hydration boost from the Hyaluronic Acid is incredible. Plus, the minimal bruising was a huge plus!”"
+    },
+    {
+     "t": "p",
+     "html": "-Emily R"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“I highly recommend Face Skin &amp; Body Bar for dermal fillers. My injector understood exactly what I wanted—a subtle volume enhancement that still looked like my lips, just better. The natural result is fantastic!\""
+    },
+    {
+     "t": "p",
+     "html": "-Jessica T"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Ready to explore the possibilities of lip enhancement and reveal your perfect pout? Experience the difference that expertly administered dermal fillers can make."
+    },
+    {
+     "t": "p",
+     "html": "Contact Face Skin &amp; Body Bar in Calgary today to schedule your injectables consultation. Our skilled Registered Nurse Injectors are dedicated to helping you achieve the beautifully enhanced and natural-looking lips you've always wanted."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/a5a59054-e447-41e5-af5a-92c6fe35a493/face-skin-body-bar-calgary-injectables-laser-facial-9.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

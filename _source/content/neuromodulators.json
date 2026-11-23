@@ -1,0 +1,427 @@
+{
+ "slug": "neuromodulators",
+ "title": "Neurotoxins / Neuromodulators In Calgary — Face Skin & Body Bar",
+ "description": "Wondering how a neuromodulator treatment can help you achieve a more confident, natural-looking you. Read this from Face Skin & Body Bar in Calgary!",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/68a61a857bc8d2505fe9b038/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/neuromodulators",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/9b6bc5d3-31da-45ac-a88a-c809d334c036/IMG_9474.jpg",
+     "alt": "A person lying down while receiving a cosmetic injection in their nose area, administered by a healthcare professional wearing black gloves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Neurotoxins / Neuromodulators In Calgary",
+     "html": "Neurotoxins / Neuromodulators In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we believe in a subtle approach to beauty. Our expert team of Registered Nurse Injectors provides safe, effective, and personalized neuromodulator treatments right here in Calgary. We use leading cosmetic injectables to address dynamic facial lines and wrinkles, helping you achieve a refreshed and natural look that enhances your unique features. Our focus is on restoring a more youthful appearance while preserving your natural facial expressions. Discover how we can help you look and feel your absolute best."
+    },
+    {
+     "t": "btn",
+     "text": "Book Treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Oscilloscope screen displaying a wave signal in a circular view.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "<strong>FINE LINES &amp; AGING</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Are Neuromodulators?",
+     "html": "What Are Neuromodulators?"
+    },
+    {
+     "t": "p",
+     "html": "Neuromodulators, also known as neurotoxins, are a class of Injectable cosmetic treatments used to temporarily relax the muscles responsible for creating dynamic wrinkles and lines. When we squint, frown, or raise our eyebrows, these repeated facial expressions cause our skin to crease. Over time, these creases become etched, forming permanent static lines and wrinkles. Neuromodulators work by blocking nerve signals to these muscles, which temporarily prevents them from contracting. This allows the overlying skin to smooth out, reducing the appearance of existing lines and preventing new ones from forming. This non-surgical treatment is a cornerstone of modern aesthetic care."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Neuromodulators",
+     "html": "Benefits Of Neuromodulators"
+    },
+    {
+     "t": "p",
+     "html": "The benefits of a neuromodulator treatment extend far beyond simply smoothing wrinkles. This cosmetic treatment can help you achieve a more youthful and rested appearance by:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Smoothing facial lines and wrinkles",
+      "Preventing new fine lines from becoming deep-set wrinkles",
+      "Subtly lifting the brows or corners of the mouth",
+      "Treating excessive sweating (hyperhidrosis)",
+      "Creating a more balanced and harmonious facial aesthetic"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "The overall effect of this Injectable is a revitalized appearance that highlights your natural beauty. Our goal is to enhance, not erase, your facial expressions, leaving you with results that look soft, natural, and beautiful."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Neuromodulators / Neurotoxins We Carry",
+     "html": "Neuromodulators / Neurotoxins We Carry"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin and Body Bar, we believe in offering our clients the best in cosmetic care, which is why we proudly provide two of the most trusted neuromodulators used in the industry: Dysport™ and Nuceiva™. Both of these Injectable products are safe, Health Canada-approved, and are used to treat the dynamic wrinkles that result from facial movement. Your consultation will determine the type of product you receive, the area you want to treat, and our Medical Director's recommendations."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Dysport™",
+     "html": "Dysport™"
+    },
+    {
+     "t": "p",
+     "html": "Dysport is a highly popular Injectable treatment that is often used to treat the lines that form between the eyebrows, commonly known as the \"11s.\" Dysport is known for its ability to diffuse across a slightly wider area than other products, making it an excellent treatment option for larger areas such as the forehead. Results often appear quickly, with some clients seeing a noticeable difference in their facial wrinkles in as little as 2-3 days after treatment."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Nuceiva™",
+     "html": "Nuceiva™"
+    },
+    {
+     "t": "p",
+     "html": "Nuceiva is a newer Injectable option used primarily for cosmetic treatment. It is known for its ability to provide precise and natural-looking results, making it an ideal choice for targeting specific, smaller areas of the face. For clients in Calgary looking for a refined and accurate treatment to smooth lines and wrinkles, Nuceiva is an excellent option."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your Injectable treatment journey begins with a private consultation, during which we will discuss your goals, review your medical history, and assess your facial anatomy. This personalized approach is crucial to developing a treatment plan tailored to your specific needs. The treatment itself is quick, typically taking less than 20 minutes, with minimal discomfort."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Neuromodulator treatment is temporary. The effects of your treatment are not permanent and will typically last for 3 to 4 months. To maintain your desired goals, regular follow-up treatment sessions are recommended. Our team will work with you to create a schedule that fits your lifestyle."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Areas",
+     "html": "<strong>Treatment Areas</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Neuromodulators are most commonly used to treat areas on the upper part of the face. The most popular areas for this include forehead lines, frown lines (glabellar lines), and crow's feet around the eyes. Other facial areas can also be treated to achieve a more rested and youthful look."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Cost",
+     "html": "<strong>Treatment Cost</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The cost of your treatment is determined during your consultation and is based on the number of units used to address your specific goals and the areas being treated. At Face Skin &amp; Body Bar, we provide transparent pricing and will ensure you are fully informed before we proceed with your treatment."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "p",
+     "html": "You can expect to see initial results from your neuromodulator treatment within 3 to 7 days, with full results visible around 2 weeks after your appointment. There is virtually no downtime, allowing you to return to your daily routine immediately. You may experience minor redness or swelling at the injection sites, which should subside within a few hours. There is also a risk of bruising at the injection sites. We ask all of our patients not to take any NSAIDS (Ibuprofen) or drink any alcohol for a few days before treatment. Following our simple post-care instructions will ensure a smooth recovery time."
+    },
+    {
+     "t": "p",
+     "html": "Your follow-up appointment is a key part of the process. We'll schedule a time 2 to 3 weeks after your initial treatment to check in, ensure your results are beautifully balanced, and make sure you are happy with your new look."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3f0b81ec-30a0-4c97-9d64-fd12bd4fc9a7/Copy+of+face-skin-body-bar-calgary-injectables-laser-treatments-5.jpg",
+     "alt": "A woman wearing black gloves applies makeup or skincare to a man lying on a white bed or examination table with his eyes closed.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before & After",
+     "html": "Before &amp; After"
+    },
+    {
+     "t": "p",
+     "html": "In compliance with Health Canada regulations, we are unable to display before-and-after photos of neurotoxin treatments on our website. As Schedule D prescription drugs, neurotoxins like Botox™, Nuceiva™, Xeomin™, and Dysport™ are subject to strict advertising guidelines."
+    },
+    {
+     "t": "p",
+     "html": "Your safety and satisfaction are our top priorities. All of our injectors are Registered Nurses with over a decade of experience in bedside and aesthetic nursing. We would be happy to share in-clinic results and case studies with you during your personalized consultation."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/c493b163-029e-4cb1-a0a0-acf656351880/face-skin-body-bar-calgary-injectables-laser-facial-7.jpg",
+     "alt": "Close-up of a person using a dropper to apply oil onto their skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "Choosing the right clinic for your cosmetic care is a critical decision. At Face Skin &amp; Body Bar, located in the heart of Calgary, we are committed to excellence. Our team of experienced Nurse Injectors provides the highest standard of care and artistry. We believe in a holistic approach, where a thorough consultation and detailed treatment plan come before any procedure. Our priority is your safety, comfort, and satisfaction. We are a trusted name in cosmetic care in Calgary and are dedicated to helping you achieve your aesthetic goals. We understand that this is a personal journey, and our team will be with you every step of the way, ensuring your skin and facial cosmetic care needs are met."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/e20e0b78-0082-4fc1-bc2e-2f88bbd5ad10/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg",
+     "alt": "Two women with different skin tones and hair types close together, each with a colorful facial patch on one cheek, both looking at the camera against a neutral background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Patient Testimonials",
+     "html": "Patient Testimonials"
+    },
+    {
+     "t": "p",
+     "html": "Our loyal clients are a testament to the exceptional level of care we provide. See for yourself what our clients are saying about their experience with us. Their stories and positive feedback reinforce our commitment to delivering beautiful results and a welcoming environment right here in Calgary."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I've trusted Face for my tox injections since December 2022, and they consistently exceed expectations. Their Nurse Injectors are exceptional; they always listen attentively, take the time to answer all my questions, and consistently ensure my tox results are on point.”"
+    },
+    {
+     "t": "p",
+     "html": "- BG"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I always love going in for treatments. The most incredible experiences, immediate results, fabulous and knowledgeable team. I am always learning so much for the best results for my skin. I always look forward to my next appointment.”"
+    },
+    {
+     "t": "p",
+     "html": "- Julie Roth"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"Nas (the injections girl) was so patient with me. She did my forehead injections first while I nervously peppered her with questions about the lip procedure. She gently talked me through everything until I was absolutely ready. She is calm and knowledgeable, which made me feel at ease. I'm not going to lie, it was a bit pinchy and uncomfortable in some spots, but she used numbing cream so I felt less pain. I wanted to start with just 1/2 a syringe so as not to have \"dramatic duck lips,\" even though she assured me that would not be the case. I felt zero pressure from Nas to do more, but once she injected it, she recommended going with a full one. I am so glad I did! They look really nice and balanced. I'm not sure 1/2 a syringe would have given me the results I was hoping for. I did have some swelling the first few days, which made me concerned I was going to look overfilled and unnatural, but after the swelling subsided (took about a week), I was quite pleased with the results. Now I actually wear lip gloss / lip colour because I want to show them off! It was worth it, and I don't know why I hesitated so long. However, I do think you should take your time and do your research when it comes to cosmetic procedures. And also, if you're getting your lips done, make sure you have no big plans for about a week.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "If you're thinking of getting your lips done, I definitely recommend going to Face! My lips look full and natural, my forehead and eyes are wrinkle-free, and I am entering my 40's feeling sexy and confident.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Thanks, Nas!”"
+    },
+    {
+     "t": "p",
+     "html": "-Steph B"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“Such an all-around wonderful experience! Nas is so knowledgeable and so kind. It was my first time here, and she made me feel really comfortable and went through everything step by step. I will definitely be booking more treatments here. I see why there are so many 5-star reviews.\""
+    },
+    {
+     "t": "p",
+     "html": "-Salma Mohamed"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“I've come here for a few different services now, and it's been a fantastic experience each time! I started by getting a facial with Wendy. Very relaxing and left my skin glowing. I went back for injections, and I'm going back for IPL with Wendy. All the staff are very knowledgeable about what they do. The space is warm and welcoming. Great experience every time!\""
+    },
+    {
+     "t": "p",
+     "html": "-Lina T"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we believe your aesthetic goals are worth a conversation, not just a procedure. We invite you to schedule your personalized consultation to discuss how a neuromodulator treatment can help you achieve a more confident, natural-looking you."
+    },
+    {
+     "t": "p",
+     "html": "Your journey to looking and feeling your best starts with a simple step. We look forward to welcoming you."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3f827a72-39ab-45ca-b4f1-c51bfb70e23c/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

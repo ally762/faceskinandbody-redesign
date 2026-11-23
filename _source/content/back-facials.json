@@ -1,0 +1,378 @@
+{
+ "slug": "back-facials",
+ "title": "Back Facials In Calgary — Face Skin & Body Bar",
+ "description": "Book your back facial at Face Skin & Body Bar in Calgary today. Achieve smoother, clearer, and healthier skin on your back. Read this!",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/6867eca8e9e0df466ce801a7/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/back-facials",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/602ad5d4-e63a-447d-93d1-92ac65bf7386/backfacial_3pg.jpg",
+     "alt": "A woman getting a tattoo on her back from a tattoo artist in a room with white walls.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Back Facials In Calgary",
+     "html": "Back Facials In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>Indulge in a restorative and calming back facial at Face Skin &amp; Body Bar in Calgary!</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Line drawing of a circular lens with three adjustable wave patterns inside, representing a sonar or ultrasound device.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "ACNE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Black circle with a white X across it.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "DULL"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Line graph resembling a heart rate monitor with sharp peaks inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is A Back Facial?",
+     "html": "What Is A Back Facial?"
+    },
+    {
+     "t": "p",
+     "html": "A back facial is essentially a treatment specifically designed for the skin on your back. Often a neglected area, the back can experience many of the same skin concerns as the face, including acne, dryness, and uneven texture. Our comprehensive back facial at Face Skin &amp; Body Bar in Calgary provides a thorough deep cleansing and exfoliation to address these issues. This specialized facial targets impurities, excess oil, and dead skin cells that can contribute to breakouts and dullness. A key component of the back facial involves techniques to soothe and hydrate the skin, leaving it feeling refreshed and revitalized. Think of a back facial as a dedicated facial treatment to bring the same level of care and attention to the often-problematic skin on your back."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of A Back Facial",
+     "html": "Benefits Of A Back Facial"
+    },
+    {
+     "t": "p",
+     "html": "Incorporating a regular back facial into your skincare routine can yield significant benefits. One of the primary advantages is the effective acne treatment it provides. By targeting clogged pores and removing dead skin cells, a back facial helps to prevent and treat breakouts on the back. The deep cleansing aspect of the back facial ensures that impurities are thoroughly removed, reducing inflammation and promoting clearer skin. Furthermore, a back facial can improve the overall texture and tone of the skin on your back, making it smoother and more even. For those struggling with persistent acne or simply wanting to improve the appearance and feel of their back, a back facial offers a targeted and effective solution. This treatment can also address other skin concerns like dryness and flakiness, leaving your back feeling healthy and refreshed."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "Individuals experiencing acne breakouts on their backs are ideal candidates for a back facial. This specialized facial provides a focused treatment that can be difficult to achieve with at-home remedies alone. Those with oily skin on their back, prone to congestion and blackheads, will also benefit significantly from the deep cleansing and exfoliation offered by a back facial. As well, anyone seeking to improve the overall texture and appearance of the skin on their back, perhaps before a special event or during the summer months, can benefit from this treatment. Even without active acne, a back facial is an excellent preventative measure to maintain clear and healthy skin on your back. It helps keep your skin smooth and fresh and improves cellular turnover."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your back facial at Face Skin &amp; Body Bar in Calgary will begin with a gentle deep cleansing of the back to remove dead skin cells and surface impurities. Following the cleanse, an exfoliation treatment will be performed to further remove dead skin cells and unclog pores. This may involve a scrub, enzymes, or a gentle exfoliation technique tailored to your skin's needs. Extractions may be performed if necessary to address blackheads and whiteheads. A relaxing massage may be incorporated to promote circulation and relaxation. A customized mask will then be applied to target your specific skin concerns, such as acne or dryness. While the mask is setting, you will enjoy a hand and arm massage. To further enhance the benefits of your back facial, you might consider a chemical peel add-on for deeper exfoliation and acne treatment. Chemical peels also target stubborn scarring or hyperpigmentation. The treatment will conclude with the application of a hydrating moisturizer to leave your back feeling smooth and refreshed."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The number of back facial treatments needed will depend on the severity of your skin concerns, particularly acne, and your desired results. For mild acne or general maintenance, a single back facial may provide noticeable improvement. However, for more persistent or significant congestion, a series of treatments or moving into medical-grade peels spaced a few weeks apart is typically recommended for optimal acne treatment. Our experienced estheticians will assess your skin during your initial consultation and recommend a personalized treatment plan to address your individual needs."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cost Of Back Facial",
+     "html": "<strong>Cost Of Back Facial</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The cost of a back facial at Face Skin &amp; Body Bar in Calgary will vary depending on the specific type of treatment and any add-ons you choose."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Back Facial - $185",
+     "html": "Back Facial - <strong>$185</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong><em>Membership Pricing</em></strong>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin - $166.50</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plus - $162.80</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>The Accelerated - $157.25</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Resurfacer Add-on $45",
+     "html": "Resurfacer Add-on <strong>$45</strong>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Dermaplaning Add-On - $55",
+     "html": "Dermaplaning Add-On - <strong>$55</strong>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Medical Grade Back Peel - $265",
+     "html": "Medical Grade Back Peel - <strong>$265</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong><em>Membership Pricing</em></strong>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin - $238.50</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>Smart Skin Plus - $233.20</em>"
+    },
+    {
+     "t": "p",
+     "html": "<em>The Accelerated - $225.25</em>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "p",
+     "html": "Following your back facial, you can expect your back to feel cleaner, smoother, and more refreshed. If you were experiencing acne, you may notice a reduction in redness and inflammation. The exfoliation will leave your skin feeling softer and brighter. There is typically no significant downtime associated with a back facial, allowing you to resume your normal activities immediately. However, it's important to avoid excessive sun exposure and follow any after-care instructions provided by your esthetician to maximize the benefits and prevent further breakouts.&nbsp;"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar in Calgary, we understand that skincare extends beyond the face. Our dedicated team is trained in providing effective and relaxing back facial treatments to address your specific skin concerns. We use high-quality products and proven techniques to deliver visible results. Our commitment to client comfort and satisfaction ensures a positive and rewarding experience. We recognize the impact that clear and healthy skin can have on your confidence, and we are here to help you achieve that, from your face to your back."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/f0431adf-31dc-4b21-b86e-1b7735904871/Back_Facial_2.jpg",
+     "alt": "A woman receiving a cosmetic injection in her upper arm while lying on a treatment bed, with a practitioner wearing black gloves preparing the procedure with a small container and syringe.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Back Facials Testimonials",
+     "html": "Back Facials Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I have been to this location twice now, and both times just THRILLED with the service and the results. I'm a long-term client now for sure. Lovely space, super professional, very attentive to creating both a calming, relaxing experience as well as teaching me everything I didn't know about face care!”"
+    },
+    {
+     "t": "p",
+     "html": "- Diana P"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"Great experience and great results over time. Highly Recommend!”"
+    },
+    {
+     "t": "p",
+     "html": "-Michelle Y"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"wow, wow, wow! I finally decided to search around for a place to get my first facial. A few friends sent me info on where they went, but I wanted to compare to see if I could find someone downtown, and THIS IS THE PLACE! They are prompt in replies in both email and social media, they are incredibly helpful on both platforms, and even better in person. I had such a wonderful experience from inquiry to service, all the staff are kind, helpful and knowledgeable. My skin is feeling wonderful, and I cannot wait to go back. I highly recommend it :)\""
+    },
+    {
+     "t": "p",
+     "html": "- Chelsey Coulson"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Book your back facial at Face Skin &amp; Body Bar in Calgary today and experience the difference! Achieve smoother, clearer, and healthier skin on your back."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8adba5c8-e0c8-442c-8604-d2065f83f492/BackFacial_BackPeel.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

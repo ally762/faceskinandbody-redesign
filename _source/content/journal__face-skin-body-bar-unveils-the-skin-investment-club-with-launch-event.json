@@ -1,0 +1,42 @@
+{
+ "slug": "journal__face-skin-body-bar-unveils-the-skin-investment-club-with-launch-event",
+ "title": "Face Skin & Body Bar Unveils The Skin Investment Club With Launch Event — Face Skin & Body Bar",
+ "description": "Face Skin & Body Bar, a Calgary medical spa, is hosting the Skin Investment Club - Unveiled Event to celebrate its new membership program. Learn more here. ",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/691b99b2ae4fdc11b71c560a/1772046766216/face-skin-body-bar-calgary-injectables-laser-treatments-13.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/face-skin-body-bar-unveils-the-skin-investment-club-with-launch-event",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"Face Skin &amp; Body Bar Unveils The Skin Investment Club With Launch Event \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/face-skin-body-bar-unveils-the-skin-investment-club-with-launch-event\",\"datePublished\":\"2025-11-17T14:55:24-0700\",\"dateModified\":\"2026-02-25T12:12:46-0700\",\"headline\":\"Face Skin &amp; Body Bar Unveils The Skin Investment Club With Launch Event\",\"author\":\"Heather Dybvig\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/691b99b2ae4fdc11b71c560a/1772046766216/face-skin-body-bar-calgary-injectables-laser-treatments-13.jpg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "<strong>CALGARY, AB: </strong>Face Skin &amp; Body Bar, a medical spa in Calgary, is proud to announce the launch of its Skin Investment Club with the Skin Investment Club - Unveiled Event, taking place on Wednesday, November 5th, from 4:30 to 7:30. The event will feature stations geared towards acne, anti-aging and discolouration,&nbsp; complimentary consultations, food, wine, and once-a-year savings on some of their most popular advanced treatment series.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "The Skin Investment Club features three tiers: The Smart Skin Plan, The Smart Skin Plan Plus, and the Accelerated Smart Skin Plan. Each of these tiers offers clients a Beauty Bank: 100% of the plan payment goes into the bank to help clients save for services to help them on their skin care journey. The plans offer a 10%, 12%, or 15% discount on products and services, depending on the plan. Additionally, plan members can get a $25, $50, or $100 referral credit, depending on how much their referral spends in a visit."
+    },
+    {
+     "t": "p",
+     "html": "“The Skin Investment Club - Unveiled Event is going to be so much fun, and we encourage anyone with an interest in skincare to attend,” said Heather Dybvig, the co-founder and Manager of Operations at Face Skin &amp; Body Bar. “We’re going to feature demonstrations of some of the products and services we offer, great food, great wine, discounts on our memberships, and a lot of incredible people who want to help you look and feel your best.”"
+    },
+    {
+     "t": "p",
+     "html": "Face Skin &amp; Body Bar offers a variety of products and services, including chemical peels, microneedling, facials, injectables, fillers, laser hair removal, and medical-grade skincare products. The team helps clients determine which treatments are right for their skin, body, and goals, then creates a comprehensive treatment plan. It also offers specialized treatment plans like the Exclusive Lift &amp; Define Collection, the Bridal Skin Prep Collection, and the Texture &amp; Tone Transformation. These plans offer skincare over the course of several weeks or months to achieve your desired results.&nbsp;"
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "Face Skin & Body Bar Unveils The Skin Investment Club With Launch Event",
+  "date": "Nov 17",
+  "datetime": "2025-11-17",
+  "author": "Written by Heather Dybvig"
+ }
+}

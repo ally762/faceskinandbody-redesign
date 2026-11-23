@@ -1,0 +1,46 @@
+{
+ "slug": "journal__calgarys-face-skin-body-bar-now-offering-dysport-treatments",
+ "title": "Calgary’s Face Skin & Body Bar Now Offering Dysport Treatments<br/> — Face Skin & Body Bar",
+ "description": "Face Skin & Body Bar in Calgary has recently begun offering Dysport treatments. Learn more here!  \n",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/68682a2149e5cd2a5a331150/1772046830437/AdobeStock_249940566.jpeg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/calgarys-face-skin-body-bar-now-offering-dysport-treatments",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"Calgary\\u2019s Face Skin & Body Bar Now Offering Dysport Treatments\\n \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/calgarys-face-skin-body-bar-now-offering-dysport-treatments\",\"datePublished\":\"2025-07-04T13:25:44-0600\",\"dateModified\":\"2026-02-25T12:13:50-0700\",\"headline\":\"Calgary\\u2019s Face Skin &amp; Body Bar Now Offering Dysport Treatments\",\"author\":\"Heather Dybvig\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/68682a2149e5cd2a5a331150/1772046830437/AdobeStock_249940566.jpeg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "<strong>CALGARY, ALBERTA:</strong>&nbsp; Face Skin &amp; Body Bar, Calgary’s premier skincare clinic, has recently begun offering Dysport—an injectable neurotoxin that temporarily removes wrinkles and fine lines.&nbsp; Dysport can be administered on its own or in combination with other treatments as part of a customized treatment plan by gently reducing wrinkle-causing muscles. Dysport not only reduces existing lines but also helps prevent new ones, contributing to a lasting brilliance and overall more youthful appearance."
+    },
+    {
+     "t": "p",
+     "html": "Co-founded five years ago by Lisane Marins and Heather Dybvig, Face Skin &amp; Body Bar is Calgary’s premier destination for medical aesthetics &amp; integrative skincare.&nbsp; Staffed by a highly skilled team of Clinical Estheticians and Registered Nurse Injectors, it’s a place where state-of-the-art skincare is precisely tailored to clients’ needs and goals in a spa-like environment.&nbsp; From skin tightening to acne scar revision and the correction of discolouration, Face Skin &amp; Body Bar is dedicated to helping clients look and feel their very best.&nbsp; It’s array of cutting-edge treatments includes medical aesthetics (skin tightening, RF microneedling, IPL treatments, microneedling), targeted facial treatments, medical grade peels, laser hair removal, injectables, and much more.&nbsp;&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Recently, Face Skin &amp; Body Bar added Dysport to its menu of injectable treatment options.&nbsp; Like Botox, Dysport contains botulinum toxin type A, a naturally-derived neurotoxin that blocks the nerve signals responsible for wrinkle-causing muscle contractions.&nbsp; Dysport treatment is often used to target worry lines between the eyebrows (known as glabellar lines), but can also effectively smooth skin and restore a more youthful appearance in other areas of the face.&nbsp; For consistent wrinkle reduction, treatments are generally repeated every three to four months"
+    },
+    {
+     "t": "p",
+     "html": "Heather Dybvig, the owner of Face Skin &amp; Body Bar, notes that Dysport treatment has already proven to be a popular addition to the clinic’s extensive complement of other skincare services:&nbsp; “We don’t rely on any one single treatment,” she said.&nbsp; “Instead, our focus is on curating the right treatment combinations so that we can achieve superior results for each client.&nbsp; Dysport is one more tool that allows us to bring out our client’s natural beauty with a clear complexion and resilient, wrinkle-free skin.”&nbsp;&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "For more information about Face Skin &amp; Body Bar and the services it provides, visit <a href=\"https://faceskinandbody.ca\">https://faceskinandbody.ca</a>."
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "Calgary’s Face Skin & Body Bar Now Offering Dysport Treatments",
+  "date": "Jul 4",
+  "datetime": "2025-07-04",
+  "author": "Written by Heather Dybvig"
+ }
+}

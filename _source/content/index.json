@@ -1,0 +1,1291 @@
+{
+ "slug": "index",
+ "title": "Medical Spa & Skin Care Clinic in Calgary - Face Skin & Body Bar",
+ "description": "Calgary medical spa and skin care clinic offering Dysport and personalized treatments to help your skin look healthy, refreshed, and naturally radiant.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64a768cb6f6f9064e510664d/1688692939880/face-skin-body-bar-calgary-injectables-laser-treatments-11.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/23fe15e2-2a33-423c-a329-093f16d45650/face-skin-body-bar-calgary-injectables-laser-treatments-11.jpg",
+     "alt": "face skin and body bar facials, injectables and laser clinic Calgary",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Discover a new standard for skincare at Calgary’s only open-concept facial bar, laser, and injectables clinic.",
+     "html": "Discover a new standard for skincare at Calgary’s only open-concept facial bar, laser, and injectables clinic."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "btn",
+     "text": "Shop Now",
+     "href": "/shop-alumiermd"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Calgary SkincareTreatments",
+     "html": "<strong>Calgary Skincare<br>Treatments</strong>"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ad306f18-bad0-46f4-9f5a-75a3c393e8b1/Face-Logo-Print-Monogram1.png",
+     "alt": "A large, beige, stylized outline of a teardrop-shaped water droplet on a white background. Face Skin & Body Bar's logo.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/7a0793f9-4437-4e5d-8b9e-9126a593294a/face-skin-body-bar-calgary-injectables-laser-treatments-14.jpg",
+     "alt": "A man with dark hair and a beard is applying moisturizer to his face with a white spatula.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Targeted Facials",
+     "href": "/facials"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/904277be-2091-409d-9a01-9d54ae073da2/face-skin-body-bar-calgary-injectables-laser-facial-22.jpg",
+     "alt": "Flat lay of skincare products, a beauty brush, and a magazine with a woman lying against a brick wall, on a white surface.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Chemical Peels",
+     "href": "/chemical-peels"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1687984771222-88GBF1CVKN7ADWM08GTI/face-skin-body-bar-calgary-injectables-laser-treatments-2.jpg",
+     "alt": "A woman gets a cosmetic injection administered by a medical professional while lying on a treatment bed.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Injectables",
+     "href": "/injectables"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1687984772470-WYJZ03H5KEIUYX21V0CG/face-skin-body-bar-calgary-injectables-laser-treatments-8.jpg",
+     "alt": "A woman performing a radiofrequency skin tightening treatment on a client lying down with closed eyes.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Medical Aesthetics",
+     "href": "/medical-aesthetics"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1687986613840-FZX52H3Q80FU9NF2HEGV/face-skin-body-bar-calgary-injectables-laser-facial-17.jpg",
+     "alt": "Close-up of a woman's hand resting on her hip, wearing nude-colored sheer underwear, with smooth hairless skin. Demonstrating the power of laser hair removal",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Laser Hair Removal",
+     "href": "/laser-hair-removal"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Treatments Customized To Your Skin’s Needs",
+     "html": "Treatments Customized To Your Skin’s Needs"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fine Lines & Aging",
+     "html": "Fine Lines &amp; Aging"
+    },
+    {
+     "t": "p",
+     "html": "As we age, our skin undergoes significant structural and functional changes which leave us with reduced levels of collagen, elastin, and oil production. These changes, coupled with other age-related factors such as genetics, sun exposure, lifestyle choices, and hormonal shifts, can lead to fine lines and wrinkles, as well as noticeable volume loss over time. To help target this skin concern, the following treatments and products might be right for you."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin and a loss of collagen",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "ANTI-AGING FACIAL",
+     "html": "<a href=\"/facials\">ANTI-AGING FACIAL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MICRONEEDLING",
+     "html": "<a href=\"/medical-aesthetics\">MICRONEEDLING</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Medical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">Medical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency (Forma) FACIAL",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency (Forma)&nbsp;FACIAL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "skin TIghtening RF Treatment",
+     "html": "<a href=\"/medical-aesthetics\">skin TIghtening RF Treatment</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "ALUMIERMD Peel",
+     "html": "<a href=\"/chemical-peels\">ALUMIERMD Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Non-Invasive Lower Facelift",
+     "html": "<a href=\"/medical-aesthetics\">Non-Invasive Lower Facelift</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency Microneedling",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency Microneedling</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "NEUROTOXIN",
+     "html": "<a href=\"/injectables\">NEUROTOXIN</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Photofacial",
+     "html": "<a href=\"/medical-aesthetics\">IPL Photofacial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dermal Fillers",
+     "html": "<a href=\"/injectables\">Dermal Fillers</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hyperpigmentation/Sun Damage",
+     "html": "Hyperpigmentation/Sun Damage"
+    },
+    {
+     "t": "p",
+     "html": "Hyperpigmentation is a common skin condition that occurs when certain patches of the skin appear visibly darker than the surrounding areas. These hyperpigmented areas are caused by an excess of melanin, a pigment-producing substance in human skin, eyes, and hair.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Common examples of hyperpigmentation include sun damage, acne marks, freckles, age spots, and melasma. Achieving an even skin tone can be challenging, but understanding hyperpigmentation is a crucial first step towards achieving clear, vibrant skin."
+    },
+    {
+     "t": "p",
+     "html": "To help address this concern, we recommend the following list of treatments and products, which might be right for you."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar that depicts hyperpigmentation and sun damage",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hyperpigmentation Facial",
+     "html": "<a href=\"/facials\">Hyperpigmentation Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Microneedling",
+     "html": "<a href=\"/medical-aesthetics\">Microneedling</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Medical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">Medical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hyperpigmentation Facial",
+     "html": "<a href=\"/facials\">Hyperpigmentation Facial</a>&nbsp;"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "DermaQuest MangoBrite",
+     "html": "<a href=\"/chemical-peels\">DermaQuest MangoBrite</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Medical Grade SKincare",
+     "html": "<a href=\"/shop-alumiermd\">Medical Grade SKincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumierMD AHA Duo Peel",
+     "html": "<a href=\"/chemical-peels\">AlumierMD AHA Duo Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumierMD Glow Peel",
+     "html": "<a href=\"/chemical-peels\">AlumierMD Glow Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Treatments",
+     "html": "<a href=\"/medical-aesthetics\">IPL&nbsp;Treatments</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Medical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">Medical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "HA Dermal Fillers",
+     "html": "<a href=\"/injectables\">HA Dermal Fillers</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dry/Dehydrated",
+     "html": "Dry/Dehydrated"
+    },
+    {
+     "t": "p",
+     "html": "In our dry Calgary climate, dehydrated skin is a concern that we are all familiar with. Common signs are dull, tight and/or cracking skin, along with possible discomfort like sensitivity or redness. In some cases, dry skin might be associated with other skin concerns such as eczema, psoriasis and dermatitis. A combination of internal and external causes can perpetuate the severity, including incorrect product use, climate and diet. To help address this skin concern, the following treatments and products might be right for you."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hydrating Facial",
+     "html": "<a href=\"/facials\">Hydrating Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hydrating Facial",
+     "html": "<a href=\"/facials\">Hydrating Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Lactic Acid Resurfacer",
+     "html": "<a href=\"/chemical-peels\">Lactic Acid Resurfacer</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Soothing Facial",
+     "html": "<a href=\"/facials\">Soothing Facial</a>&nbsp;"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumierMD Renew 30 Peel",
+     "html": "<a href=\"/chemical-peels\">AlumierMD Renew 30 Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dermal Fillers",
+     "html": "<a href=\"/injectables\">Dermal Fillers</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dull",
+     "html": "Dull"
+    },
+    {
+     "t": "p",
+     "html": "Dull, lackluster skin lacks the ability to uniformly reflect light, causing a flat complexion with uneven skin tone. Internal and external factors, including dehydration, aging, stress, lack of exfoliation, and nutrition contribute to skin radiance. For targeted solutions to revive dull skin, explore the following treatments and products."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull lackluster skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Brightening Facial",
+     "html": "<a href=\"/facials\">Brightening Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Microneedling",
+     "html": "<a href=\"/medical-aesthetics\">Microneedling</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency Face Treatment",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency&nbsp;Face Treatment</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "radiofrequency (Forma) Facial",
+     "html": "<a href=\"/facials\">radiofrequency (Forma) Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency Face Treatment",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency&nbsp;Face Treatment</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dermaplaning",
+     "html": "<a href=\"https://www.faceskinandbody.ca/dermaplaning\">Dermaplaning</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Neurotoxin",
+     "html": "<a href=\"/injectables\">Neurotoxin</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency Microneedling",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency Microneedling</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Neurotoxin",
+     "html": "<a href=\"/injectables\">Neurotoxin</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dermal Fillers",
+     "html": "<a href=\"/injectables\">Dermal Fillers</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Photofacial",
+     "html": "<a href=\"https://www.faceskinandbody.ca/ipl\">IPL Photofacial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Acne",
+     "html": "Acne"
+    },
+    {
+     "t": "p",
+     "html": "Acne-prone skin is characterized by both non-inflammatory breakouts and inflammatory red, tender papules or cystic lesions. While this condition is more prevalent in individuals with oily skin, it can affect any skin type. Common triggers include incorrect product usage, hormones, diet, medication, genetics, and environmental factors. Appropriate management of acne requires addressing these factors in a comprehensive manner. To help target this skin concern, the following treatments and products might be right for you."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar that depicts acne or acne scarring",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Purifying Facial",
+     "html": "<a href=\"/facials\">Purifying&nbsp;Facia</a><a href=\"/facials\">l</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumierMD BHA 20 Peel",
+     "html": "<a href=\"/chemical-peels\">AlumierMD BHA 20 Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Pumpkin Resurfacer",
+     "html": "<a href=\"/peels\">Pumpkin Resurfacer</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Purifying Facial",
+     "html": "<a href=\"/facials\">Purifying&nbsp;Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency Microneedling",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency Microneedling</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Treatment",
+     "html": "<a href=\"/medical-aesthetics\">IPL&nbsp;Treatment</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumierMD Glow Peel",
+     "html": "<a href=\"/chemical-peels\">AlumierMD Glow Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Sensitive/Rosacea",
+     "html": "Sensitive/Rosacea"
+    },
+    {
+     "t": "p",
+     "html": "Skin sensitivity is a common condition that is presented with burning, itching, and/or tight, red skin. Individuals with sensitive skin can have greater reactions to a variety of services and products. Common reasons for skin sensitivity are damage to the skin barrier, medications, environmental causes, rosacea, and more. To help target this skin concern, the following treatments and products might be right for you.&nbsp;"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar that depicts redness or rosacea",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hydrating Facial",
+     "html": "<a href=\"/facials\">Hydrating Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hydrating Facial",
+     "html": "<a href=\"/facials\">Hydrating Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Soothing Facial",
+     "html": "<a href=\"/facials\">Soothing Facial</a>&nbsp;"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Lactic Acid Resurfacer",
+     "html": "<a href=\"/chemical-peels\">Lactic Acid Resurfacer</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumierMD Renew 30 Peel",
+     "html": "<a href=\"/chemical-peels\">AlumierMD Renew 30 Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Treatment",
+     "html": "<a href=\"/medical-aesthetics\">IPL&nbsp;Treatment</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/510b76f7-27f0-4b99-b651-8b0e0f81c27f/face-skin-body-bar-calgary-injectables-laser-facial-3.jpg",
+     "alt": "Close-up view of oil and water droplets suspended in a golden-brown liquid, creating an abstract pattern.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Our Medical Aesthetics",
+     "href": "/medical-aesthetics"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Treatments Customized To Your Skin’s Needs",
+     "html": "Treatments Customized To Your Skin’s Needs"
+    },
+    {
+     "t": "code",
+     "blocks": [
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Fine Lines & Aging",
+       "html": "Fine Lines &amp; Aging"
+      },
+      {
+       "t": "p",
+       "html": "As we age, our skin undergoes significant structural and functional changes which leave us with reduced levels of collagen, elastin, and oil production. These changes, coupled with other age-related factors such as genetics, sun exposure, lifestyle choices, and hormonal shifts, can lead to fine lines and wrinkles, as well as noticeable volume loss over time. To help target this skin concern, the following treatments and products might be right for you."
+      },
+      {
+       "t": "img",
+       "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+       "alt": ""
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Prevention",
+       "html": "Prevention"
+      },
+      {
+       "t": "btn",
+       "text": "ANTI-AGING FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "MICRONEEDLING",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Maintenance",
+       "html": "Maintenance"
+      },
+      {
+       "t": "btn",
+       "text": "FORMA FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "FORMA (RADIOFREQUENCY)",
+       "href": "#Forma"
+      },
+      {
+       "t": "btn",
+       "text": "ALUMIERMD PEEL",
+       "href": "/peels"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Reversal",
+       "html": "Reversal"
+      },
+      {
+       "t": "btn",
+       "text": "EVOKE",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "MORPHEUS 8",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "NEUROTOXIN",
+       "href": "/injectables"
+      },
+      {
+       "t": "btn",
+       "text": "LUMECCA (IPL) PHOTOFACIAL",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "FORMA",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Hyperpigmentation/Sun Damage",
+       "html": "Hyperpigmentation/Sun Damage"
+      },
+      {
+       "t": "p",
+       "html": "Hyperpigmentation is a common skin condition that occurs when certain patches of the skin appear visibly darker than the surrounding areas. These hyperpigmented areas are caused by an excess of melanin, a pigment-producing substance in human skin, eyes, and hair.<br><br> Common examples of hyperpigmentation include sun damage, acne marks, freckles, age spots, and melasma. Achieving an even skin tone can be challenging, but understanding hyperpigmentation is a crucial first step towards achieving clear, vibrant skin.<br><br> To help address this concern, we recommend the following list of treatments and products, which might be right for you."
+      },
+      {
+       "t": "img",
+       "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+       "alt": ""
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Prevention",
+       "html": "Prevention"
+      },
+      {
+       "t": "btn",
+       "text": "HYPERPIGMENTATION FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "MICRONEEDLING",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Maintenance",
+       "html": "Maintenance"
+      },
+      {
+       "t": "btn",
+       "text": "HYPERPIGMENTATION FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "DERMAQUEST MANGOBRITE",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "C-INFUSION RESURFACER",
+       "href": "/peels"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Reversal",
+       "html": "Reversal"
+      },
+      {
+       "t": "btn",
+       "text": "ALUMIERMD AHA DUO PEEL",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "ALUMIERMD GLOW PEEL",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "LUMECCA (IPL) PHOTOFACIAL",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Dry/Dehydrated",
+       "html": "Dry/Dehydrated"
+      },
+      {
+       "t": "p",
+       "html": "In our dry Calgary climate, dehydrated skin is a concern that we are all familiar with. Common signs are dull, tight and/or cracking skin, along with possible discomfort like sensitivity or redness. In some cases, dry skin might be associated with other skin concerns such as eczema, psoriasis and dermatitis. A combination of internal and external causes can perpetuate the severity, including incorrect product use, climate and diet. To help address this skin concern, the following treatments and products might be right for you."
+      },
+      {
+       "t": "img",
+       "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+       "alt": ""
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Prevention",
+       "html": "Prevention"
+      },
+      {
+       "t": "btn",
+       "text": "HYDRATING FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Maintenance",
+       "html": "Maintenance"
+      },
+      {
+       "t": "btn",
+       "text": "HYDRATING FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "LACTIC ACID RESURFACER",
+       "href": "/peels"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Reversal",
+       "html": "Reversal"
+      },
+      {
+       "t": "btn",
+       "text": "SOOTHING FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "AlumierMD Renew 30 Peel",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "Dermal Fillers",
+       "href": "/injectables"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Dull",
+       "html": "Dull"
+      },
+      {
+       "t": "p",
+       "html": "Dull, lackluster skin lacks the ability to uniformly reflect light, causing a flat complexion with uneven skin tone. Internal and external factors, including dehydration, aging, stress, lack of exfoliation, and nutrition contribute to skin radiance. For targeted solutions to revive dull skin, explore the following treatments and products."
+      },
+      {
+       "t": "img",
+       "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+       "alt": ""
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Prevention",
+       "html": "Prevention"
+      },
+      {
+       "t": "btn",
+       "text": "BRIGHTENING FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "MICRONEEDLING",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "Forma Face Treatment",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Maintenance",
+       "html": "Maintenance"
+      },
+      {
+       "t": "btn",
+       "text": "FORMA FACIAL",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "Forma Face Treatment",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "DERMAPLANING",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "Neurotoxin",
+       "href": "/injectables"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Reversal",
+       "html": "Reversal"
+      },
+      {
+       "t": "btn",
+       "text": "MORPHEUS8",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "Neurotoxin",
+       "href": "/injectables"
+      },
+      {
+       "t": "btn",
+       "text": "Dermal Fillers",
+       "href": "/injectables"
+      },
+      {
+       "t": "btn",
+       "text": "Lumecca (IPL) Photofacial",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Acne",
+       "html": "Acne"
+      },
+      {
+       "t": "p",
+       "html": "Acne-prone skin is characterized by both non-inflammatory breakouts and inflammatory red, tender papules or cystic lesions. While this condition is more prevalent in individuals with oily skin, it can affect any skin type. Common triggers include incorrect product usage, hormones, diet, medication, genetics, and environmental factors. Appropriate management of acne requires addressing these factors in a comprehensive manner. To help target this skin concern, the following treatments and products might be right for you."
+      },
+      {
+       "t": "img",
+       "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+       "alt": ""
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Prevention",
+       "html": "Prevention"
+      },
+      {
+       "t": "btn",
+       "text": "Acne Facial",
+       "href": "/facials"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Maintenance",
+       "html": "Maintenance"
+      },
+      {
+       "t": "btn",
+       "text": "AlumierMD BHA 20 Peel",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "PUMPKIN RESURFACER",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "Acne Facial",
+       "href": "/facials"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Reversal",
+       "html": "Reversal"
+      },
+      {
+       "t": "btn",
+       "text": "MORPHEUS8",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "Lumecca (IPL) Photofacial",
+       "href": "/advanced-treatments"
+      },
+      {
+       "t": "btn",
+       "text": "ALUMIERMD GLOW PEEL",
+       "href": "/peels"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Sensitive/Rosacea",
+       "html": "Sensitive/Rosacea"
+      },
+      {
+       "t": "p",
+       "html": "Skin sensitivity is a common condition that is presented with burning, itching, and/or tight, red skin. Individuals with sensitive skin can have greater reactions to a variety of services and products. Common reasons for skin sensitivity are damage to the skin barrier, medications, environmental causes, rosacea, and more. To help target this skin concern, the following treatments and products might be right for you."
+      },
+      {
+       "t": "img",
+       "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+       "alt": ""
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Prevention",
+       "html": "Prevention"
+      },
+      {
+       "t": "btn",
+       "text": "Hydrating Facial",
+       "href": "/facials"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Maintenance",
+       "html": "Maintenance"
+      },
+      {
+       "t": "btn",
+       "text": "Hydrating Facial",
+       "href": "/facials"
+      },
+      {
+       "t": "h",
+       "l": 2,
+       "text": "Reversal",
+       "html": "Reversal"
+      },
+      {
+       "t": "btn",
+       "text": "Soothing Facial",
+       "href": "/facials"
+      },
+      {
+       "t": "btn",
+       "text": "Lactic Acid Resurfacer",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "ALUMIERMD RENEW 30 PEEL",
+       "href": "/peels"
+      },
+      {
+       "t": "btn",
+       "text": "Lumecca (IPL) Photofacial",
+       "href": "/advanced-treatments"
+      }
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

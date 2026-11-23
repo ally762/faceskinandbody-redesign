@@ -1,0 +1,109 @@
+{
+ "slug": "journal__winter-proofing",
+ "title": "Winter Skincare Tips: Protect Your Skin’s Moisture Barrier — Face Skin & Body Bar",
+ "description": "Combat winter dullness and dehydration with a strategic skincare shift. Learn why your summer routine isn’t enough and how to protect your skin from the office to the elements.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/699f49f63ccb906d6e76cb4e/1772054219607/AdobeStock_Winter_SKin.jpeg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/winter-proofing",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"Winter Skincare Tips: Protect Your Skin\\u2019s Moisture Barrier \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/winter-proofing\",\"datePublished\":\"2026-02-25T14:16:59-0700\",\"dateModified\":\"2026-02-25T14:16:59-0700\",\"headline\":\"Winter Skincare Tips: Protect Your Skin\\u2019s Moisture Barrier\",\"author\":\"Guest User\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/699f49f63ccb906d6e76cb4e/1772054219607/AdobeStock_Winter_SKin.jpeg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "While the winter aesthetic is undeniable, the environmental toll on your skin is significant. Low humidity and plummeting temperatures don't just cause temporary dryness; they compromise your skin’s barrier function."
+    },
+    {
+     "t": "p",
+     "html": "Here is how to maintain a professional, radiant complexion when the forecast is working against you."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "1. Counteracting Environmental Stress",
+     "html": "<strong>1. Counteracting Environmental Stress</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Winter weather acts as a persistent \"moisture thief.\" The combination of sub-zero external air and recycled indoor heating strips the skin of essential lipids. This leads to more than just flaking—it causes inflammation and heightened sensitivity."
+    },
+    {
+     "t": "p",
+     "html": "Furthermore, cold, dry air accelerates free radical production. These unstable molecules degrade collagen and elastin, which can lead to a loss of skin \"bounce\" and a duller, more fatigued appearance by mid-afternoon."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/584690fd-39ac-4d49-bd39-0516c1a73b6a/AdobeStock_humidifyer.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "2. The High Altitude of UV Protection",
+     "html": "<strong>2. The High Altitude of UV Protection</strong>"
+    },
+    {
+     "t": "p",
+     "html": "A common misconception is that a lack of heat equals a lack of UV damage. In reality, UVA rays—the ones responsible for premature aging—remain constant year-round. If you are commuting or working near windows, your skin is still vulnerable."
+    },
+    {
+     "t": "p",
+     "html": "<strong>Note:</strong> If you are traveling for a ski weekend, remember that snow reflects up to <strong>80% of UV radiation</strong>, effectively doubling your exposure. SPF remains your most effective anti-aging tool, regardless of the season."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2d4ba617-977f-4c32-9ad6-42a64e562b9d/Shop+Sunscreens.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "https://ca.alumiermd.com/collections/sunscreens?code=N378PKW9",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "3. Managing the \"Heat\" Factor",
+     "html": "<strong>3. Managing the \"Heat\" Factor</strong>"
+    },
+    {
+     "t": "p",
+     "html": "While a hot shower is a common ritual for decompressing after a long day, it is counterproductive for skin health. Excessive heat disrupts the moisture barrier, allowing deep-seated hydration to evaporate instantly."
+    },
+    {
+     "t": "p",
+     "html": "To maintain skin integrity, opt for lukewarm water and follow the <strong>three-minute rule</strong>: apply your serums and moisturizers within three minutes of exiting the shower to lock in maximum hydration."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Efficiency Checklist: Winter Adjustments",
+     "html": "<strong>Efficiency Checklist: Winter Adjustments</strong>"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Upgrade Your Cleanser:</strong> Transition from gels or foams to a nourishing milk or oil-based cleanser.",
+      "<strong>The Humidifier Strategy:</strong> Balance the drying effects of office HVAC systems by using a humidifier at home to restore ambient moisture.",
+      "<strong>Ingredient Focus:</strong> Prioritize products containing <strong>Ceramides</strong> (to repair the barrier), <strong>Hyaluronic Acid</strong> (for deep hydration), and <strong>Vitamin C</strong> (to neutralize winter-induced free radicals)."
+     ]
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "Winter Skincare Tips: Protect Your Skin’s Moisture Barrier",
+  "date": "Feb 25",
+  "datetime": "2026-02-25",
+  "author": "Written by Guest User"
+ }
+}

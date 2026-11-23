@@ -1,0 +1,202 @@
+{
+ "slug": "acne",
+ "title": "Acne Treatments in Calgary — Face Skin & Body Bar",
+ "description": "Acne treatment in Calgary for teens & adults. Reduce breakouts, oily skin, scarring & congestion with tailored solutions that restore clear, balanced skin.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e3e78398dedd6263be97dd/1749838618010/face-skin-body-bar-calgary-injectables-laser-facial-24.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/acne",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/fd08503a-bada-4e8e-884c-35176cc3006e/face-skin-body-bar-calgary-injectables-laser-facial-24.jpg",
+     "alt": "Side profile of a woman with clear skin and some acne, against a beige background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Line drawing of a laundry symbol indicating tumble dry at low heat.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Acne / Acne Scarring Treatment Calgary",
+     "html": "Acne / Acne Scarring Treatment Calgary"
+    },
+    {
+     "t": "p",
+     "html": "Those with acne-prone skin can suffer from both non-inflammatory (breakouts) and inflammatory (red, tender papules or cystic lesions). Although acne is more common for individuals with oily skin, it is not tied to any one skin type. Frequent triggers for this condition include incorrect product usage, hormones, diet, medication, genetics, stress and environmental factors. To help target this skin concern, the following services and products might be right for you."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Solutions",
+     "html": "<strong>Solutions</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Purifying Facial",
+     "html": "<a href=\"/facials\">Purifying&nbsp;Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "ALUMIERMD BHA 20 PEEL",
+     "html": "<a href=\"/peels\">ALUMIERMD BHA 20 PEEL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "PUMPKIN RESURFACER",
+     "html": "<a href=\"/peels\">PUMPKIN RESURFACER</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Purifying FACIAL",
+     "html": "<a href=\"/facials\">Purifying&nbsp;FACIAL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "radiofrequency microneedling",
+     "html": "<a href=\"/medical-aesthetics\">radiofrequency microneedling</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Treatments",
+     "html": "<a href=\"/medical-aesthetics\">IPL&nbsp;Treatments</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumiermD Glow Peel",
+     "html": "<a href=\"/peels\">AlumiermD Glow Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/12a4ab85-e661-4215-a3b4-036fa0c1ee42/face-skin-body-bar-calgary-injectables-laser-facial-19.jpg",
+     "alt": "A woman with closed eyes and light makeup, wearing a black strap top and a stud earring, illuminated by soft sunlight.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/510b76f7-27f0-4b99-b651-8b0e0f81c27f/face-skin-body-bar-calgary-injectables-laser-facial-3.jpg",
+     "alt": "Close-up of oil droplets in water, creating a pattern of various-sized spheres against a brown background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Shop AlumierMD Acne Products",
+     "html": "<strong>Shop AlumierMD Acne Products</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Shop Now",
+     "href": "https://www.alumiermd.ca/t/skin-condition/blemish-prone?code=N378PKW9"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

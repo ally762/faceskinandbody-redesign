@@ -1,0 +1,199 @@
+{
+ "slug": "shop-alumiermd",
+ "title": "Shop AlumierMD Products — Face Skin & Body Bar",
+ "description": "AlumierMD offers award-winning, medical-grade skincare made with clean science—no parabens, sulfates, PEGs, dyes, fragrances, or harsh additives.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e400329474834af6d92932/1692663858124/Shop+Essentials.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/shop-alumiermd",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/24a3fc53-0f33-4880-ac4f-d82c9996945c/face-skin-body-bar-calgary-injectables-laser-facial-30.jpg",
+     "alt": "Person applying white cream or lotion to the back of their hand, with a neutral peach background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Shop AlumierMD",
+     "html": "Shop AlumierMD"
+    },
+    {
+     "t": "p",
+     "html": "AlumierMD is an award-winning medical grade skincare company that focuses on clean science. This means that all of their products are formulated without the use of artificial dyes &amp; fragrances, parabens, sulfates, phthalates, PEGs &amp; phenoxyethanol. The company develops professional-grade products that deliver transformative results - leveraging optimal concentrations of key ingredients that you know and trust, with hero ingredients clinically proven to enhance results."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5165df1c-1af6-4c26-9656-afcca056206c/Shop+Essentials.jpg",
+     "alt": "AlumierMD Essentials",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop essentials",
+     "href": "https://www.alumiermd.ca/t/categories/essentials?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/bf09d0ec-d070-4b5d-801d-298661a8115a/Shop+Sunscreens.jpg",
+     "alt": "AlumierMD Sunscreens",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Sunscreens",
+     "href": "https://www.alumiermd.ca/t/categories/sunscreens?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/c854a9ee-639a-4050-bc82-968f0d22a49b/Shop+Eye+Products.jpg",
+     "alt": "A tube of Allumer Retinol Eye Gel with white packaging and gold lettering, standing upright against a white background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Eye Products",
+     "href": "https://www.alumiermd.ca/t/categories/eye-products?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/fe0b0e41-fdae-4bd5-8469-28838ca5c4fe/Shop+Cleansers.jpg",
+     "alt": "AlumierMD Cleansers",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Cleansers",
+     "href": "https://www.alumiermd.ca/t/categories/cleansers?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/66a4b7d1-8a53-4e49-947d-ff706338d393/Shop+Moisturizers.jpg",
+     "alt": "AlumierMD Moisturizers",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Moisturizers",
+     "href": "https://www.alumiermd.ca/t/categories/moisturizers?code=N378PKW9"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/be00104d-2cec-4603-abe7-6eb75679fd63/30ml_Bottle_Acne_Balancing_Serum.jpg",
+     "alt": "AlumierMD Serums",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Targeted Serums",
+     "href": "https://www.alumiermd.ca/t/categories/targeted-serums?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/e3b4e595-e1f6-41d7-bad4-148c85ddea59/Shop+Exfoliants.jpg",
+     "alt": "AlumierMD Exfoliants",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Exfoliants",
+     "href": "https://www.alumiermd.ca/t/categories/exfoliants?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/9dff1075-7a1b-425d-b6b8-6d927cd8e523/Shop+Post-Procedure.jpg",
+     "alt": "AlumierMD Post Procedure",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Post Procedure",
+     "href": "https://www.alumiermd.ca/t/categories/post-procedure?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/e87092dc-a328-4801-b511-eab53805db47/Shop+Collections.jpg",
+     "alt": "AlumierMD Collections",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Collections",
+     "href": "https://www.alumiermd.ca/t/categories/collections?code=N378PKW9"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5084d86d-62cf-401e-9dca-78c77f722aef/Shop+Masks.jpg",
+     "alt": "AlumierMD Masks",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "btn",
+     "text": "Shop Masks",
+     "href": "https://www.alumiermd.ca/t/categories/masks?code=N378PKW9"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

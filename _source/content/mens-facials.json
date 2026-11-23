@@ -1,0 +1,378 @@
+{
+ "slug": "mens-facials",
+ "title": "Men's Facials In Calgary — Face Skin & Body Bar",
+ "description": "You can expect to see and feel immediate improvements after a men’s facial. This 60-minute men's facial includes a double cleanse, exfoliation, steam, extractions (optional), a targeted mask with massage, a targeted serum, moisturizer, and SPF.  A pre-treatment consultation and skin analysis will ensure your individual needs and goals are addressed.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/6887a958fbbc4f1d900d1dd6/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/mens-facials",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/886219fe-1460-450a-b7ba-fdc316a92271/face-skin-body-bar-calgary-injectables-laser-treatments-13.jpg",
+     "alt": "Three smiling adults, two women and one man, posing together against a beige background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Men’s Facials In Calgary",
+     "html": "Men’s Facials In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>Enjoy Men's Facial Treatments at Face Skin &amp; Body Bar in Calgary!</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "Line drawing of a round face with a large assemblage of curved lines inside, resembling a stylized face or abstract design.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "ACNE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "A crossed-out circle symbol, indicating prohibition or not allowed.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "DULL"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A heart rate monitor or electrocardiogram (ECG) waveform inside a circular outline.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "Illustration of a planet with ringed lines around it, resembling Saturn, with streaks indicating motion or rain.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Dry/Dehydrated"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Line graph showing fluctuating data points within a circular border.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Sensitive/Rosacea"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Line diagram showing airfoil with four angles of attack marked, pointing toward the airfoil from above.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Sun Damage"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is A Men’s Facial?",
+     "html": "What Is A Men’s Facial?"
+    },
+    {
+     "t": "p",
+     "html": "This type of facial is designed specifically for men to address the unique needs of male skin, which is often thicker, oilier, and more prone to razor burn and ingrown hairs. Our personalized men's facial at Face Skin &amp; Body Bar in Calgary goes beyond a basic cleanse. It's a comprehensive grooming experience that incorporates deep cleansing to remove impurities and excess oil. This specialized facial includes a relaxing massage to ease tension in the face, neck, and shoulders, promoting circulation and a refreshed feeling. It also focuses on exfoliation to slough away dead skin cells, improving skin tone, texture &amp; brightening. We tailor each facial to your individual concerns, ensuring optimal results."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Facial Treatments For Men",
+     "html": "Benefits Of Facial Treatments For Men"
+    },
+    {
+     "t": "p",
+     "html": "A regular facial offers numerous benefits for men. The face massage component helps to relieve stress and improve blood flow, contributing to healthier skin. Our deep cleansing helps to prevent breakouts and ingrown hairs caused by shaving. This treatment can significantly improve tone, texture &amp; brightening, leaving you looking and feeling refreshed. Furthermore, the targeted techniques and products used in our men's facial can address specific concerns like dryness, sensitivity, and the early signs of aging. Regular massage can also promote lymphatic drainage, reducing puffiness."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Here's a step-by-step guide to your experience:",
+     "html": "Here's a step-by-step guide to your experience:"
+    },
+    {
+     "t": "list",
+     "ordered": true,
+     "items": [
+      "<strong>Personalized Skin Analysis:</strong> Your treatment begins with a thorough consultation and skin analysis to understand your concerns and skin type, ensuring the facial is tailored just for you.",
+      "<strong>Deep Pore Cleansing:</strong> A powerful, yet gentle cleanser will remove surface impurities, excess oil, and grime, setting the stage for deeper purification.",
+      "<strong>Exfoliation &amp; Prep:</strong> A customized exfoliant will be applied to slough off dead skin cells, helping to smooth rough texture and prepare your skin for extractions. Warm steam will further open pores.",
+      "<strong>Targeted Extractions:</strong> If needed, our Medical Aestheticians will meticulously perform extractions to clear congested pores, blackheads, and address any ingrown hairs with precision.",
+      "<strong>Soothing Mask:</strong> A calming and balancing mask, chosen for your skin's needs, will be applied to reduce redness, soothe irritation (especially post-shave), and refine pores.",
+      "<strong>Relaxing Face &amp; Arm Massage:</strong> Enjoy a revitalizing massage of your face, shoulders, arms, and hands, designed to ease tension and promote relaxation.",
+      "<strong>Hydration &amp; Protection:</strong> The facial concludes with the application of high-quality serums, a targeted moisturizer, and a protective SPF, tailored to hydrate and safeguard your skin.",
+      "<strong>Expert Advice:</strong> Receive personalized recommendations for your at-home skincare routine to maintain your results."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The number of facial treatments required will vary depending on your individual skin concerns and goals. For maintenance and general skin health, a monthly facial can be highly beneficial. To address specific issues like acne or significant dryness, a series of treatments may be recommended, followed by maintenance sessions. Our estheticians will assess your skin and recommend a personalized treatment plan."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cost Of Men’s Facial",
+     "html": "<strong>Cost Of Men’s Facial</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The cost of our men's <strong>facial</strong> at Face Skin &amp; Body Bar in Calgary will depend on the specific type and any add-on treatments you choose. We offer a range of options to suit different needs and budgets:"
+    },
+    {
+     "t": "p",
+     "html": "<strong>60-minute Men’s Facial - $155</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong>75-minute Men’s Facial - $185</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    },
+    {
+     "t": "p",
+     "html": "You can expect to see and feel immediate improvements after your men's facial. Your skin will feel cleaner, smoother, and more hydrated. You may experience a healthy glow and a reduction in tension thanks to the facial massage and resulting lymphatic drainage. There is typically no downtime, allowing you to resume your normal activities immediately. With regular treatments, you'll notice continued improvement in your skin's overall health and appearance."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar in Calgary, we are dedicated to providing exceptional skincare experiences tailored to your unique needs. Our skilled and experienced estheticians are passionate about helping you achieve your best skin through effective treatments. We use high-quality products and advanced techniques to deliver visible results in a comfortable and professional environment. We understand the specific needs of men's skin and have designed our men's facial to address those concerns effectively."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/f946c4ea-5251-4d91-a396-b2eba9498539/face-skin-body-bar-calgary-injectables-laser-treatments-9.jpg",
+     "alt": "A young man and an older woman with face masks or peel-off skincare treatments on their cheeks, standing close together against a beige background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Men’s Facials Testimonials",
+     "html": "Men’s Facials Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"My guy had never experienced a facial...and the professionals there made the process soothing and friendly. The best part is when we couldn't find the location, the receptionist ran out and waved to show us the location. Please make this business a success. They deserve it!!!”"
+    },
+    {
+     "t": "p",
+     "html": "- T Paul"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"Such a rejuvenating experience. The location is convenient with ample parking. The FACE Skin and Body Bar is clean, open and very welcoming. Wendy did a quick consultation and began the relaxing and hydrating Men’s facial. The overall experience was enhanced by the atmosphere and the attention to detail. What a fantastic way to take some much-needed “me time”. Thank you!”"
+    },
+    {
+     "t": "p",
+     "html": "-David McKillop"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“First time getting a facial done and what an awesome experience! The location had a great vibe, was super clean, and everyone there was very friendly. Nicole did an excellent job with the service, the facial was relaxing, and my skin felt like new!\""
+    },
+    {
+     "t": "p",
+     "html": "- David Nunes"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Ready to experience the benefits of a customized men's facial?"
+    },
+    {
+     "t": "p",
+     "html": "Contact Face Skin &amp; Body Bar in Calgary today to book your appointment."
+    },
+    {
+     "t": "p",
+     "html": "Achieve healthier, smoother, and more revitalized skin. We look forward to helping you look and feel your best!"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/abca482b-1457-4820-99ca-b4b8c135a8a1/face-skin-body-bar-calgary-injectables-laser-treatments-12.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

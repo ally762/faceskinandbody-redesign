@@ -1,0 +1,337 @@
+{
+ "slug": "terms-conditions",
+ "title": "Terms & Conditions — Face Skin & Body Bar",
+ "description": "All content, resources, materials, images, text, designs, page layouts, logos, icons & graphics is owned by us unless attributed otherwise.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64a768cb6f6f9064e510664d/1688692939880/face-skin-body-bar-calgary-injectables-laser-treatments-11.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/terms-conditions",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Terms & Conditions",
+     "html": "Terms &amp; Conditions"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "<strong>Last updated on June 28, 2023</strong>"
+    },
+    {
+     "t": "p",
+     "html": "This website, scinteriordesign.com (“Site”) is owned and operated by Face Skin &amp; Body Bar, a business operating under the laws of Alberta, Canada. In these Terms, “we”, “us” and “our” refer to Face Skin &amp; Body Bar and the terms “you” or “your” refer to any individual user of our Site.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "NOTICE: It is your responsibility to carefully read these Terms of Use (“Terms”) prior to using our Site or accessing any of our services, content or resources (collectively, “Services”). These Terms govern and define your use of the Site and Services and are legally binding on you.&nbsp;<br>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "USE OF OUR SITE AND SERVICES",
+     "html": "USE OF OUR SITE AND SERVICES&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "When you accessed our Site, you were given reasonable notice that these Terms existed. By accessing and continuing to use our Site or by clicking to accept or agree to these Terms when the option is made available to you, you agree to be legally bound and abide by these Terms and our Privacy Policy whether or not you have read them. If you do not agree with these Terms or our Privacy Policy, you must not use or access our Site or Services.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "By using our Site or by clicking to accept these Terms of Use (“Terms”), you accept and agree to be bound by and comply with these Terms as well as our Privacy Policy and further agree you are the legal age of majority in your jurisdiction to enter into a contract with us. If you do not meet these requirements, you must stop using our Site.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "While we aim to keep this Site as up-to-date as possible, we cannot guarantee that all content on our Site is entirely accurate, complete, or up to date. We reserve the right at any time to modify or discontinue, in whole or in part, any Services offered or change the prices of Services without notice. We are not liable to you or any third-party for any modification, price change, suspension or discontinuation of any Services.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "If you wish to have any of your personal information and/or access to our Site removed, you may email us at info@faceskinandbody.ca and we will make reasonable efforts to do so. More information about how we collect, process and store your personal information can be found in our <a href=\"/privacy-policy\">Privacy Policy</a>."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "INTELLECTUAL PROPERTY AND OWNERSHIP OF RIGHTS",
+     "html": "INTELLECTUAL PROPERTY AND OWNERSHIP OF RIGHTS"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Ownership of Intellectual Property Rights</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "All content, resources, materials, images, text, designs, graphics, page layouts, icons, videos, logos, taglines, trademarks (whether common law or registered), copyright, and service marks (“Intellectual Property”) on our Site, Services or posted on social media is owned by us, unless attributed otherwise. All content on the Site and in any Services is proprietary to us and you may not modify, whether in whole or in part, and of our Intellectual Property as this is a violation of federal law. .&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "You are strictly prohibited, and may NOT under any circumstance, use our Intellectual Property in any way including re-posting or republishing any of our Intellectual Property to any third-party website or social media platform for any purpose whatsoever.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Limited License</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Any and all materials that you access as part of any Services through our Site or related domain are under the sole ownership or licensed use of Face Skin &amp; Body Bar including all Intellectual Property.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "When you purchase or opt-in to any Services, you receive a limited, non-transferable, non-exclusive, royalty free license for your non-commercial purposes only to access the content or materials provided to you by us as part of the Services. You do not obtain any ownership interest or other rights to the materials and all copyrights remain with us. As a condition of your use of any materials provided to you, you may not, under any circumstances, reproduce, copy, modify, sell or use such materials except as it was originally intended when it was provided by us to you, including sharing with any third-party, including members of your business or team. If it is determined that you have breached this limited license, this will be considered infringement of our Intellectual Property rights and we specifically reserve the right to seek damages, an injunction, or any such other available legal remedy in our sole discretion.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "As part of your limited, non-transferable, non-exclusive royalty-free license you may (i) access the Services for your personal use only; (ii) download or print any of the materials provided to you as part of the Services for your personal use or personal use in your business only; and (iii) use any of our Intellectual Property with our prior written consent so long as all materials show “©Face Skin &amp; Body Bar” as the source of the materials and marking any of our federally registered trademarks with “®” or our common law trademarks with “™”. If you wish to use, publish any of our content, resources or materials provided to you as part of the Services you must first write to us info@faceskinandbody.ca and request our consent.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Violations and Indemnity</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We take violations and infringement of our Intellectual Property rights seriously. We expressly reserve the right to take whatever legal steps necessary to protect and defend our Intellectual Property, and violators will be prosecuted to the fullest extent permissible by law. You agree to indemnify, defend and hold us harmless for any and all damages, costs and expenses, including legal fees, arising from your misuse of our Intellectual Property and our enforcement of our rights.&nbsp;<br>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "MEDIA RELEASE",
+     "html": "MEDIA RELEASE&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "By using our Site, you grant us a commercial license to use any image(s), including any containing your likeness, that you submit to us whether voluntarily or by default, such as your profile picture on any social media platforms, for our future business use."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "SECURITY",
+     "html": "SECURITY&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>General</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "You understand that unfortunately, the transmission of information via the internet is not completely secure. Although we make commercially reasonable efforts to protect your information, we cannot guarantee the security of your personal information transmitted to our Site. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on our Site.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Security</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "If at any time you are required to create a username and password to access any Services, it is your responsibility to protect your username and password from theft or any other means of unauthorized use that would violate these Terms. If you become aware that your password has been compromised or your account has been breached, it is your responsibility to notify us immediately by sending an email to info@faceskinandbody.ca.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Use of Third-Party Applications</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "In order to run our Site and provide our Services, we use a number of third-party applications, such as delivering electronic newsletters and forms. For more information as to how your personal information is collected, stored and processed, please refer to our Privacy Policy. You understand it is your responsibility to review the terms of use for any such third-party applications. If you do not agree with the terms of use for any third-party application used by our Site, please discontinue use of our Site and Services immediately.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Confidentiality</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "You acknowledge that we have no duty of confidentiality to you, unless otherwise explicitly stated, such as in a subsequent client agreement, or as may be mandated by law or fiduciary duty.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Your Communication with Us</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "By submitting a comment, photo, video or other materials to our Site or any other platform owned or maintained by us, you grant us a non-revocable, commercial license to re-publish your submission, in whole or in part, unless you expressly state that we may not do so. You acknowledge that we have no duty of privacy or confidentiality to you by accessing our Site.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Any communications made through our contact form, blog comments, social media pages or other related pages, or directly to our phone(s), mailing or email addresses is not held privileged or confidential and may be subject to viewing and/or distribution by third-parties. We own any and all communications displayed on our website, servers, comments, emails, or other media as permitted under law and will not give credit or pay royalties for unsolicited user-generated content such as blog comments or emails. For more information on when and how we store and use your communications or any information provided by you in those communications, please refer to our Privacy Policy.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We maintain the right to republish any communication or submission, in whole or in part, as reasonably necessary in the course of our business. You agree not to submit any content or communications that contain sensitive information or that could be illegal or serve an unlawful purpose, including, but not limited to communications that are potentially libelous or maliciously false, obscene, abusive, negligent, or otherwise harmful or inappropriate. We reserve the right, in our sole discretion, to block your access to our Site and Services as a result of any such behaviour that we deem inappropriate.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Prohibited Behaviour</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "By using our Site, you agree not to misuse or tamper with our Site, including but not limited to hacking, introducing viruses, trojans, worms, logic bombs or other technologically harmful material that would harm the functionality of, or jeopardize the security of our Site. We will immediately report any such breach or what we deem in our discretion to be harmful activities to the relevant law enforcement authorities. You agree to indemnify, defend and hold us harmless from any and all third-party claims, liability, damages and/or costs arising from your use and misuse of our Site and/or your breach of these Terms.&nbsp;"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "ASSUMPTION OF RISK AND DISCLAIMERS",
+     "html": "ASSUMPTION OF RISK AND DISCLAIMERS&nbsp;<br>"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Assumption of Risk</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Use of this Site is at your own risk. You understand and agree that use of our Site, its contents and purchase of any services, or items found or attained through this Site is at your own risk.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Warranties Disclaimer</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We make no warranties as to our Site, the Services or any related materials. You agree that our Site, and Services are provided “as is” and without warranty of any kind either express or implied. To the fullest extent permissible pursuant by applicable law, we expressly disclaim all warranties, including, but not limited to, warranties of merchantability, fitness for a particular purpose and non-infringement.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>No Guarantees</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "While we may reference certain results, outcomes or situations on this Site or Services, you understand and acknowledge that we make no guarantee as to the accuracy of any third-party statements or the likelihood of success for you as a result of any statements or testimonials contained on our Site or as part of the Services.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>General Disclaimer</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "To the fullest extent permitted by law, we expressly exclude any liability for any direct, indirect, or consequential loss or damage incurred by you or others in connection with the use of our Site or the Services, including without limitation any liability for any accidents, delays, injuries, harm, loss, damage, death, lost profits, personal or business interruptions, misapplication of information, physical, mental, emotional, or spiritual injury or harm, loss of income or revenue, loss of business, loss of profits or contracts, anticipated savings, loss of data, loss of goodwill, and for any other loss or damage of any kind, whether caused by negligence, breach of contract or otherwise, whether foreseeable or unforeseeable.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Earnings Disclaimer</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "You agree that you understand individual outcomes will vary. Case studies or testimonials are not indicative of guaranteed results. Each individual user approaches our Services with different backgrounds, disposable income levels, motivation, and other factors that are outside of our control. We cannot guarantee your success or financial gain merely upon access of our Site or your use of Services."
+    },
+    {
+     "t": "p",
+     "html": "<strong>Third Party Disclaimer</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "You acknowledge and agree that we are not liable for any defamatory, offensive, or illegal conduct of any other third-party participant or user, including you.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Technology Disclaimer</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We make reasonable efforts to provide you with modern, reliable technology, software, and platforms from which to access our Site and Services. In the event of a technological failure, you accept and acknowledge that we are not in any way responsible or liable for said failure and any resulting damages to you or your business. While we will make reasonable efforts to support you, some technological issues are outside our control and you may need to access support from a third-party provider. We do not warrant that the Site will be functional, uninterrupted, correct, complete, appropriate, or error-free, that defects will be corrected, or that any part of the Site or Services are free of viruses or other harmful components. We do not warrant or make any representations regarding the use or the results of the use of our Site, Services or related materials, or on third-party websites in terms of their correctness, accuracy, timeliness, reliability, or otherwise.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Third-Party Contributors</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We may provide content to you written by third-party contributors on our Site. While we make our best effort to ensure all of our writers are qualified in their industry and reflect our values, we make no guarantees of quality or accuracy. All written content on the Site are opinion pieces and must not be interpreted as our opinion or as specific advice. We are not liable for any third-party contributors’ content or opinions. You must not rely on Site content or third-party contributors’ opinions and always seek the appropriate professional advice.&nbsp;"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "LIMITATION OF LIABILITY AND INDEMNITY",
+     "html": "LIMITATION OF LIABILITY AND INDEMNITY&nbsp;<br>"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Limitation of Liability</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "EXCEPT WHERE SUCH EXCLUSIONS ARE PROHIBITED BY LAW, UNDER NO CIRCUMSTANCE WILL COMPANY NOR, WHERE APPLICABLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, SERVICE PROVIDERS, CONTRACTORS, LICENSORS, LICENSEES, SUPPLIERS, AFFILIATES OR SUCCESSORS (“COLLECTIVELY, THE “RELEASED PARTIES”) BE LIABLE FOR NEGLIGENCE, GROSS NEGLIGENCE, NEGLIGENT MISREPRESENTATION, FUNDAMENTAL BREACH OR DAMAGES OF ANY KIND, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, BREACH OF PRIVACY, OR OTHERWISE, EVEN IF THE PARTY WAS ALLEGEDLY ADVISED OR HAD REASON TO KNOW, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, OR RELIANCE ON, THE WEBSITE, ANY LINKED WEBSITES OR SUCH OTHER THIRD-PARTY WEBSITES, NOR ANY WEBSITE CONTENT, MATERIALS, POSTING, OR INFORMATION ON THE WEBSITE EVEN IF THE PARTY WAS ALLEGEDLY ADVISED OR HAD REASON TO KNOW.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "OUR SOLE AND ENTIRE MAXIMUM LIABILITY, FOR ANY REASON, AND YOUR AND YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY CAUSE, WHATSOEVER, SHALL BE LIMITED TO ANY ACTUAL AMOUNT PAID BY YOU FOR ANY PRODUCTS AND/OR SERVICES YOU HAVE ORDERED THROUGH OUR SITE.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Release, Indemnity and Waiver</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "To the maximum extent permitted by applicable law, you agree to defend, indemnify release and hold harmless the Released Parties from and against any claims, liabilities, damages, judgements, awards, losses, costs, expenses or fees (including reasonable legal fees) arising out of or relating to your breach of these Terms or your use of our Site, including but not limited to any user submissions, third-party sites, any use of our Site’s content or materials, services and products other than as expressly set out in these Terms.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Affiliates</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We may use affiliate links to sell certain products or services on our Site. In doing so, we disclaim any and all liability as a result of your purchase through one of the links, including but not limited to, the delivery, quality and safety of the purchased product or service. We will use reasonable efforts to notify you when and where we have placed affiliate links in addition to this disclaimer located in these Terms. You accept express liability for any and all consequences or benefits of clicking the affiliate links contained on our Site or related communications. You agree it is your obligation to read the terms and conditions for any affiliate site, services or products.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Termination of Your Use</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "If at any time we believe that you have violated these Terms, we shall immediately terminate your use of our Site, the Services and any related communications as we deem appropriate and in our sole discretion. At any time, we may block or revoke your access of our Site and Services at any time without notice, and if necessary, block your IP address from further visits to our Site.&nbsp;"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "GENERAL",
+     "html": "GENERAL&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Full Agreement</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "You acknowledge that these Terms of Use, together with our Privacy Policy constitute the full agreement relating to your use of the Site and Services.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Governing Law and Jurisdiction</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "These Terms as well as our Privacy Policy are governed by and interpreted in accordance with the laws of Alberta and the federal laws of Canada where applicable. Any disputes arising directly or indirectly from this Agreement will be submitted and heard exclusively in the courts of Calgary, Alberta.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Severability</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "If any of the provisions of these Terms are found to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions will not, to the extent permitted by law, in any way be affected and will remain enforceable.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>All Rights Reserved</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "We reserve the right to update and change these Terms at any time and it is your responsibility to review these Terms periodically. You can review the most current version of our Terms at any time by visiting this page. Your continued use of or access to the Site and/or Services affirms your acceptance of any changes to our Terms. All rights not expressly set out and granted in these Terms and Conditions of Use and/or our Privacy Policy are expressly reserved by us.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Contact</strong>&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "If you have any questions about these Terms and Conditions of Use, please send an email to: <a href=\"mailto:info@faceskinandbody.ca\">info@faceskinandbody.ca</a>"
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

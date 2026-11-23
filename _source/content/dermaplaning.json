@@ -1,0 +1,419 @@
+{
+ "slug": "dermaplaning",
+ "title": "Dermaplaning In Calgary — Face Skin & Body Bar",
+ "description": "Professional dermaplaning facial in Calgary — removes peach‑fuzz & dead skin for smoother, radiant skin. Enhance makeup prep or bridal glow. Book with Face Skin & Body.\n",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/6887bb1b3d80921b28928459/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/dermaplaning",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/146e72eb-242e-4faf-bdf3-5f1738f70232/Dermaplaning_1.jpg",
+     "alt": "A woman lying on a treatment bed receiving a cosmetic injections from a professional wearing black gloves in a clinic.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "The Ultimate Dermaplaning Experience At Face Skin & Body Bar",
+     "html": "The Ultimate Dermaplaning Experience At Face Skin &amp; Body Bar"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar in Calgary, we understand that truly healthy and luminous skin begins with a smooth, refined canvas. That’s why our dermaplaning facial is one of our most sought-after facial treatments, consistently delivering a vibrant complexion that our clients adore. If you're looking to brighten your complexion, enhance product absorption, and achieve a flawless makeup application, our expert dermaplaning treatment offers a non-invasive yet highly effective solution. Step into a world where your skin feels incredibly soft and looks visibly brighter."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "A blank black square image with a watermark indicating it is a placeholder.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "DULL"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Electrocardiogram graph showing heart rhythm.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "Line drawing of a planet with rings and numerous small lines indicating rain.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Dry/Dehydrated"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "A diagram of a circle with four arrows pointing inward toward the center, indicating a process or focus area.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Sun Damage"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is A Dermaplanning Facial?",
+     "html": "What Is A Dermaplanning Facial?"
+    },
+    {
+     "t": "p",
+     "html": "A dermaplaning facial is a sophisticated, non-invasive cosmetic procedure that involves the meticulous manual exfoliation of the outermost layer of the epidermis. Utilizing a sterile, surgical-grade blade, our highly trained practitioners gently glide the tool across the skin's surface. This precise technique effectively removes accumulated dead skin cells and the fine, wispy vellus hair—commonly known as \"peach fuzz\"—that can dull the complexion and trap debris."
+    },
+    {
+     "t": "p",
+     "html": "Unlike harsh abrasive scrubs, our dermaplaning treatment provides a gentle yet incredibly effective form of physical exfoliation. By carefully scraping away these superficial layers of dead skin, the procedure reveals the fresh, healthy skin underneath. This process immediately leaves your skin feeling incredibly smooth to the touch and looking exceptionally vibrant and glowing. It's a cornerstone of modern skin rejuvenation, offering instant gratification with lasting benefits."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Dermaplaning",
+     "html": "Benefits Of Dermaplaning"
+    },
+    {
+     "t": "p",
+     "html": "The advantages of incorporating a dermaplaning facial into your skin care routine are numerous and impactful, making it an incredibly popular choice for a wide range of skin concerns:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Instant Radiance and Smoothness:</strong> By removing dulling dead skin cells and peach fuzz, dermaplaning immediately reveals brighter, more luminous skin. The surface becomes incredibly smooth, allowing light to reflect evenly and creating a youthful glow.",
+      "<strong>Enhanced Product Absorption:</strong> With the barrier of dead skin cells and vellus hair removed, your serums, moisturizers, and other topical skin care products can penetrate much deeper into the skin. This significantly boosts their efficacy, allowing active ingredients to work more effectively.",
+      "<strong>Softened Appearance of Fine Lines and Wrinkles:</strong> While not a permanent solution for deep wrinkles, the removal of layers of dead skin on the surface helps to soften the appearance of fine lines and superficial wrinkles, making them less noticeable.",
+      "<strong>Flawless Makeup Application:</strong> The removal of peach fuzz and uneven skin texture creates an impeccably smooth canvas. Makeup glides on seamlessly, blends effortlessly, and appears more natural and airbrushed, making it the perfect skin treatment before special events.",
+      "<strong>Improved Skin Texture:</strong> Regular dermaplaning treatment contributes to a more refined and uniform skin texture, reducing the appearance of minor irregularities.",
+      "<strong>Non-Invasive and Minimal Downtime:</strong> As a gentle, manual exfoliation, dermaplaning requires virtually no downtime, making it an ideal \"lunchtime\" procedure for busy schedules.",
+      "<strong>Safe for Many Skin Types:</strong> Dermaplaning is generally safe and effective for a wide range of skin types."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "A dermaplaning facial is suitable for most skin types and tones, offering a versatile solution for numerous aesthetic goals. It's particularly ideal for individuals who wish to:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "Achieve an immediate boost in skin radiance and smoothness",
+      "Enhance the effectiveness of their topical skin care products",
+      "Reduce the appearance of fine lines and superficial wrinkles",
+      "Create a perfectly smooth canvas for makeup application",
+      "Remove bothersome peach fuzz (vellus hair) that can make skin look dull",
+      "Exfoliate dead skin cells gently without harsh chemicals",
+      "Find a gentle exfoliation method for sensitive skin types"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "However, it is not recommended for individuals with active acne breakouts, open wounds, or highly sensitive skin conditions like rosacea flares. Our expert practitioners will conduct a thorough skin assessment during your consultation to determine if a dermaplaning treatment is the most appropriate and effective pathway to your desired outcomes.<br>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your dermaplaning facial at Face Skin &amp; Body Bar is a relaxing and rejuvenating 75-minute experience. The process involves several key steps designed to maximize your comfort and results:"
+    },
+    {
+     "t": "list",
+     "ordered": true,
+     "items": [
+      "<strong>Thorough Cleansing:</strong> Your skin will be cleansed to remove all traces of makeup, oils, and environmental impurities, ensuring a clean and sterile canvas.",
+      "<strong>Dermaplaning Exfoliation:</strong> Using a sterile, surgical-grade blade, your practitioner will gently and expertly glide the tool across your skin at a precise angle. This careful technique manually exfoliates the surface, lifting away dead skin cells and peach fuzz (vellus hair). The process is comfortable and often described as a soft scraping sensation.",
+      "<strong>Intensive Recovery Hydrojelly Mask:</strong> Following the exfoliation, an Intensive Recovery Hydrojelly mask will be applied. This soothing and hydrating mask calms the skin, reduces any temporary redness, and infuses it with vital nutrients and hydration, enhancing the post-treatment glow.",
+      "<strong>LED Light Therapy:</strong> To further enhance skin rejuvenation and promote healing, a 15-minute session of LED Light Therapy will be administered. This gentle, non-invasive light treatment works at a cellular level to calm inflammation, stimulate collagen production, and accelerate the skin's recovery process."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "A single dermaplaning treatment delivers immediate and remarkable benefits, leaving your skin exquisitely smooth and luminous. For optimal, sustained results and to maintain your radiant complexion, we typically recommend scheduling a dermaplaning facial every 4 to 6 weeks. This cadence aligns perfectly with your natural skin cell turnover cycle, ensuring consistent exfoliation, preventing the buildup of dead skin cells and bothersome peach fuzz, and keeping your skin consistently at its best."
+    },
+    {
+     "t": "p",
+     "html": "This skin treatment is also highly recommended as a preparatory step before significant events such as weddings, important presentations, hot sunny vacations, anniversaries, or birthdays. It creates the perfect, flawlessly smooth canvas for makeup, ensuring you look and feel your absolute best on your special occasion."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cost Of Back Facial",
+     "html": "<strong>Cost Of Back Facial</strong>"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Dermaplaning Facial</strong> - $225"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Dermaplaning Add-on to any facial</strong> - $55"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Dermaplaning Back Facial</strong> - $275"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "treatment Areas",
+     "html": "<strong>treatment Areas</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our dermaplaning treatment is primarily performed on the face. However, it can also be safely applied to the:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Neck</strong>",
+      "<strong>Décolleté</strong>",
+      "<strong>Back</strong>"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "These areas often show signs of sun damage and aging, and dermaplaning can significantly improve their texture and appearance."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "Immediately following your dermaplaning treatment, you'll notice a remarkable difference: Your skin will feel incredibly soft, look exceptionally smooth, and possess a luminous, healthy glow. Makeup will glide on effortlessly, appearing more flawless than ever before. Over the days that follow, you'll continue to experience enhanced product absorption, allowing your favourite serums and moisturizers to deliver their benefits more effectively. The subtle softening of fine lines and overall improvement in skin texture contribute to a refreshed and revitalized appearance."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we are committed to providing an unparalleled dermaplaning experience in Calgary. Our dedication to excellence is reflected in:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Expert Practitioners</strong>: Our team consists of highly trained and certified professionals who specialize in precise and safe dermaplaning techniques.",
+      "<strong>Pristine Clinic</strong>: We adhere to the highest standards of hygiene and safety, ensuring every dermaplaning treatment is performed with sterile, single-use surgical blades.",
+      "<strong>Holistic Approach</strong>: Our 75-minute dermaplaning facial goes beyond simple exfoliation, incorporating an Intensive Recovery Hydrojelly mask and LED Light Therapy for comprehensive skin rejuvenation and deep nourishment.",
+      "<strong>Client-Centred Care:</strong> We prioritize your comfort and satisfaction, offering personalized advice and aftercare to ensure optimal, lasting results for all skin types."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Dermaplaning Testimonials",
+     "html": "Dermaplaning Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I've been to FACE twice now, and I've had an amazing experience both times. The first time, I just had a regular facial, and it was the most relaxing facial I've ever had. The second time I tried dermaplaning, I absolutely loved the results. The staff are friendly, the clinic is clean, and it has a very peaceful vibe!”"
+    },
+    {
+     "t": "p",
+     "html": "- Devin Carter"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I had an amazing dermaplaning facial with LED light therapy with Alexa, and I couldn’t be happier with the experience! From the moment I arrived, Alexa was incredibly friendly and made sure I felt completely comfortable and relaxed. The facial itself was thorough and left my skin feeling smooth, clean, and glowing. What really elevated the experience was the added head, shoulder, and arm massage; it was pure bliss and helped me fully unwind. The combination of expert care and soothing atmosphere made this treatment feel like a true escape. I left feeling refreshed, rejuvenated, and looking forward to my next visit. I highly recommend booking with Alexa!”"
+    },
+    {
+     "t": "p",
+     "html": "-Geerthana Jeyakumar"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“I got a dermaplaning facial. My experience was fantastic! Lisane was amazing, she was super patient and attentive with the service. Masterful energy 👏🏽✨10/10 would recommend it if you're looking for an all-around great facial! \""
+    },
+    {
+     "t": "p",
+     "html": "- Jesca Enright"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book A Consult Today",
+     "html": "<strong>Book A Consult Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Discover the remarkable difference a professional dermaplaning facial can make for your skin. We'll help you unveil an incredibly smooth, deeply hydrated canvas, revealing a complexion that's truly bright and luminous."
+    },
+    {
+     "t": "p",
+     "html": "Ready for this transformation? Connect with Face Skin &amp; Body Bar to schedule your dermaplaning treatment today."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b0436c50-d2c4-48f5-be9b-6769e1c19a48/Cleansing.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "slug": "journal__lesson-1-the-3-layers-of-skin",
+ "title": "The 3 Layers of the Skin — Face Skin & Body Bar",
+ "description": "Learn about the 3 layers of skin and why targeting different depths is key to reversing aging signs and achieving better, longer-lasting skincare results.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/64a76a41e42a055daf7463ce/1749746904372/pexels-alexander-krivitskiy-1257359.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/lesson-1-the-3-layers-of-skin",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"The 3 Layers of the Skin \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/lesson-1-the-3-layers-of-skin\",\"datePublished\":\"2023-06-28T11:07:00-0600\",\"dateModified\":\"2025-06-12T10:48:24-0600\",\"headline\":\"The 3 Layers of Skin and How They Impact Your Skincare\",\"author\":\"Carson Gallagher\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/64a76a41e42a055daf7463ce/1749746904372/pexels-alexander-krivitskiy-1257359.jpg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/7c7951df-96d1-4ea7-a89f-76a13694ed44/face-skin-body-bar-calgary-injectables-laser-facial-11.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why It Matters for Your Skin Routine",
+     "html": "Why It Matters for Your Skin Routine"
+    },
+    {
+     "t": "p",
+     "html": "This may not be the most riveting introduction to a new blog series but trust me, its required reading! Having a basic understanding of your skin’s anatomy and its 3 layers will help you to become more savvy in the world of skincare.&nbsp; It will help you to ask the right questions and understand the science behind many treatments and products available."
+    },
+    {
+     "t": "p",
+     "html": "Still with me? Great!"
+    },
+    {
+     "t": "p",
+     "html": "Essentially, you have three layers of skin:"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/bca053ca-393f-4fda-92e0-070a1bebbde1/skin-layers-600x600.png",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Epidermis",
+     "html": "The Epidermis"
+    },
+    {
+     "t": "p",
+     "html": "The outermost layer of your skin is also the first line of defense from the elements. It serves as a natural barrier to water, environmental pollutants, <a href=\"/hyperpigmentation-sun-damage\">UV rays</a>, bacteria, and germs. It is also the layer where the magic of skin cell renewal happens. This is one of the reasons our Esthies are always reminding people to make sure to wash their makeup off at night and exfoliate once a week. When you cleanse and exfoliate, it helps to remove the dead skin and let the new cells shine through. <a href=\"/facials\">Dermaplanning</a> is an example of a treatment that targets the <strong>Epidermis</strong>. It is a form of mechanical exfoliation that sloughs off the dead skin cells, revealing smooth skin underneath."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Dermis",
+     "html": "The Dermis"
+    },
+    {
+     "t": "p",
+     "html": "The middle layer, your Dermis, is home to hair follicles, connective tissues, sweat &amp; oil glands, blood vessels and contains two proteins that are synonymous with anything skin-related, Collagen &amp; Elastin."
+    },
+    {
+     "t": "p",
+     "html": "Why are Collagen &amp; Elastin so important? They are quite literally the foundation to healthy, youthful-looking skin. More than 80% of your Dermis is composed of Collagen.&nbsp; It is the cement within your connective tissues, the fibrous network of cells that holds everything together."
+    },
+    {
+     "t": "p",
+     "html": "Elastin, as the name suggests, allows for flexibility within those connective tissues. Elastin fibres allow connective tissues to stretch, retract, and resume shape. A breakdown of Elastin can lead to saggy skin, the inability of those cells to bounce back. The number one cause of elastin breakdown is <a href=\"/hyperpigmentation-sun-damage\">sun damage</a>, so make sure to wear your broad-spectrum 30 SPF."
+    },
+    {
+     "t": "p",
+     "html": "Simply put, Collagen provides that supple and youthful looking volume, and Elastin maintains your skin’s structure and firmness. Together, these proteins determine the structure, shape, elasticity and firmness of your skin.&nbsp;"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/5c8aca96-aecf-4d87-8b0f-b1cb4637ec3f/wrinkleformation.png",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Targeting the Dermis is the primary objective of most advanced facial treatments. LED (Red &amp; Infrared wavelengths) therapies penetrate the Dermis to promote Collagen and Elastin production.&nbsp; It is also the layer where Dermal Fillers like JuvedermTM and RestylaneTM are injected and <a href=\"/medical-aesthetics\">Microneedling (Collagen Induction Therapy)</a> takes place."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Hypodermis",
+     "html": "The Hypodermis"
+    },
+    {
+     "t": "p",
+     "html": "The final and deepest layer is the Hypodermis, also known as subcutaneous fat. This layer is primarily made up of fat, blood vessels, and nerves. A healthy layer of fat on your face is a good thing! When we age, we lose&nbsp;some of the fat padding in the Hypodermis. When we lose this foundation, the <a href=\"/fine-lines-and-aging\">skin starts to sag and wrinkles appear</a>. If you are looking into any of the emerging sculpting technologies, this is the layer that they are targeting.&nbsp;"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book a Personalized Skincare Consultation",
+     "html": "Book a Personalized Skincare Consultation"
+    },
+    {
+     "t": "p",
+     "html": "Remember these layers. Different technologies, devices, and treatments target, penetrate, or affect these layers in different ways to combat either specific or a combination of skin conditions. Make sure to talk to your Esthetician about your skin goals, what you love about your skin, and what you would ultimately like to achieve. This way, the products you use and the course of treatment you embark on can work in tandem to achieve optimal results.&nbsp;"
+    },
+    {
+     "t": "btn",
+     "text": "Book a consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "The 3 Layers of Skin and How They Impact Your Skincare",
+  "date": "Jun 28",
+  "datetime": "2023-06-28",
+  "author": "Written by Carson Gallagher"
+ }
+}

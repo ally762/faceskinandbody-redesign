@@ -1,0 +1,214 @@
+{
+ "slug": "dull-skin",
+ "title": "Dull Skin Treatment in Calgary — Face Skin & Body Bar",
+ "description": "Dull Skin Treatment in Calgary to restore your glow. Rejuvenate with brightening facials, Vitamin C therapy & targeted care for radiant, healthy skin.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e3e765afec467eea82baf6/1692657509383/face-skin-body-bar-calgary-injectables-laser-facial-25.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/dull-skin",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7b1b8f2-04f4-4cda-9287-8dd6fda4c3c5/face-skin-body-bar-calgary-injectables-laser-facial-25.jpg",
+     "alt": "Close-up of two women with different ethnic backgrounds, showing their faces in an artistic composition.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Black circle with four straight lines crossing inside, forming an X pattern.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Dull Skin Treatment Calgary",
+     "html": "Dull Skin Treatment Calgary"
+    },
+    {
+     "t": "p",
+     "html": "Dull skin can be described most accurately as lacking lustre - a flat complexion and uneven skin tone due to its inability to reflect light uniformly. Similar to other skin concerns, a number of internal and external factors can contribute to the skin’s radiance, including: lack of exfoliation, aging, dehydration, lack of nutrition and stress. To help target this skin concern, the following services and products might be right for you."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Solutions",
+     "html": "<strong>Solutions</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "BRIGHTENING FACIAL",
+     "html": "<a href=\"/facials\">BRIGHTENING FACIAL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MICRONEEDLING",
+     "html": "<a href=\"/medical-aesthetics\">MICRONEEDLING</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency TREATMENT",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency &nbsp;TREATMENT</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency (Forma) FACIAL",
+     "html": "<a href=\"/facials\">Radiofrequency (Forma)&nbsp;FACIAL</a><a href=\"/facials\"> </a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency TREATMENT",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency&nbsp; TREATMENT</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "DERMAPLANING",
+     "html": "<a href=\"/medical-aesthetics\">DERMAPLANING</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "NEUROTOXIN",
+     "html": "<a href=\"/injectables\">NEUROTOXIN</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency Microneedling",
+     "html": "<a href=\"/medical-aesthetics\">Radiofrequency Microneedling </a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "NEUROTOXIN",
+     "html": "<a href=\"/injectables\">NEUROTOXIN</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dermal Fillers",
+     "html": "<a href=\"/injectables\">Dermal Fillers</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Medical Grade Peels",
+     "html": "<a href=\"/peels\">Medical Grade Peels</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL PHOTOFACIAL",
+     "html": "<a href=\"/advanced-treatments\">IPL PHOTOFACIAL</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/cd2c9521-19c9-4ce9-ae11-ab5ecb299c04/face-skin-body-bar-calgary-injectables-laser-facial-31.jpg",
+     "alt": "Close-up of a person posing on the floor with their hand on their foot, showing smooth skin and natural lighting.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/225e1a1e-a4f3-4104-a2c2-d59eb754cfa2/face-skin-body-bar-calgary-injectables-laser-facial-14.jpg",
+     "alt": "Woman with towel-wrapped hair and earrings receiving facial treatment with a dropper.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Shop AlumierMD Anti Aging Products",
+     "html": "<strong>Shop AlumierMD Anti Aging Products</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Shop Now",
+     "href": "https://www.alumiermd.ca/t/skin-type/dry-skin?code=N378PKW9"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

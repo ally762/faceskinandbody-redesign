@@ -1,0 +1,196 @@
+{
+ "slug": "sensitive-rosacea",
+ "title": "Rosacea Treatments in Calgary — Face Skin & Body Bar",
+ "description": "Soothe rosacea-prone sensitive skin in Calgary with treatments that reduce redness, itching & burning. Heal your skin barrier for lasting comfort.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e3e95e506d620fffc050da/1692658014595/face-skin-body-bar-calgary-injectables-laser-facial-32.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/sensitive-rosacea",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/e6fc47a4-a127-47ff-99aa-9a4b8df6424c/face-skin-body-bar-calgary-injectables-laser-facial-33.jpg",
+     "alt": "Close-up of a young woman with long red hair and fair skin, with her eyes closed and head tilted slightly downward, wearing a light-colored top.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "Line drawing of a circle with multiple wavy lines inside, representing water or waves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Sensitive/Rosacea Treatment Calgary",
+     "html": "Sensitive/Rosacea Treatment Calgary"
+    },
+    {
+     "t": "p",
+     "html": "Skin sensitivity is a common condition that is presented with burning, itching, and/or tight, red skin. Individuals with sensitive skin can have greater reactions to a variety of services and products. Common reasons for skin sensitivity are damage to the skin barrier, medications, environmental causes, rosacea, and more. To help target this skin concern, the following services and products might be right for you."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Solutions",
+     "html": "<strong>Solutions</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hydrating Facial",
+     "html": "<a href=\"/facials\">Hydrating Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hydrating Facial",
+     "html": "<a href=\"/facials\">Hydrating Facial</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "SOOTHING FACIAL",
+     "html": "<a href=\"/facials\">SOOTHING FACIAL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "LACTIC ACID RESURFACER",
+     "html": "<a href=\"/peels\">LACTIC ACID RESURFACER</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Treatment",
+     "html": "<a href=\"/medical-aesthetics\">IPL Treatment</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "AlumiermD renew 30 Peel",
+     "html": "<a href=\"/peels\">AlumiermD renew 30 Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ddab83c2-d1c5-4ec0-a1d4-d5935e66332b/face-skin-body-bar-calgary-injectables-laser-facial-29.jpg",
+     "alt": "Close-up of a person's shoulder and upper back with water droplets on their skin, wearing a beige strap top.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ee53d5f7-c579-415d-9ea2-05252de14ced/face-skin-body-bar-calgary-injectables-laser-facial-26.jpg",
+     "alt": "Close-up of white paint spread in swirling patterns.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Shop AlumierMD sensitive skin products",
+     "html": "<strong>Shop AlumierMD sensitive skin products</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Shop Now",
+     "href": "https://www.alumiermd.ca/t/skin-condition/redness-prone-and-sensitive?code=N378PKW9"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

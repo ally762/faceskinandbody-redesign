@@ -1,0 +1,86 @@
+{
+ "slug": "journal",
+ "title": "Skincare Journal Calgary — Face Skin & Body Bar",
+ "description": "Discover expert skincare tips, facial advice, and aesthetic insights in our Skincare Journal. Stay updated with the latest trends and treatments.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64a768cb6f6f9064e510664d/1688692939880/face-skin-body-bar-calgary-injectables-laser-treatments-11.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [],
+ "posts": [
+  {
+   "title": "The New Skin Philosophy: Texture, Tone, and Health The Art of the Bridal Reveal: A Masterclass in Skin Preparation Winter Skincare Tips: Protect Your Skin’s Moisture Barrier Face Skin & Body Bar Unveils The Skin Investment Club With Launch Event Calgary’s Face Skin & Body Bar Now Offering Dysport Treatments Non-Surgical Skin Tightening in Calgary Morpheus8, Botox (neurotoxin) & Dermal Fillers The 3 Layers of Skin and How They Impact Your Skincare 5 of the Biggest Facial Myths, Busted!",
+   "href": "/journal/skincare-2",
+   "date": "2026-03-23",
+   "excerpt": "In 2026, the standard for aesthetics has evolved from \"quick fixes\" to Skin Longevity. At Face Skin and Body Bar, we manage your skin’s long-term trajectory through a strategic blend of medical-grade protocols and advanced biostimulation to ensure your most visible asset remains resilient, radiant, and fundamentally healthy. Bridal radiance is a curated journey, not a last-minute event. For the bride who values precision, achieving a flawless complexion requires a strategic, months-long approach. From deep structural repair to the final luminosity-boosting treatment, discover our expert roadmap to effortless bridal elegance. Environmental shifts in winter do more than just cause dryness; they actively compromise your skin’s barrier and accelerate collagen depletion. From the science of free radical production to the strategic necessity of year-round SPF, this guide outlines a professional approach to maintaining a resilient, radiant complexion despite the harsh effects of low humidity and indoor heating. Discover advanced non-surgical skin tightening treatments in Calgary at Face Skin & Body Bar. We specialize in RF and RF microneedling, plus a unique non-invasive lower facelift. Achieve tighter, rejuvenated skin without surgery. Learn more and book a consultation Learn more about the three most effective non-invasive procedures for combatting the signs of aging; Morpheus8, Dermal Fillers & Neurotoxin & how they can be used together to radically transform your skin. This may not be the most riveting introduction to a new blog series but trust me, its required reading! Having a basic understanding of your skin’s anatomy and its 3 layers will help you to become more savvy in the world of skincare. It will help you to ask the right questions and understand the science behind many treatments and products available. Facial Treatments do not need to break the bank. We offer three categories of facials that range in price from $65 to $150. All levels include skin analysis, luxurious, carefully selected products & lymphatic facial massage. There is no sacrifice to quality. The only difference is the number of products, steps and the overall duration of the service.",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1772730275002-GY0UF8JLBPQ2WKPCKWTP/IMG_2171+%281%29.jpg/"
+  },
+  {
+   "title": "The New Skin Philosophy: Texture, Tone, and Health",
+   "href": "/journal/skincare-2",
+   "date": "2026-03-23",
+   "excerpt": "In 2026, the standard for aesthetics has evolved from \"quick fixes\" to Skin Longevity. At Face Skin and Body Bar, we manage your skin’s long-term trajectory through a strategic blend of medical-grade protocols and advanced biostimulation to ensure your most visible asset remains resilient, radiant, and fundamentally healthy.",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1772730275002-GY0UF8JLBPQ2WKPCKWTP/IMG_2171+%281%29.jpg/"
+  },
+  {
+   "title": "The Art of the Bridal Reveal: A Masterclass in Skin Preparation",
+   "href": "/journal/skincare-1",
+   "date": "2026-03-05",
+   "excerpt": "Bridal radiance is a curated journey, not a last-minute event. For the bride who values precision, achieving a flawless complexion requires a strategic, months-long approach. From deep structural repair to the final luminosity-boosting treatment, discover our expert roadmap to effortless bridal elegance.",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1772127871260-I5AVK9CGB4808FC1E5UP/AdobeStock_Bride.jpg/"
+  },
+  {
+   "title": "Winter Skincare Tips: Protect Your Skin’s Moisture Barrier",
+   "href": "/journal/winter-proofing",
+   "date": "2026-02-25",
+   "excerpt": "Environmental shifts in winter do more than just cause dryness; they actively compromise your skin’s barrier and accelerate collagen depletion. From the science of free radical production to the strategic necessity of year-round SPF, this guide outlines a professional approach to maintaining a resilient, radiant complexion despite the harsh effects of low humidity and indoor heating.",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1772048951033-L0OEYVTX7VWTULUZBHJD/AdobeStock_Winter_SKin.jpeg/"
+  },
+  {
+   "title": "Face Skin & Body Bar Unveils The Skin Investment Club With Launch Event",
+   "href": "/journal/face-skin-body-bar-unveils-the-skin-investment-club-with-launch-event",
+   "date": "2025-11-17",
+   "excerpt": "",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1772046719198-XBTUHXDVKDIENCK8BD3T/face-skin-body-bar-calgary-injectables-laser-treatments-13.jpg/"
+  },
+  {
+   "title": "Calgary’s Face Skin & Body Bar Now Offering Dysport Treatments",
+   "href": "/journal/calgarys-face-skin-body-bar-now-offering-dysport-treatments",
+   "date": "2025-07-04",
+   "excerpt": "",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1772046817925-UAHVRA4DIV3EY64PWKON/AdobeStock_249940566.jpeg/"
+  },
+  {
+   "title": "Non-Surgical Skin Tightening in Calgary",
+   "href": "/journal/skincare",
+   "date": "2025-03-05",
+   "excerpt": "Discover advanced non-surgical skin tightening treatments in Calgary at Face Skin & Body Bar. We specialize in RF and RF microneedling, plus a unique non-invasive lower facelift. Achieve tighter, rejuvenated skin without surgery. Learn more and book a consultation",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1741190333416-XM3A6V4ZSVS319DM69AC/IMG_9470.jpg/"
+  },
+  {
+   "title": "Morpheus8, Botox (neurotoxin) & Dermal Fillers",
+   "href": "/journal/morpehus8",
+   "date": "2023-11-03",
+   "excerpt": "Learn more about the three most effective non-invasive procedures for combatting the signs of aging; Morpheus8, Dermal Fillers & Neurotoxin & how they can be used together to radically transform your skin.",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1699029206466-R6Q6AFQKHAHS6ZSR43AM/FSB_Final-5.jpg/"
+  },
+  {
+   "title": "The 3 Layers of Skin and How They Impact Your Skincare",
+   "href": "/journal/lesson-1-the-3-layers-of-skin",
+   "date": "2023-06-28",
+   "excerpt": "This may not be the most riveting introduction to a new blog series but trust me, its required reading! Having a basic understanding of your skin’s anatomy and its 3 layers will help you to become more savvy in the world of skincare. It will help you to ask the right questions and understand the science behind many treatments and products available.",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1688695102359-HZDBPKBZPGQPW8P3JYGL/pexels-alexander-krivitskiy-1257359.jpg/"
+  },
+  {
+   "title": "5 of the Biggest Facial Myths, Busted!",
+   "href": "/journal/5-of-the-biggest-facial-myths-busted",
+   "date": "2023-06-26",
+   "excerpt": "Facial Treatments do not need to break the bank. We offer three categories of facials that range in price from $65 to $150. All levels include skin analysis, luxurious, carefully selected products & lymphatic facial massage. There is no sacrifice to quality. The only difference is the number of products, steps and the overall duration of the service.",
+   "img": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1688693974406-Q32W7C2WQ7CSNNNMKHPQ/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg/"
+  }
+ ]
+}

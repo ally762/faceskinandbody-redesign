@@ -1,0 +1,1104 @@
+{
+ "slug": "medical-aesthetics",
+ "title": "Non-Surgical Aesthetics Treatment Calgary — Face Skin & Body Bar",
+ "description": "Turn back the clock with non-surgical aesthetic treatments like RF Microneedling, IPL & facelifts in Calgary. Achieve youthful skin with lasting results.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64f10cb1a264ac09e7700f2e/1693519025482/face-skin-body-bar-calgary-injectables-laser-treatments-10.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/medical-aesthetics",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/968f59e1-7a93-4877-a353-7de281865fab/face-skin-body-bar-calgary-injectables-laser-treatments-10.jpg",
+     "alt": "A woman receiving a medical facial treatment, with her eyes closed, as a healthcare professional holds a mask around her face in a clinical setting.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Non-Surgical Aesthetics Treatment Calgary",
+     "html": "Non-Surgical Aesthetics Treatment Calgary"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Discover the power of non-surgical facial rejuvenation with our expert team. We offer comprehensive solutions, plans, and programs tailored to your needs, delivering transformative results for all signs of aging, discoloration, and acne / acne scaring.",
+     "html": "Discover the power of non-surgical facial rejuvenation with our expert team. We offer comprehensive solutions, plans, and programs tailored to your needs, delivering transformative results for all signs of aging, discoloration, and acne / acne scaring."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "A simple black circle with diagonal lines extending outward, resembling a rain droplet or stylized design element.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "DRY/ DEHYDRATED",
+     "html": "DRY/ DEHYDRATED"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "Circle with wavy horizontal lines representing water or waves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "SENSITIVE/ ROSACEA",
+     "html": "SENSITIVE/ ROSACEA"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Diagram showing three forces acting diagonally inward toward the center of a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "HYPERpIGMENTATION/ SUN DAMAGE",
+     "html": "HYPERpIGMENTATION/ SUN DAMAGE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Black background with a large gray circle and an 'X' mark crossing it diagonally.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Dull",
+     "html": "Dull"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "A circle containing a line graph with three peaks, representing data trends.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Acne",
+     "html": "Acne"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A minimalist line drawing of a person with stage 4 lung cancer",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Fine Lines & Aging",
+     "html": "Fine Lines &amp; Aging"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Microneedling | Radiofrequency microneedling | Non-Invasive Lower FaceLift | Intense Pulse LIght (IPL)",
+     "html": "<a href=\"#Microneedling\">Microneedling</a> | <a href=\"#radiofrequencymicroneedling\">Radiofrequency microneedling</a> |<a href=\"#Non-InvasiveLowerFaceLift\"> </a><a href=\"#Non-InvasiveLowerFaceLift\">Non-Invasive Lower FaceLift</a> | <a href=\"#Intensepulselight\">Intense Pulse LIght (IPL)</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Microneedling",
+     "html": "<a href=\"/microneedling\"><strong>Microneedling</strong></a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Collagen Induction Therapy",
+     "html": "Collagen Induction Therapy"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1692215499164-T24UBZ8P4P7T03Z075VA/Microneedling-Before-and-after2.png",
+     "alt": "Microneedling-Before-and-after2.png"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE.",
+     "html": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A stylized electrical waveform inside a circle, representing a sound wave or signal.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "A circle divided into four segments, each with a different wave pattern, representing various sound waveforms.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "Line drawing of a sphere with dashed lines and small streaks indicating a three-dimensional shape.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Diagram of a circle with four radial lines pointing outward.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Our collagen induction therapy, commonly referred to as microneedling, is a cosmetic procedure that involves stamping the skin with tiny, sterile needles. This process encourages your skin to produce more elastin and collagen, restoring a healthy glow to the skin. Appropriate for anyone in search of improved skin texture, microneedling can be used to treat multiple concerns, such as acne scars, stretch marks and hyperpigmentation. Down-time for this service ranges from 24 hours to 3 days."
+    },
+    {
+     "t": "p",
+     "html": "This treatment involves three steps:"
+    },
+    {
+     "t": "list",
+     "ordered": true,
+     "items": [
+      "Skin cleansing and numbing",
+      "Microneedle stamping",
+      "Collagen Mask &amp; Ice Globe Facial Massage."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: LED Light Therapy, Hydrating Facial, AlumierMD Medical Grade Chemical Peel, Forma (Radiofrequency) Treatment</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Time",
+     "html": "Treatment Time"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "1.5 Hours",
+     "html": "1.5 Hours"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Downtime",
+     "html": "Downtime"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "1 to 3 days",
+     "html": "1 to 3 days"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "What areas can be treated",
+     "html": "What areas can be treated"
+    },
+    {
+     "t": "p",
+     "html": "Face <br>Neck <br>Decolette"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "TREATS/ BENEFITS",
+     "html": "TREATS/ BENEFITS"
+    },
+    {
+     "t": "p",
+     "html": "<em>Sagging skin, Textured skin, Acne scarring, stretch marks, deep lines, jowls, Undefined Jawline, Double Chin (Subcutaneous Fat), crow's feet, nasolabial folds &amp; cellulite.</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "<em>4 Weeks after and continue to improve over the next 3 months</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Average number of treatments",
+     "html": "Average number of treatments"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "ANTI-AGING | 3 ACNE SCARRING | 4",
+     "html": "ANTI-AGING | 3 <br>ACNE SCARRING | 4"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Discomfort Level",
+     "html": "Discomfort Level"
+    },
+    {
+     "t": "p",
+     "html": "<em>2/5 <br>Topical is applied for 30 to 40 min</em>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Radiofrequency Microneedling",
+     "html": "<a href=\"/rf-microneedling\"><strong>Radiofrequency Microneedling</strong></a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Tightening, Facial Rejuvenation & Collagen Synthesis",
+     "html": "Skin Tightening, Facial Rejuvenation &amp; Collagen Synthesis"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1690858544662-JRDA9J5ESVQ2Y7HI0GVW/morpheus8-before-after-dr-j-hellman-preview-7.png",
+     "alt": "morpheus8-before-after-dr-j-hellman-preview-7.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053486173-9VV3M8YIBZ3L97IR0VUF/1.png",
+     "alt": "Morpheus8"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053488742-QBDQ9MB0ISGH8DH5HAOR/2.png",
+     "alt": "Morpheus8"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053502760-F5WEKOUEX1B12ECQ279X/3.png",
+     "alt": "Morpheus8"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053502941-MBNF6Y6RAZMA2HFW37QZ/4.png",
+     "alt": "Morpheus8"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053513310-4WEP5Y5AT9TX3XIV1P0O/5.png",
+     "alt": "Morpheus8"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053513786-CZIWHPY753KOEIZ6VLWH/6.png",
+     "alt": "6.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053567490-GA0ISJMAACR9AJCAOGR1/7.png",
+     "alt": "7.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053567790-JZF4MNE9R6A18A0HH48P/8.png",
+     "alt": "8.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1718053576182-T9P3BD814B9Y0KRYCKD7/9.png",
+     "alt": "9.png"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE.",
+     "html": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Black background with a gray circle and two gray diagonal lines crossing through the circle, forming an X.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A stylized ECG heart rate monitor line inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Line graph with three curved lines inside a circle, representing data trends.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Our clinic specializes in advanced radiofrequency (RF) microneedling treatments. Our providers have been trained in advanced techniques and are able to deliver outstanding results for:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Facial Rejuvenation for Anti-Aging</strong> - RF microneedling offers a powerful, non-surgical solution for anti-aging, achieving truly transformative results. This innovative treatment works by combining microneedling with radiofrequency energy to target multiple layers of the skin, stimulating profound renewal from the inside out."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "The microneedles create tiny injuries that trigger the body's natural healing response, while simultaneously delivering radiofrequency energy deep into the dermis. This synergistic action boosts collagen and elastin production, resulting in firmer, tighter skin with improved texture and tone."
+    },
+    {
+     "t": "p",
+     "html": "Experience a visible lift in the lower face, reduced jowls and sagging, and a dramatic reduction in fine lines and wrinkles. RF microneedling also helps to eliminate bacteria trapped in deeper layers, promoting clearer, healthier skin and a radiant complexion. Enjoy continued improvement for up to three months post-treatment as your skin continues to regenerate.&nbsp;"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Facial Remodeling </strong>- RF microneedling can also be used to reshape &amp; contour your face. If you're looking to enhance your facial contours, define your jawline, lift sagging cheeks, or reduce jowls or a double chin, this is an excellent non-surgical option. We have&nbsp; achieved some exceptional results for this category over the years.&nbsp;"
+     ]
+    },
+    {
+     "t": "p",
+     "html": "To further enhance or maintain your results, you can always consider combining RF microneedling with additional radiofrequency treatments like our RF wand that is designed to target specific areas on the face like your eyes, cheeks and jawline or our hands free lower face head pieces that deliver consistent, controlled energy in order to lift and tighten.&nbsp;"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Acne &amp; Acne Scarring - </strong>Active cystic acne and acne scarring can both be effectively treated with specific protocols. One of the key benefits of this technology is that you don't have to wait for your acne to clear up before starting treatment. You can undergo the procedure even during a breakout."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Radiofrequency microneedling treats acne by killing bacteria, stimulating collagen production, and reducing inflammation. After the procedure, your skin may go through a purging phase for up to a week, where excess oil and bacteria are expelled to the surface. Following this, your skin should begin to clear up."
+    },
+    {
+     "t": "p",
+     "html": "RF microneedling breaks up the scar tissue left by years of acne while simultaneously stimulating collagen and elastin production to aid with healing and effectively filling in the sunken depressions. Depending on severity, more than 3 treatments may be required."
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Facial Resurfacing </strong>- A radiofrequency microneedling treatment focused on treating the surface of the skin. Perfect for our younger clients or those who are more concerned with achieving the ‘glass skin’ look as opposed to skin tightening and remodeling. This procedure will help with&nbsp; fine lines and wrinkles, scarring, uneven skin tone, pore size, laxity and will help you achieve that luminous, smooth and even look. Please note, this procedure is not suitable for people who are classified as a Fitzpatrick IV, V or VI."
+     ]
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Time",
+     "html": "Treatment Time"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "1.5 to 2 Hours",
+     "html": "1.5 to 2 Hours"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Downtime",
+     "html": "Downtime"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "1 to 3 days",
+     "html": "1 to 3 days"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "What areas can be treated",
+     "html": "What areas can be treated"
+    },
+    {
+     "t": "p",
+     "html": "Face Eyes <br>Neck <br>Upper Arms <br>Abdomen <br>Upper Thighs <br>Knees"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "TREATS/ BENEFITS",
+     "html": "TREATS/ BENEFITS"
+    },
+    {
+     "t": "p",
+     "html": "<em>Sagging skin, Textured skin, Acne scarring, stretch marks, deep lines, jowls, Undefined Jawline, Double Chin (Subcutaenous Fat), crow's feet, nasolabial folds, cellulite</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "<em>3 weeks after and continue to improve over the next 3 months</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Average number of treatments",
+     "html": "Average number of treatments"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "ANTI-AGING | 1 TO 3 ACNE SCARRING | 3 TO 4 Remodeling | 3 Resurfacing | 1 to 3",
+     "html": "ANTI-AGING | 1 TO 3 <br>ACNE SCARRING | 3 TO 4 Remodeling | 3 Resurfacing | 1 to 3"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Discomfort Level",
+     "html": "Discomfort Level"
+    },
+    {
+     "t": "p",
+     "html": "<em>4/5 <br>Topical is applied for a minimum of 60 min</em>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Non-Invasive Lower Face Lift",
+     "html": "<strong>Non-Invasive Lower Face Lift</strong>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Radiofrequency Chin & Cheek Applicators",
+     "html": "Radiofrequency Chin &amp; Cheek Applicators"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1690859854901-YPY2T6ERAI5PO9TQB4Q8/evoke-before-after-dr-r-rorich-dr-d-weir-preview-1.jpg",
+     "alt": "evoke-before-after-dr-r-rorich-dr-d-weir-preview-1.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1692215322512-8WW5QCH7UNPXTKI2T7YD/image0.jpeg",
+     "alt": "image0.jpeg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1692215322512-EN1VKN938GF11E0DGVNK/image1.jpeg",
+     "alt": "image1.jpeg"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE.",
+     "html": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A visual depiction of an electrocardiogram (ECG) wave with a flat line and a small downward spike.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Our lower face radiofrequency device is hands free and able to deliver optimal effectiveness for lifting the cheeks, defining the jawline and eliminating stubborn submental fat (double chin). It is also completely pain free and non-invasive.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "The cheek applicators are placed under the cheek bones and down to the jawline emitting heat &amp; energy that will lift &amp; tighten the lower face by stimulating collagen production. The duration and settings are based on your desired results and your skin’s response but typically your provider will leave it on for 30 to 45 minutes. Subsequently, the chin applicator is placed right over the submental (loose or fatty deposit under your chin), targeting that most stubborn part of our face where even the slimmest people find it difficult to address. The temperature will be increased if warranted to cause apoptosis (a fancy way of saying fat cell destruction) that will work to kill the fatty deposits and tighten the remaining skin.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "The reason this device is so successful is that it destroys fat while tightening the skin. If you received an injection meant to eliminate fat cells, it will do this but it will not work to tighten. Therefore, depending on severity you could be left with a collection of loose skin under the chin.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: Injectables, RF Microneedling, Anti-Aging Facial</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "What areas can be treated",
+     "html": "What areas can be treated"
+    },
+    {
+     "t": "p",
+     "html": "Face<br>Neck"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Downtime",
+     "html": "Downtime"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "0 Days",
+     "html": "0 Days"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Time",
+     "html": "Treatment Time"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "30 TO 45 MINS FOR SKIN TIGHTENING",
+     "html": "30 TO 45 MINS FOR SKIN TIGHTENING"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "30 TO 45 FOR FAT BURNING/ COLLAGEN REMODELING",
+     "html": "30 TO 45 FOR FAT BURNING/ COLLAGEN REMODELING"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "TREATS/ BENEFITS",
+     "html": "TREATS/ BENEFITS"
+    },
+    {
+     "t": "p",
+     "html": "<em>Sagging skin, jowls, Undefined Jawline, Double Chin (Subcutaneous Fat), nasolabial folds.</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "<em>3 weeks after and continue to improve over the next 3 months</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Average number of treatments",
+     "html": "Average number of treatments"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "SKIN TIGHTENING | 4 TO 6 SUBCUTANEOUS (DOUBLE CHIN) | 6 TO 8",
+     "html": "SKIN TIGHTENING | 4 TO 6 <br>SUBCUTANEOUS (DOUBLE CHIN) | 6 TO 8"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Discomfort Level",
+     "html": "Discomfort Level"
+    },
+    {
+     "t": "p",
+     "html": "<em>1/5 <br>Very little discomfort</em>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Radiofrequency",
+     "html": "<strong>Radiofrequency</strong>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Tightening Treatments",
+     "html": "Skin Tightening Treatments"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1690860006587-JJHY2Z7WKPYL4R137O8C/forma-before-after-inmode-preview-1.jpg",
+     "alt": "forma-before-after-inmode-preview-1.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1690860006791-12AM66RCFYP0EW6NWKTE/forma-before-after-inmode-preview-2.jpg",
+     "alt": "forma-before-after-inmode-preview-2.jpg"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE.",
+     "html": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An electrocardiogram (EKG) heartbeat line inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Using radiofrequency (RF) to deliver warmth to the skin, RF stimulates the production of new collagen and elastin, improving the overall laxity of the area being treated. Extremely versatile in its application, this skin tightening treatment can be applied to address a specific area of concern like the jawline, neck or eyes."
+    },
+    {
+     "t": "p",
+     "html": "The number, frequency, and duration of treatments will depend on your personal assessment and skin goals. Your Clinical Esthetician will work alongside you to create a customized treatment plan that fits your needs and helps you achieve your desired results within a specified timeframe."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: Anti-Aging Facial, RF Microneedling, Microneedling</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Time",
+     "html": "Treatment Time"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "30 min to 1 Hour",
+     "html": "30 min to 1 Hour"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Downtime",
+     "html": "Downtime"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "0 days",
+     "html": "0 days"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "What areas can be treated",
+     "html": "What areas can be treated"
+    },
+    {
+     "t": "p",
+     "html": "Face <br>Neck"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "TREATS/ BENEFITS",
+     "html": "TREATS/ BENEFITS"
+    },
+    {
+     "t": "p",
+     "html": "<em>Sagging skin, Wrinkles &amp; fine lines, Undefined Jawline, crow's feet, nasolabial folds</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "<em>Instant lift and brightening.Results continue to improve up to 3 months after the last session</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Average number of treatments",
+     "html": "Average number of treatments"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Monthly - Maintenance & Prevention4 to 6 weekly treatments for skin tightening",
+     "html": "Monthly - Maintenance &amp; Prevention<br>4 to 6 weekly treatments for skin tightening"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Discomfort Level",
+     "html": "Discomfort Level"
+    },
+    {
+     "t": "p",
+     "html": "<em>1/5 <br>Very little discomfort</em>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Intense Pulse Light (IPL)",
+     "html": "<a href=\"/ipl\"><strong>Intense Pulse Light (IPL)</strong> </a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Using Light Wavelengths to Treat Pigment & Redness",
+     "html": "Using Light Wavelengths to Treat Pigment &amp; Redness"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1690860485191-PUUDFYLV2RICV9TGQZPT/lumecca-before-after-8445-med-spa-preview-1.png",
+     "alt": "lumecca-before-after-8445-med-spa-preview-1.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1690860483335-CJZBUWKM1HH4PHPFJ8VO/lumecca-before-after-dr-m-taylor-preview-2.jpg",
+     "alt": "lumecca-before-after-dr-m-taylor-preview-2.jpg"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE.",
+     "html": "PLEASE NOTE THAT A CONSULTATION IS REQUIRED FOR THIS TREATMENT PRIOR TO SERVICE."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Line drawing of a circle with two perpendicular diagonal lines crossing inside it, forming an X shape.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Oscilloscope screen displaying a wave pattern",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Line drawing of three wave-like lines inside a circle.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "Circular diagram with wavy lines inside, representing water or waves.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Diagram showing light rays entering a circular lens and being focused.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "IPL treatments are a staple of many medical spas and skincare clinics, effectively addressing a range of skin concerns including hyperpigmentation, age spots, vascular lesions, rosacea, and redness. By emitting light at various wavelengths, IPL breaks down unwanted discoloration, promoting a brighter, more even, and healthy complexion."
+    },
+    {
+     "t": "p",
+     "html": "The popular IPL Photofacial targets both brown (pigment) and red (vascular) discolorations on the face and below the surface of the skin, serving as an excellent preventive measure, maintenance tool, or corrective treatment."
+    },
+    {
+     "t": "p",
+     "html": "IPL can be applied to any sun-exposed area. Hands and chest (décollete), often neglected in the application of sun protection, are commonly treated areas, as they're prone to sun damage and age spots. The back and arms are also treatable options, particularly beneficial for those with a history of sun worshipping."
+    },
+    {
+     "t": "p",
+     "html": "<br><strong>Important Note: </strong>A consultation and / or&nbsp; patch test are required before booking. As a photosensitive treatment, it requires that you have no active tan, have avoided sun exposure for at least three weeks prior and plan to avoid the sun for at least three weeks after, and are classified as Fitzpatrick skin type I, II, or III."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: Soothing Facial, Hyperpigmentation Facial, Microneedling, Medical Grade </em><a href=\"/chemical-peels\"><em>Chemical Peels</em></a>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Treatment Time",
+     "html": "Treatment Time"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "30 mins to 1 Hour",
+     "html": "30 mins to 1 Hour"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Downtime",
+     "html": "Downtime"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "0.5 days",
+     "html": "0.5 days"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "What areas can be treated",
+     "html": "What areas can be treated"
+    },
+    {
+     "t": "p",
+     "html": "<em>Face<br>Neck&nbsp;<br>Decollete<br>Shoulders<br>Arms<br>Hands<br>Back&nbsp;<br>Feet</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "TREATS/ BENEFITS",
+     "html": "TREATS/ BENEFITS"
+    },
+    {
+     "t": "p",
+     "html": "<em>Sun spots, Age Spots, Hyperpigmentation, Uneven Skin, Tone, Freckles, Redness, Rosacea</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "<em>1 to 2 Weeks after</em>"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Average number of treatments",
+     "html": "Average number of treatments"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "1 to 5",
+     "html": "1 to 5"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Discomfort Level",
+     "html": "Discomfort Level"
+    },
+    {
+     "t": "p",
+     "html": "2/5"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book your treatment today",
+     "html": "Book your treatment today"
+    },
+    {
+     "t": "btn",
+     "text": "Advance your skin",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/031c762c-c565-49b6-9e83-1787308fa42b/face-skin-body-bar-calgary-injectables-laser-facial-5.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

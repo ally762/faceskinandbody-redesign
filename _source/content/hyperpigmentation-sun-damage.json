@@ -1,0 +1,196 @@
+{
+ "slug": "hyperpigmentation-sun-damage",
+ "title": "Hyperpigmentation Treatment Calgary — Face Skin & Body Bar",
+ "description": "Hyperpigmentation Treatment Calgary for sun damage, brown spots, red spots & melasma. Achieve clearer, more even skin with fast, visible, lasting results.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e3e72fff32262804843f15/1692657455533/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/hyperpigmentation-sun-damage",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3f827a72-39ab-45ca-b4f1-c51bfb70e23c/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg",
+     "alt": "Close-up of a woman with wet brown hair, blue eyes, and freckles, wearing a white top, looking directly at the camera.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Diagram of a circular object with diagonally pointing arrows indicating directions or vectors from the center to the circle's edge.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Sun Damage/Hyperpigmentation Treatment Calgary",
+     "html": "Sun Damage/Hyperpigmentation Treatment Calgary"
+    },
+    {
+     "t": "p",
+     "html": "Hyperpigmentation is a common skin condition that is characterized by darkened areas of the skin. This occurs when specialized cells create too much pigment, also known as melanin, usually due to trauma. Put simple, melanin is the substance in your body that produces pigment, whether in the hair, eyes or skin. Sun damage, post-acne spots, melasma, freckles and age spots are all examples of hyperpigmentation that manifest in the skin. To help target this skin concern, the following services and products might be right for you."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Solutions",
+     "html": "<strong>Solutions</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Prevention",
+     "html": "Prevention"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "HYPERPIGMENTATION FACIAL",
+     "html": "<a href=\"/facials\">HYPERPIGMENTATION FACIAL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MICRONEEDLING",
+     "html": "<a href=\"/medical-aesthetics\">MICRONEEDLING</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Treatments",
+     "html": "<a href=\"/medical-aesthetics\">IPL Treatments</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Maintenance",
+     "html": "Maintenance"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "HYPERPIGMENTATION FACIAL",
+     "html": "<a href=\"/facials\">HYPERPIGMENTATION FACIAL</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Ipl Treatments",
+     "html": "<a href=\"/medical-aesthetics\">Ipl Treatments</a>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Reversal",
+     "html": "Reversal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Alumiermd Peel",
+     "html": "<a href=\"/peels\">Alumiermd Peel</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Treatments",
+     "html": "<a href=\"/medical-aesthetics\">IPL&nbsp;Treatments</a>"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "MEdical Grade Skincare",
+     "html": "<a href=\"/shop-alumiermd\">MEdical Grade Skincare</a>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/51962b9d-c8fd-42be-ad19-3fe386b1ce70/face-skin-body-bar-calgary-injectables-laser-facial-15.jpg",
+     "alt": "Close-up of two different skin tones, showing the texture and natural appearance of each.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/031c762c-c565-49b6-9e83-1787308fa42b/face-skin-body-bar-calgary-injectables-laser-facial-5.jpg",
+     "alt": "Tear in a light-colored wall showing exposed drywall and paint.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Shop AlumierMD hyperpigmentation products",
+     "html": "<strong>Shop AlumierMD hyperpigmentation products</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Shop Now",
+     "href": "https://www.alumiermd.ca/t/skin-condition/discoloration?code=N378PKW9"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

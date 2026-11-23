@@ -1,0 +1,100 @@
+{
+ "slug": "journal__5-of-the-biggest-facial-myths-busted",
+ "title": "5 of the Biggest Facial Myths, Busted! — Face Skin & Body Bar",
+ "description": "Think you know facials? Discover the truth behind 5 common facial myths. Learn what really works for your skin and what to avoid for better results.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/64a76a41e42a055daf7463cc/1750255962007/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/journal/5-of-the-biggest-facial-myths-busted",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "{\"name\":\"5 of the Biggest Facial Myths, Busted! \\u2014 Face Skin & Body Bar\",\"url\":\"https://www.faceskinandbody.ca/journal/5-of-the-biggest-facial-myths-busted\",\"datePublished\":\"2023-06-26T11:15:00-0600\",\"dateModified\":\"2025-06-18T08:12:42-0600\",\"headline\":\"5 of the Biggest Facial Myths, Busted!\",\"author\":\"Heather Dybvig\",\"publisher\":{\"name\":\"Face Skin & Body Bar\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\"},\"@context\":\"http://schema.org\",\"@type\":\"Organization\"},\"image\":\"http://static1.squarespace.com/static/64932f70636de43bbaa09635/64a76a41e42a055daf7463cb/64a76a41e42a055daf7463cc/1750255962007/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg?format=1500w\",\"@context\":\"http://schema.org\",\"@type\":\"Article\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/75173bb9-1ab3-4170-b076-7464ceb36e7d/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg",
+     "alt": "",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Myth 1 - Facials are super expensive",
+     "html": "Myth 1 - Facials are super expensive"
+    },
+    {
+     "t": "p",
+     "html": "<a href=\"/facials\"><strong>Facial Treatments</strong></a><strong> do not need to break the bank</strong>. Our Facial Treatments range in price from $140 to $295. All facials include skin analysis, luxurious, carefully selected products &amp; lymphatic facial massage. There is no sacrifice to quality. The only difference is the number of products, steps and the overall duration of the service."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Myth 2 - Facials are painful",
+     "html": "Myth 2 - Facials are painful"
+    },
+    {
+     "t": "p",
+     "html": "<a href=\"/facials\"><strong>Facials</strong></a><strong> are one of the most calming and relaxing treatments you can get! </strong>Aside from a bit of discomfort from the extractions, 95% of the processes and techniques involved will feel soothing and relaxing. Including a satisfying exfoliation, comforting hot towels, facial, neck and hand massage."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Myth 3 - Facials Require Downtime",
+     "html": "Myth 3 - Facials Require Downtime"
+    },
+    {
+     "t": "p",
+     "html": "<strong>All of our facials and extras are designed so you can carry on with your day. </strong>None of our facials require any downtime, so you can run to your next meeting, event, or appointment looking refreshed and ready to rock."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Myth 4 - One facial treatment will cure all my skincare concerns.",
+     "html": "Myth 4 - One facial treatment will cure all my skincare concerns."
+    },
+    {
+     "t": "p",
+     "html": "<strong>Facials, similar to other beauty and wellness services should be integrated into your monthly routine for best results.</strong> Your skin is subject to a 28-day cycle where dead skin cells are replaced with new ones. The steps included in most facials, cleansing, exfoliation, masking and face massage aid this cycle along, by increasing cell turnover and improving the surface of the skin. Let us work with you to develop a personalized course of treatment that fits into your budget and schedule. <strong>&nbsp;</strong>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Myth 5 - The whole facial process can be intimidating",
+     "html": "Myth 5 - The whole facial process can be intimidating"
+    },
+    {
+     "t": "p",
+     "html": "We have created a fun, approachable and inclusive environment for everyone. Whether you’re a newbie or an expert regular, we’ve got your needs and expectations covered. We will provide you with everything you need to make smart and informed decisions about treatments and courses of action without giving you a hard or brassy sell."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ready to Bust These Myths? Book a Consultation!",
+     "html": "Ready to Bust These Myths? Book a Consultation!"
+    },
+    {
+     "t": "p",
+     "html": "Not sure if a facial is right for you? Now that we’ve cleared up some of the most common myths, you might be surprised by how personalized and relaxing the experience can be. Whether it’s your first facial or you’re looking to try something new, we’re here to help you feel comfortable and confident in your skincare choices. Our estheticians take the time to get to know your skin and your goals, so you leave feeling refreshed, informed, and glowing. If you’re ready to take the next step, we’d love to see you in the treatment room."
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ]
+  }
+ ],
+ "post": {
+  "title": "5 of the Biggest Facial Myths, Busted!",
+  "date": "Jun 26",
+  "datetime": "2023-06-26",
+  "author": "Written by Heather Dybvig"
+ }
+}

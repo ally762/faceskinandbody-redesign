@@ -1,0 +1,580 @@
+{
+ "slug": "ipl",
+ "title": "IPL Photofacial Treatment In Calgary — Face Skin & Body Bar",
+ "description": "Address sun damage, age spots, and vascular concerns with IPL photofacial and IPL treatment in Calgary at Face Skin & Body Bar for clearer skin.",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/6887e7dffd823c0ae6c6841f/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/ipl",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/e072c15a-ef1c-40a2-afcb-0e8429b3ba10/face-skin-body-bar-calgary-injectables-laser-treatments-6.jpg",
+     "alt": "A woman receiving a facial treatment using LED light therapy, lying on a treatment bed with goggles and a facial mask, while a technician uses a handheld device for the procedure.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "IPL Treatment In Calgary",
+     "html": "IPL Treatment In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>Achieve a Flawless Complexion With IPL Treatments at Face Skin &amp; Body Bar in Calgary!</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Oscilloscope display showing a flat, constant waveform line.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Black screen with a large, faint, gray science-inspired circle and geometric lines overlay.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Dull"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "A simple line drawing of a circular shape with four wavy lines inside.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Acne"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "Diagram showing a circle with three arrows pointing inward from the top right, middle right, and bottom right, indicating the direction of light rays hitting a surface.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Sun Damage"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "Illustration of a circular water filter with wavy lines representing filtered water.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Sensitive/Rosacea"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How IPL Treatments Work",
+     "html": "How IPL Treatments Work"
+    },
+    {
+     "t": "p",
+     "html": "Face Skin &amp; Body Bar in Calgary offers advanced IPL Treatments, using our powerful Lumecca IPL device. This is a highly effective solution for skin concerns related to the tone and texture of the skin. An IPL Treatment, or Intense Pulse Light, employs broad-spectrum pulsed light to precisely target specific chromophores (reds and browns) within the skin, namely, melanin (pigment) and hemoglobin (blood vessels). The pulsed light energy is absorbed by these targets in the skin, generating controlled thermal damage. This process effectively breaks down unwanted pigmentation that presents as age spots and sun damage, and coagulates the blood vessels that contribute to vascular lesions and redness. Our IPL Treatments using our Lumecca IPL are non-ablative, treating the dermal layers without disrupting the epidermal surface of the skin, resulting in a more even complexion and refined skin tone. The sophisticated technology of Intense Pulse Light allows our skilled practitioners to customize IPL Treatment parameters to directly address your individual skin concerns with optimal efficacy."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/479a6306-a4ee-40fa-9d74-00adddc71a80/pigment.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of IPL Treatments",
+     "html": "Benefits Of IPL Treatments"
+    },
+    {
+     "t": "p",
+     "html": "Choosing IPL Treatments at Face Skin &amp; Body Bar yields significant benefits for achieving clearer, more youthful-looking skin. A primary outcome is the effective reduction of sun damage, as IPL Treatments precisely target and diminish age spots, sun spots, and hyperpigmentation, resulting in a more even complexion. For individuals experiencing redness and vascular lesions such as broken capillaries and rosacea, the Lumecca IPL can noticeably decrease their appearance, promoting a more balanced skin tone. Furthermore, Intense Pulse Light stimulates collagen production, leading to improved overall skin tone and texture, and a reduction in the appearance of fine lines. Regular IPL Treatments provide a comprehensive strategy for addressing multiple skin concerns and achieving substantial improvements in skin clarity and uniformity."
+    },
+    {
+     "t": "p",
+     "html": "IPL treatments can effectively target any sun-exposed areas, such as the hands, arms, shoulders, upper back, neck, and décolleté area. This versatile treatment is also a valuable preventative measure against future pigmentation, with annual sessions working to address developing pigment and vascularity within the dermis."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "BBL vs Lumecca: What’s the Difference?",
+     "html": "BBL vs Lumecca: What’s the Difference?"
+    },
+    {
+     "t": "p",
+     "html": "While both treatments use advanced light energy to clear sun damage and redness, Lumecca is widely considered the most powerful IPL on the market today. While traditional BBL (BroadBand Light) is a fantastic tool for long-term skin maintenance and typically requires a series of 3-5 sessions, Lumecca delivers up to 3x more peak power to target pigment specifically. This means our Calgary clients often see results in fewer sessions when compared to BBL. If you are looking to erase years of sun damage or persistent rosacea with maximum efficiency and fewer trips to the clinic, Lumecca is our top recommendation."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "If you're looking to address sun damage, age spots, sun spots, uneven pigmentation, redness, rosacea, or visible vascular lesions, Intense Pulsed Light (IPL) therapy, including Lumecca IPL, could be your solution."
+    },
+    {
+     "t": "p",
+     "html": "The most effective candidates for IPL are those with lighter skin tones, typically assessed as a Fitzpatrick Scale I, II, III, or very light IV, and those with minimal to no tan. This is crucial for achieving optimal results."
+    },
+    {
+     "t": "p",
+     "html": "Often called 'laser season', these treatments are best during Calgary's colder, darker months (September to May) when limiting sun exposure is easier. It's an excellent annual treatment to repair summer sun damage and achieve a more even complexion with enhanced skin tone and texture."
+    },
+    {
+     "t": "p",
+     "html": "Our experienced practitioners will conduct a thorough skin assessment during your consultation to determine if IPL is the right path for your desired outcomes."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "IPL Pre-Treatment Checklist",
+     "html": "IPL Pre-Treatment Checklist"
+    },
+    {
+     "t": "p",
+     "html": "To ensure the best results and the highest level of safety for your skin, please follow these guidelines before your session at Face Skin &amp; Body Bar:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Avoid the Sun (4 Weeks Prior):</strong> This is the most important rule! Do not have a tan (natural or spray tan) on the treatment area. Lumecca targets pigment, and if your skin is tanned, the laser cannot distinguish between your tan and your sunspots, which increases the risk of a burn.",
+      "<strong>Stop Retinoids (7 Days Prior):</strong> Pause any Retin-A, Tretinoin, or high-strength Retinol products one week before your appointment, as these make the skin extra sensitive to light.",
+      "<strong>Check Your Medications:</strong> Some antibiotics and herbal supplements (like St. John’s Wort) cause photosensitivity. Please let us know if you have started any new medications recently.",
+      "<strong>No Waxing or Peels (2 Weeks Prior):</strong> Avoid any aggressive skin treatments, including chemical peels or waxing, in the area to be treated."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Your IPL Treatment session at Face Skin &amp; Body Bar in Calgary will be a carefully administered procedure focused on achieving optimal results. Protective eyewear will be provided. A cooling gel will be applied to the designated treatment area to ensure patient comfort and facilitate precise energy delivery. The Lumecca IPL device will be systematically applied to the treatment area, emitting controlled pulses of Intense Pulse Light. Patients may perceive a brief sensation of warmth or a mild snap during each pulse, which is generally well-tolerated. The duration of the IPL Treatments will be determined by the size of the treatment area and the specific skin concerns being addressed, typically ranging from 30 minutes to one hour."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Post-Treatment: What to Expect",
+     "html": "Post-Treatment: What to Expect"
+    },
+    {
+     "t": "p",
+     "html": "Lumecca IPL is a powerful treatment, and your skin’s \"healing journey\" will depend on whether we targeted sun damage (pigment) or redness (vascularity). Here is the timeline for your results:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>The First 24–48 Hours:</strong> Your skin will feel warm, similar to a mild sunburn. You may experience slight swelling or \"puffiness,\" especially around the eyes and cheeks. This is a normal sign that the light energy has successfully reached its target.",
+      "<strong>For Sun Damage &amp; Brown Spots:</strong> Over the next few days, your pigmented spots will darken and rise to the surface, looking like tiny coffee grounds. Do not scrub or pick at them! They will naturally flake off within 7–10 days, revealing a brighter, clearer complexion underneath.",
+      "<strong>For Redness, Rosacea &amp; Veins:</strong> You may notice your skin looks slightly \"flush\" or that certain vessels turn a darker purple or grey before they fade. It is crucial to avoid heat (hot tubs, saunas, heavy exercise, and spicy foods) for 48 hours to allow the treated vessels to remain closed and heal properly.",
+      "<strong>Pro-Tip for Calgary Residents:</strong> Our high-altitude sun is intense! Always protect your investment with a physical SPF 30+ and a hat for at least two weeks post-treatment to prevent new pigment from forming."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Areas",
+     "html": "<strong>Treatment Areas</strong>"
+    },
+    {
+     "t": "p",
+     "html": "IPL Treatments, including Lumecca IPL, offer versatile applications for addressing skin concerns on various areas of the body. Common treatment areas include the face, effectively targeting Sun Damage, age spots, redness, and vascular lesions. The neck and décolleté area, often exhibiting photodamage, are also frequently treated to achieve a more even complexion. Additionally, the shoulders, arms, hands, back, and feet can be effectively treated with IPL Treatments to reduce pigmentation irregularities and improve overall skin tone. Our practitioners will tailor the IPL Treatment parameters to the specific treatment area and your individual skin concerns."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Treatment Cost",
+     "html": "<strong>Treatment Cost</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The cost of your IPL Treatments at Face Skin &amp; Body Bar in Calgary is determined by the extent of the treatment area and the clinically recommended number of sessions required to achieve optimal outcomes. We provide individualized treatment plans based on a comprehensive assessment of your specific skin concerns. A detailed cost estimate will be provided during your initial consultation and mandatory patch test. Investing in an IPL Treatment represents a commitment to achieving significant and lasting improvements in your skin's clarity and uniformity."
+    },
+    {
+     "t": "p",
+     "html": "Singular Session - $295"
+    },
+    {
+     "t": "p",
+     "html": "Annual Maintenance - 1 to 3 sessions ($295 - $785)"
+    },
+    {
+     "t": "p",
+     "html": "Reversal - 3 to 5 sessions ($785 to $1250)"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results And Recovery",
+     "html": "Results And Recovery"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "Following a series of IPL treatments at Face Skin &amp; Body Bar, you can anticipate a progressive and noticeable improvement in your skin tone and overall complexion. Here's what you'll typically observe:"
+    },
+    {
+     "t": "p",
+     "html": "Pigmentation: Age spots and other pigmented lesions will initially darken before gradually fading as your body naturally eliminates the treated pigment."
+    },
+    {
+     "t": "p",
+     "html": "Redness: You'll see a visible reduction in redness and superficial vascular lesions."
+    },
+    {
+     "t": "p",
+     "html": "Texture and Fine Lines: The treatment stimulates collagen production, which contributes to enhanced skin texture and a diminished appearance of fine lines."
+    },
+    {
+     "t": "p",
+     "html": "While you will see an immediate improvement in skin tone after the first week, your full results will continue to settle over 10–14 days."
+    },
+    {
+     "t": "p",
+     "html": "Thanks to its advanced technology, Lumecca IPL often delivers particularly impactful results."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Supercharge Your Results With Medical-Grade Skincare",
+     "html": "Supercharge Your Results With Medical-Grade Skincare"
+    },
+    {
+     "t": "p",
+     "html": "To further enhance and maintain your IPL outcomes, we highly recommend combining your treatments with <a href=\"/shop-alumiermd\">medical-grade skincare</a> specifically designed to target pigment or redness. AlumierMD offers a fantastic range of products under its brightening and calming lines, formulated to effectively address skin discolouration and soothe the skin.To further enhance and maintain your IPL outcomes, we highly recommend combining your treatments with medical-grade skincare specifically designed to target pigment or redness. AlumierMD offers a fantastic range of products under its brightening and calming lines, formulated to effectively address skin discolouration and soothe the skin."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "IPL Recovery Timeline: What To Expect",
+     "html": "IPL Recovery Timeline: What To Expect"
+    },
+    {
+     "t": "p",
+     "html": "The recovery period after an IPL treatment is typically minimal, often just 5 to 12 hours of increased sensitivity and redness."
+    },
+    {
+     "t": "p",
+     "html": "However, your individual recovery time can vary. If you have more severe rosacea or deeper pigmentation, your downtime might extend to several days, or even up to a week. The risk of bruising also increases with the severity of your concerns and individual skin characteristics."
+    },
+    {
+     "t": "p",
+     "html": "Rest assured, all of this will be thoroughly discussed during your initial consultation and patch test. This way, you'll know exactly what to expect and can plan accordingly. We also progressively adjust treatment parameters to ensure you achieve the most optimal results. Your provider will give you a clear indication of your likely downtime based on your personalized assessment and treatment plan."
+    },
+    {
+     "t": "p",
+     "html": "Patients may experience transient mild redness and a sensation of warmth in the treatment area, comparable to mild sun exposure, which generally resolves within half a day. Treated pigmented lesions may exhibit a temporary darkening and potential superficial flaking over 1 to 2 weeks. Strict adherence to sun protection, including consistent use of a broad-spectrum SPF 30 or higher, is essential. Routine skincare can typically be resumed immediately, with gentle care of the treated skin."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883509537-CIZ9OW8RTH5H3FZIPAD5/lumecca-before-after-8445-med-spa-preview-1.png",
+     "alt": "lumecca-before-after-8445-med-spa-preview-1.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883512596-ZIFNN8OYY3IJFZHDZEY7/lumecca-before-after-dr-m-taylor-preview-2.jpg",
+     "alt": "lumecca-before-after-dr-m-taylor-preview-2.jpg"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883519691-2CAS3QOH7KXBD0A9NV97/Grace+-+IPL.png",
+     "alt": "Grace - IPL.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883524715-PELEO06OOR6BTUG19QTB/Grace+-+IPL+%282%29.png",
+     "alt": "Grace - IPL (2).png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883527665-EF6WVX942DKEZEGIT1ZX/Grace+-+IPL+%283%29.png",
+     "alt": "Grace - IPL (3).png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883533402-CXDCQ07GRO7XWGYBI7HY/Sasha+-+IPL.png",
+     "alt": "Sasha - IPL.png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883536353-9G0CENHAIC7SGSN0MMGF/Sasha+-+IPL+%282%29.png",
+     "alt": "Sasha - IPL (2).png"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1753883540191-6UJU8KYEZH1YXIKZ5W0T/Sasha+-+IPL+%283%29.png",
+     "alt": "Sasha - IPL (3).png"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before And After",
+     "html": "Before And After"
+    },
+    {
+     "t": "p",
+     "html": "Discover the remarkable results of our expert IPL treatments. Our gallery highlights authentic patient outcomes, illustrating how IPL can effectively diminish pigmentation, sun damage, vascular redness, and visible age spots. You'll see noticeably clearer, more even-toned skin, with refined texture and a radiant yet natural finish, demonstrating the transformative power of IPL while maintaining a subtle, refreshed look"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "Face Skin &amp; Body Bar in Calgary is a trusted authority in delivering effective IPL Treatments administered by highly skilled and clinically trained professionals. We utilize state-of-the-art Intense Pulse Light technology, including the advanced Lumecca IPL system, to address a comprehensive range of skin concerns with precision and safety. Our approach emphasizes thorough consultation and customized treatment plans tailored to your individual needs and objectives for achieving a clearer and more even complexion. Our professional and pristine clinic environment ensures a positive and results-oriented experience."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1269d767-a1eb-443e-bece-85b2618a4ad3/IMG_9475.jpg",
+     "alt": "A person lying down on a treatment bed receiving a cosmetic or dermatological procedure, with a device applied to the face, and the person is wearing protective eye glasses and a face mask.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Patient Testimonials",
+     "html": "Patient Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"Finished my Lumecca treatment, and the results were great and helped with my dark spots. Wendy shows attention to detail and thoughtfulness for the whole process, including before and after care. Thank you for the wonderful experience, and I will definitely come back.”"
+    },
+    {
+     "t": "p",
+     "html": "- G"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I have finished a few sessions of IPL with Wendy, and I have never received that many compliments about my complexion! My pores are less noticeable, my sunspots have cleared up, and my redness around my nose is gone. She was able to explain to me the improvement of pre-treating, and I am happy that I did. I definitely recommend this place if you have any concerns about pigmentation.”"
+    },
+    {
+     "t": "p",
+     "html": "-Linh Nguyen"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "“Amazing experience! I saw Alexia for the IPL and Forma facial treatment, my skin is less red and glowing. Alexia was kind, knowledgeable, and made sure I was comfortable throughout. 10/10 would recommend 👌\""
+    },
+    {
+     "t": "p",
+     "html": "-Jade Belanger"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "To discover if IPL treatments are right for you, book your IPL patch test and comprehensive consultation at Face Skin &amp; Body Bar in Calgary today."
+    },
+    {
+     "t": "p",
+     "html": "Our expert team will thoroughly assess your skin and create a targeted plan using the proven power of Intense Pulsed Light. We'll effectively address your sun damage, age spots, vascular lesions, and other skin concerns, guiding you toward a clearer, more even, and radiant complexion."
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/ff163030-536e-4f47-96c4-2eb525e3d7bd/Face2-131+%281%29.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

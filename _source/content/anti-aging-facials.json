@@ -1,0 +1,361 @@
+{
+ "slug": "anti-aging-facials",
+ "title": "Anti-Aging Facials In Calgary — Face Skin & Body Bar",
+ "description": "Face Skin & Body Bar offers the best Anti-Aging Facials in Calgary. Experience our next-level 90-minute anti-aging facial, extending its rejuvenating benefits to the often-neglected décolleté. This advanced treatment strategically incorporates highly effective, scientifically-backed ingredients to visibly contour the face and significantly diminish the appearance of fine lines and wrinkles. To further enhance collagen production and hydration, this facial includes a luxurious hydrating and wrinkle-care hydrojelly mask, followed by targeted LED Light Therapy to promote cellular renewal and a youthful radiance ",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/6867df24aeb7eb4ef193dc5f/1750963877987/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/anti-aging-facials",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/6109a4ff-02b1-4aa1-a5f3-273ac4ddc27f/Antiaging_Facial_hydrojelly.jpg",
+     "alt": "A person receiving a face peel treatment, lying on a bed with a white cloth partially covering their face and shoulder, while a practitioner in black gloves applies a chemical solution with a small spatula and cotton swab.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Anti-Aging Facials In Calgary",
+     "html": "Anti-Aging Facials In Calgary"
+    },
+    {
+     "t": "p",
+     "html": "<em>Experience the Ultimate Anti-Aging Facial at Face Skin &amp; Body Bar in Calgary!</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Your Treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An empty black circle with light gray dashed lines inside and outside it, suggesting a simple schematic drawing or diagram.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Fine Lines & Aging",
+     "html": "Fine Lines &amp; Aging"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "Simple line drawing of a set of three wave patterns inside a circle",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "ACNE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "Black circle with a white X crossing through it.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "DULL"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "A black and white electric circuit symbol, representing a diode.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "FINE LINES &amp; AGING"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Is An Anti-Aging Facial?",
+     "html": "What Is An Anti-Aging Facial?"
+    },
+    {
+     "t": "p",
+     "html": "An anti-aging facial at Face Skin &amp; Body Bar is comprised of a series of techniques and topical applications specifically designed to combat the visible signs of aging and rejuvenate the skin. Our signature anti-aging facial goes beyond basic skincare; it’s a comprehensive experience focused on stimulating collagen production, enhancing skin texture, and reducing the appearance of fine lines and wrinkles. This luxurious facial incorporates advanced skincare techniques, potent ingredients, and targeted modalities to try and enact changes in the skin. Unlike standard facials, our anti-aging facial often includes a more intensive exfoliation process, a deeper cleanse, and specialized treatments aimed at firming and lifting the skin, particularly addressing the delicate décolleté area. Each step of this facial is carefully curated to address the specific concerns associated with aging, providing a transformative skincare experience. We believe that a facial dedicated to rejuvenation is a cornerstone of any effective skincare regimen focused on long-term skin health."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Anti-Aging Facials",
+     "html": "Benefits Of Anti-Aging Facials"
+    },
+    {
+     "t": "p",
+     "html": "The benefits of incorporating regular anti-aging facials into your skincare routine are numerous and contribute significantly to a more radiant appearance. These specialized treatments work synergistically to combat the various signs of aging. One of the primary benefits is the stimulation of collagen production, a vital protein that provides the skin with its firmness and elasticity. Our anti-aging facials utilize products and ingredients that encourage collagen synthesis, helping to restore and rejuvenate a more youthful contour to the face and décolleté area.&nbsp;&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "Furthermore, this facial provides a thorough exfoliation, removing dead skin cells that can dull the complexion and accentuate fine lines. This process not only reveals brighter, smoother skin but also allows for better absorption of potent anti-aging serums and moisturizers used during the treatment. The deep cleansing component of our facials ensures that impurities are removed, preventing breakouts and contributing to overall skin health. Regular facials can also improve skin tone and texture. In Calgary’s often-harsh climate, these treatments provide essential hydration and protection against environmental stressors that contribute to premature aging. The cumulative effect of consistent anti-aging facials is a significant improvement in the overall health, resilience, and youthful appearance of the skin."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ideal Candidates",
+     "html": "Ideal Candidates"
+    },
+    {
+     "t": "p",
+     "html": "Ideal candidates for our anti-aging facials at Face Skin &amp; Body Bar in Calgary are individuals who are beginning to notice or are already experiencing the visible signs of aging. This includes the appearance of fine lines and wrinkles, loss of firmness or elasticity and any uneven skin tone and texture. Anyone looking to proactively combat the aging process and maintain a youthful complexion can benefit from these specialized facial treatments. These rejuvenating facials are suitable for a wide range of skin types and can be customized to address specific skin concerns. Individuals noticing aging not only on their face but also on their décolleté area will find these facials particularly beneficial, as we extend our treatments to this often-neglected area. Whether you are in your late 20s seeking preventative skincare or are more mature and looking for corrective treatments, our anti-aging facial offers a powerful solution."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What To Expect From Treatment",
+     "html": "What To Expect From Treatment"
+    },
+    {
+     "t": "p",
+     "html": "Our signature 90-minute anti-aging facial &amp; décolleté treatment at Face Skin &amp; Body Bar in Calgary is a luxurious experience. The treatment begins with a thorough double cleansing of the face and décolleté area to remove any makeup, impurities, and excess oil. This is followed by a gentle yet effective steam &amp; exfoliation to slough away dead skin cells, preparing the skin for the subsequent steps. We then incorporate highly effective, scientifically-backed ingredients specifically chosen to encourage the contouring of the face and significantly diminish the appearance of fine lines and wrinkles. These serums and concentrates are carefully massaged into the skin to promote absorption and stimulate collagen production."
+    },
+    {
+     "t": "p",
+     "html": "To further enhance hydration and combat wrinkles, a luxurious hydrating and wrinkle-care hydrojelly mask is applied to the face and décolleté area. While the mask works its magic, you will enjoy a relaxing scalp or hand massage. Following the mask, we utilize targeted LED Light Therapy, a non-invasive treatment known to promote cellular renewal and radiance. This step further encourages collagen synthesis and improves overall skin tone and texture. The facial concludes with the application of a rich moisturizer and broad-spectrum SPF to protect the skin. Throughout the entire facial, your comfort and relaxation are our top priorities. Our skilled aestheticians will ensure you feel pampered and well-cared for during this comprehensive skincare treatment. We offer various facials, but this 90-minute anti-aging facial is a cornerstone of our treatments."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Number Of Treatments Required",
+     "html": "<strong>Number Of Treatments Required</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The number of anti-aging facials required to achieve your desired results will vary depending on your individual skin concerns, the extent of aging, what skincare products you use at home and your personal goals. While you will likely see immediate improvements in skin hydration and radiance after a single facial, a series of treatments is typically recommended for more significant and long-lasting benefits, particularly for diminishing the appearance of fine lines and improving collagen production. Alternating your anti-aging facials with treatments like radiofrequency or microneedling sessions can significantly boost your progress towards building collagen and elastin. Our experienced aestheticians will assess your skin and recommend a personalized treatment plan tailored to your specific needs and expectations. Consistency is key to maximizing the rejuvenating benefits of these facials."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Anti-Aging Facial Cost",
+     "html": "<strong>Anti-Aging Facial Cost</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Our signature 90-minute anti-aging facial, which includes a décoletté area treatment, two masks, and LED Light Therapy, is <strong>$225</strong>."
+    },
+    {
+     "t": "p",
+     "html": "<strong>Membership Pricing</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Smart Skin - $202.50"
+    },
+    {
+     "t": "p",
+     "html": "Smart Skin Plus - $198"
+    },
+    {
+     "t": "p",
+     "html": "The Accelerated - $191.25"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Results",
+     "html": "Results"
+    },
+    {
+     "t": "p",
+     "html": "Following your anti-aging facial at Face Skin &amp; Body Bar, you can expect to see and feel immediate improvements in your skin. Your complexion will appear brighter, more hydrated, and smoother. You may notice a reduction in the appearance of fine lines and a more radiant glow. The décolleté area will also feel smoother and more refreshed. There is typically no downtime associated with our facials, allowing you to resume your normal activities immediately. However, it is crucial to protect your skin from sun exposure by using a broad-spectrum SPF, which we include as the final step in all of our facials, especially when they are delivered during the day.&nbsp; With regular facials, you will experience continued improvement in skin tone, texture, and firmness, as collagen production is stimulated and the signs of aging are effectively addressed. The cumulative effects of these treatments contribute to a more youthful and resilient complexion over time."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Face Skin & Body Bar?",
+     "html": "Why Choose Face Skin &amp; Body Bar?"
+    },
+    {
+     "t": "p",
+     "html": "We are committed to providing exceptional skincare experiences and delivering noticeable results. Our facials seamlessly blend the precision of clinical expertise with moments of profound relaxation. Our skilled and highly trained aestheticians specialize in advanced facial treatments, including our signature anti-aging facial. We utilize premium, scientifically-backed skincare products and cutting-edge techniques to ensure you receive the most effective and luxurious treatments available. We understand the nuances of aging skin and tailor each facial to address your individual skin concerns and goals. Our dedication to client comfort, safety, and ongoing education ensures you receive the highest standard of care in a relaxing and professional environment. When you choose Face Skin &amp; Body Bar for your facials, you are investing in expertise and a commitment to helping you achieve a more youthful and radiant appearance. We offer a variety of facials to meet all your skincare needs."
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/80d52bfe-f2e0-4440-a2f6-0cd1c69dc97c/LEDLight_THerapy.jpg",
+     "alt": "A woman lying on her side on a hospital bed wearing a white mask with a LED light therapy mask on her face, and a white towel wrapped around her head, in a medical setting.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Anti-Aging Testimonials",
+     "html": "Anti-Aging Testimonials"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"I have been to this location twice now, and both times just THRILLED with the service and the results. I'm a long-term client now for sure. Lovely space, super professional, very attentive to creating both a calming, relaxing experience as well as teaching me everything I didn't know about face care!”"
+    },
+    {
+     "t": "p",
+     "html": "- Diana P"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"wow, wow, wow! I finally decided to search around for a place to get my first facial. A few friends sent me info on where they went, but I wanted to compare to see if I could find someone downtown, and THIS IS THE PLACE! They are prompt in replies in both email and social media, they are incredibly helpful on both platforms, and even better in person. I had such a wonderful experience from inquiry to service, all the staff are kind, helpful and knowledgeable. My skin is feeling wonderful, and I cannot wait to go back. I highly recommend it :)”"
+    },
+    {
+     "t": "p",
+     "html": "- Chelsea C"
+    },
+    {
+     "t": "p",
+     "html": "★★★★★"
+    },
+    {
+     "t": "p",
+     "html": "\"Look no further for the best facial in town. The open and bright space is so comfortable and inviting. The staff are friendly and knowledgeable. They care about your results as much as you do. I love this place, and will continue to come here :)\""
+    },
+    {
+     "t": "p",
+     "html": "- David Nunes"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book An Appointment Today",
+     "html": "<strong>Book An Appointment Today</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Book your 90-minute anti-aging facial with us today!"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b3d43c18-da14-436b-b48b-c8f65913925a/Hydrojelly5.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

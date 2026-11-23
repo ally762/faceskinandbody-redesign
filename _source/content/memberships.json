@@ -1,0 +1,271 @@
+{
+ "slug": "memberships",
+ "title": "Memberships — Face Skin & Body Bar",
+ "description": "Stop thinking about beauty as an expense and start seeing it as the valuable investment it truly is. Read this!",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/685d96a5784cd732928353aa/1749845086083/face-skin-body-bar-calgary-injectables-laser-facial-4.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/memberships",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/1f160a7f-f068-48c3-9d17-a23e33678187/face-skin-body-bar-calgary-injectables-laser-treatments-1.jpg",
+     "alt": "Two women with facial masks, one with a blue mask on her cheek, and the other with a pink mask on her cheek, standing close to each other against a neutral background.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Memberships",
+     "html": "<strong>&nbsp;Memberships&nbsp;</strong>"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Skin Investment Club!",
+     "html": "<em>The Skin Investment Club!</em>"
+    },
+    {
+     "t": "p",
+     "html": "At Face Skin &amp; Body Bar, we believe that exceptional skin health and lasting beauty are an investment, not an expense. To make consistent, high-quality skincare and aesthetic treatments more accessible and rewarding, we proudly introduce <strong>The Skin Investment Club</strong>. This exclusive membership program is thoughtfully designed to empower you to achieve your aesthetic goals through flexible budgeting, significant savings, and unparalleled benefits. It's more than just a membership; it's your personalized pathway to the skin of your dreams. Say goodbye to upfront costs and hello to a smarter, more sustainable way to care for your beauty needs."
+    },
+    {
+     "t": "btn",
+     "text": "Call To Learn More",
+     "href": "tel:14034545607"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types Of Plans We Offer",
+     "html": "<strong>Types Of Plans We Offer</strong>"
+    },
+    {
+     "t": "p",
+     "html": "The Skin Investment Club offers three distinct membership tiers, each tailored to different levels of commitment and desired benefits. All plans function as a convenient \"Beauty Bank,\" where your monthly contribution directly accumulates as credit that you can redeem for any of our services, products, or packages. This allows you to budget over time, making advanced treatments, treatment series, and premium products more attainable."
+    },
+    {
+     "t": "btn",
+     "text": "Book Consultation",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Smart Skin Plan",
+     "html": "<strong>The Smart Skin Plan</strong>"
+    },
+    {
+     "t": "p",
+     "html": "$99 / month"
+    },
+    {
+     "t": "p",
+     "html": "Our foundational membership, The Smart Skin Plan, is the perfect starting point for those looking to begin their consistent skincare journey with valuable savings:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Monthly Contribution:</strong> $99 / month",
+      "<strong>Your Beauty Bank:</strong> 100% of your monthly contribution accumulates as credit in your personal \"Beauty Bank,\" ready to be used on any service or product. This allows you to budget for your desired treatments over time, making advanced care more manageable.",
+      "<strong>Exclusive Savings:</strong> Enjoy a <strong>10% discount</strong> on all individual services, retail products, add-ons, and even on the already discounted price of our treatment packages."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Smart Skin Plan PLus",
+     "html": "<strong>The Smart Skin Plan PLus</strong>"
+    },
+    {
+     "t": "p",
+     "html": "$199 / month"
+    },
+    {
+     "t": "p",
+     "html": "Elevate your skincare investment with The Smart Skin Plan Plus, designed for those who desire enhanced savings and greater flexibility across a wider range of our premium services, including injectables:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Monthly Contribution:</strong> $199 / month",
+      "<strong>Your Enhanced Beauty Bank:</strong> Like The Smart Skin Plan, 100% of your monthly contribution builds up as credit in your \"Beauty Bank.\" This option is particularly beneficial for planning advanced treatments, allowing you to accrue substantial credit. For example, after just three months, you'd have $600 in your bank, making budgeting for these services seamless.",
+      "<strong>Superior Savings:</strong> Unlock a <strong>12% discount</strong> on all individual services, retail products, and packages. This means you always get the best value, as you'll automatically receive the discount that benefits you most at the time of purchase."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Accelerated Smart Skin Plan",
+     "html": "<strong>&nbsp;&nbsp;The Accelerated Smart Skin Plan&nbsp;&nbsp;</strong>"
+    },
+    {
+     "t": "p",
+     "html": "$350 / month"
+    },
+    {
+     "t": "p",
+     "html": "This plan is for the discerning individual ready to make a significant commitment to their skin and beauty, The Accelerated Smart Skin Plan offers our highest tier of savings and the most rapid accumulation of your “Beauty Bank”. This plan is perfect for those embarking on comprehensive skin transformations or desiring frequent, high-value treatments:"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Monthly Contribution:</strong> $350 / month",
+      "<strong>Your Premium Beauty Bank:</strong> 100% of your monthly contribution accrues as credit in your \"Beauty Bank,\" providing the fastest way to save for extensive treatments and multiple services. This plan is ideal for those planning a serious investment in their skin.",
+      "<strong>Flexible Terms:</strong> This is the <em>only plan</em> available with the option of a 6-month or 12-month membership commitment.",
+      "<strong>Maximized Savings:</strong> Enjoy our top-tier <strong>15% discount</strong> on all individual services, retail products, and packages. You'll always receive the optimal discount available for your purchase.."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Membership Is Right For Me?",
+     "html": "<strong>What Membership Is Right For Me?</strong>"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Choosing the ideal Skin Investment Club membership depends on your personal beauty goals, desired treatment frequency, and budgeting preferences."
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>The Smart Skin Plan</strong> is excellent for those new to consistent professional skincare, looking for valuable everyday savings on facials &amp; medical grade products, allowing for easy budgeting over time.",
+      "<strong>The Smart Skin Plan Plus</strong> is designed for clients who frequently enjoy a range of services. The larger monthly contribution accumulates faster, making it convenient to budget for significant treatments like RF Microneedling or IPL sessions, without large upfront credit card charges. It's an astute choice for those who love to stay on top of their aesthetic routine.",
+      "<strong>The Accelerated Smart Skin Plan</strong> is perfect for individuals who are ready for a comprehensive beauty journey, planning multiple advanced treatments, or who prefer to make a substantial monthly investment for maximum savings and rapid accumulation of their Beauty Bank."
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Consider your typical spending habits and future aesthetic aspirations. Our team is also happy to provide guidance during a consultation to help you select the plan that best aligns with your needs."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book with us today",
+     "html": "<strong>Book with us today</strong>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/49653011-c6f3-4465-b898-5a9bea39db33/face-skin-and-body-building.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Membership Terms And Conditions:",
+     "html": "<strong>Membership Terms And Conditions:</strong>"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<strong>Flexible Billing:</strong> Choose your preferred recurring charge date: The 1st, 15th, or 30th of each month.",
+      "<strong>Annual Commitment:</strong> Memberships are structured as a 12-month annual commitment (or 6/12 months for the Accelerated Plan) with auto-renewal for your convenience. You will receive an email notification approximately 6 weeks before your membership is set to renew.",
+      "<strong>Cancellation Policy:</strong> A phone call or email is required to cancel your membership, with a 30-day notice period before your auto-renewal date.",
+      "<strong>Non-Transferable &amp; Non-Refundable:</strong> Memberships are non-refundable and non-transferable.",
+      "<strong>Exclusions:</strong> Membership discounts cannot be combined with other ongoing promotions or offers. Gift cards cannot be used toward purchasing memberships.",
+      "<strong>Exclusive Benefits:</strong> Once your membership is active, Skin Investment Club benefits replace all other previous discounts or referral programs (e.g., $10 rebooking offers, old referral programs)."
+     ]
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ready To Invest? Sign Up Today!",
+     "html": "<strong>Ready To Invest? Sign Up Today!</strong>"
+    },
+    {
+     "t": "p",
+     "html": "Embark on a smarter, more rewarding journey to lasting beauty and confidence. <strong>The Skin Investment Club</strong> at Face Skin &amp; Body Bar is your key to consistent, high-quality skincare and aesthetic treatments, all while enjoying significant savings and flexible budgeting. Stop thinking about beauty as an expense and start seeing it as the valuable investment it truly is."
+    },
+    {
+     "t": "p",
+     "html": "Join the club today and take control of your beautiful future!"
+    },
+    {
+     "t": "p",
+     "html": "<strong>Contact Face Skin &amp; Body Bar in Calgary or visit us online to enroll in The Skin Investment Club and start building your Beauty Bank.</strong><br>"
+    },
+    {
+     "t": "btn",
+     "text": "Book your treatment",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/286963c1-1d42-45f5-bb2c-5a612138e3f2/face-skin-body-bar-calgary-injectables-laser-facial-20.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}

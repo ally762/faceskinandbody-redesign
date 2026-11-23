@@ -1,0 +1,941 @@
+{
+ "slug": "facials",
+ "title": "Personalized Facial Services in Calgary at Face Skin & Body Bar — Face Skin & Body Bar",
+ "description": "Get personalized facials in Calgary at Face Skin & Body Bar. Custom solutions target acne, hyperpigmentation, and sensitive skin. Book your facial now!",
+ "ogImage": "http://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64e3e6715ebf25132ada86d3/1692657266094/face-skin-body-bar-calgary-injectables-laser-treatments-9.jpg?format=1500w",
+ "canonical": "https://www.faceskinandbody.ca/facials",
+ "ldjson": [
+  "{\"url\":\"https://www.faceskinandbody.ca\",\"name\":\"Face Skin & Body Bar\",\"description\":\"\",\"image\":\"//images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}",
+  "{\"legalName\":\"Face Skin & Body Bar\",\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"email\":\"info@faceskinandbody.ca\",\"telephone\":\"1-403-454-5607\",\"sameAs\":[\"https://www.instagram.com/faceskinandbody/\",\"https://m.facebook.com/faceskinandbody\",\"https://www.tiktok.com/@faceskinandbody\",\"https://www.linkedin.com/company/face-skin-body-bar\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}",
+  "{\"address\":\"620 10 Avenue Southwest\\nCalgary, AB, T2R 0B2\\nCanada\",\"image\":\"https://static1.squarespace.com/static/64932f70636de43bbaa09635/t/64933685dd5b3b6fb8792e0a/1772730261209/\",\"name\":\"Face Skin & Body Bar\",\"openingHours\":\"Mo 11:00-19:00, Tu 11:00-19:00, We 11:00-19:00, Th 11:00-19:00, Fr 11:00-19:00, Sa 10:00-18:00, Su 10:00-17:00\",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}",
+  "\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"LocalBusiness\",\n  \"name\": \"Face Skin & Body Bar\",\n  \"image\": \"https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/8ea2f83d-693e-4bab-8ac9-deab73f32900/Face-Logo-Wordmark6.png?format=1500w\",\n  \"@id\": \"https://www.faceskinandbody.ca/#business\",\n  \"url\": \"https://www.faceskinandbody.ca/\",\n  \"telephone\": \"+1 (403) 454-5607\",\n  \"priceRange\": \"$\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"#126 – 620 10th Ave SW\",\n    \"addressLocality\": \"Calgary\",\n    \"addressRegion\": \"AB\",\n    \"postalCode\": \"T2R 1C3\",\n    \"addressCountry\": \"CA\"\n  },\n  \"openingHoursSpecification\": [{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Monday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\"\n    ],\n    \"opens\": \"11:00\",\n    \"closes\": \"19:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": \"Friday\",\n    \"opens\": \"10:00\",\n    \"closes\": \"18:00\"\n  },{\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"10:00\",\n    \"closes\": \"17:00\"\n  }],\n  \"sameAs\": [\n    \"https://www.instagram.com/faceskinandbody/\",\n    \"https://www.facebook.com/faceskinandbody\",\n    \"https://www.linkedin.com/company/face-skin-body-bar\"\n  ] \n}\n"
+ ],
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/f946c4ea-5251-4d91-a396-b2eba9498539/face-skin-body-bar-calgary-injectables-laser-treatments-9.jpg",
+     "alt": "A young man and an older woman are standing close together, both with facial masks on. The masks are transparent with gold-colored flakes. The man is looking directly at the camera, while the woman is looking at him.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Targeted Facials in Calgary",
+     "html": "Targeted Facials in Calgary"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "We offer a comprehensive range of clinical facial treatments designed to effectively address specific skin conditions. Use our skin concern legend to discover your ideal treatment.",
+     "html": "We offer a comprehensive range of clinical facial treatments designed to effectively address specific skin conditions. Use our skin concern legend to discover your ideal treatment."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Skin Concern Legend",
+     "html": "Skin Concern Legend"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "DRY/ DEHYDRATED",
+     "html": "DRY/ DEHYDRATED"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict sensitive skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "SENSITIVE/ ROSACEA",
+     "html": "SENSITIVE/ ROSACEA"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "HYPERpIGMENTATION/ SUN DAMAGE",
+     "html": "HYPERpIGMENTATION/ SUN DAMAGE"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Dull",
+     "html": "Dull"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict acne or acne scarring",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Acne",
+     "html": "Acne"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Fine Lines & Aging",
+     "html": "Fine Lines &amp; Aging"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Soothing Facial",
+     "html": "Soothing Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60 Mins | $155 75 mins | $185",
+     "html": "60 Mins | $155 75 mins | $185"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict sensitive skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Aimed at reducing inflammation and improving circulation, our Soothing Facial is wonderful for anyone with reactive, sensitive skin. You will receive a gentle, yet effective exfoliation, followed by the application of nourishing serums and moisturizers, all packed with soothing anti-inflammatory and conditioning ingredients. This service includes cool and refreshing facial globes, which stimulate circulation in your face, reduce puffiness, and leave your skin feeling tighter and instantly refreshed."
+    },
+    {
+     "t": "p",
+     "html": "Our extended Soothing Facial also includes a calming Intensive Recovery Hydrojelly Mask and LED Light Therapy to further soothe sensitized skin."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: lip treatment, eye treatment, decollete treatment, dermaplaning, resurfacers</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Hydrating Facial",
+     "html": "Hydrating Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60 Mins | $155 75 mins | $185",
+     "html": "60 Mins | $155 75 mins | $185"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict red or sensitive skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Experience a deeply replenishing hydrating facial designed to revitalize dry, dehydrated skin. This luxurious treatment features a curated blend of rich, nourishing ingredients to restore moisture balance, enhance radiance, and protect against the harsh environmental elements of Alberta, leaving your skin feeling hydrated, healthy, and glowing."
+    },
+    {
+     "t": "p",
+     "html": "The extended Hydrating Facial incorporates a Hyaluronic Acid Hydrojelly Mask to optimize moisture retention and alleviate dryness."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: &nbsp;lip treatment, eye treatment, decollete treatment, dermaplaning, resurfacers</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Hyperpigmentation Facial",
+     "html": "Hyperpigmentation Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60 Mins | $155 75 mins | $185",
+     "html": "60 Mins | $155 75 mins | $185"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "Electrocardiogram (ECG) reading displayed on a monitor with a wave pattern.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "This facial is formulated to target hyperpigmentation and uneven skin tone. Utilizing natural brighteners, antioxidants, and advanced tyrosinase inhibitors, this treatment works to fade existing discoloration, improve skin hydration, and inhibit melanin synthesis for a more even and luminous complexion."
+    },
+    {
+     "t": "p",
+     "html": "Our extended Hyperpigmentation Facial also includes a brightening Hydrojelly Mask and LED Light Therapy."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: resurfacers, dermaplaning, lip treatment, eye treatment, decollete treatment</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Purifying Acne Facial",
+     "html": "Purifying Acne Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60 Mins | $155 75 mins | $185",
+     "html": "60 Mins | $155 75 mins | $185"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict acne or acne scarring",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Experience a deep cleanse and purification with this specialized facial, expertly formulated to address the unique challenges of congestion, breakouts, and excess oil. Targeted ingredients work synergistically to restore skin's natural balance, gently exfoliate, and draw out impurities, revealing a radiant and refreshed complexion."
+    },
+    {
+     "t": "p",
+     "html": "Our extended 75 mins Purifying Facial also includes a clarifying Hydrojelly Mask and Blue Light Therapy to further enhance results."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: resurfacers, eye treatment, lip treatment, decollete treatment, dermaplaning</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Brightening Facial",
+     "html": "Brightening Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60 Mins | $155 75 mins | $185",
+     "html": "60 Mins | $155 75 mins | $185"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "This Brightening Facial is formulated to enhance skin luminosity and hydration. Utilizing a potent blend of antioxidants, peptides, skin brighteners, and anti-aging ingredients, this treatment promotes a brighter, more even-toned complexion."
+    },
+    {
+     "t": "p",
+     "html": "This extended version of our Brightening Facial also includes an illuminating hydrojellly mask &amp; LED Light Therapy."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: decollete treatment, resurfacers, dermaplaning, eye treatment, lip treatment</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Dermaplaning Facial",
+     "html": "Dermaplaning Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "75 mins | $225",
+     "html": "75 mins | $225"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin that is losing collagen and elastin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "This is one of our most popular facial treatments!"
+    },
+    {
+     "t": "p",
+     "html": "Dermaplaning is a non-invasive cosmetic procedure that involves manual exfoliation of the epidermis with a sterile surgical blade to remove dead skin cells and vellus hair (peach fuzz) leaving your skin super smooth and glowing. This procedure softens the appearance of fine lines and wrinkles while increasing the absorption of topical products. Dermaplaning creates the perfect canvas for make-up application which makes it a go-to procedure before special events."
+    },
+    {
+     "t": "p",
+     "html": "This 75 mins treatment also includes an Intensive Recovery Hydrojelly mask and LED Light therapy."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: eye treatment, lip treatment, decollete treatment.</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Anti-Aging Facial",
+     "html": "Anti-Aging Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "90 mins | $225",
+     "html": "90 mins | $225"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation and sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dry or dehydrated skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Experience our next-level 90-minute anti-aging facial, extending its rejuvenating benefits to the often-neglected décolleté. This advanced treatment strategically incorporates highly effective, scientifically-backed ingredients to visibly contour the face and significantly diminish the appearance of fine lines and wrinkles. To further enhance collagen production and hydration, this facial includes a luxurious hydrating and wrinkle-care hydrojelly mask, followed by targeted LED Light Therapy to promote cellular renewal and a youthful radiance"
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: resurfacers, eye treatment, dermaplaning, lip treatment</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The RF Skin Tightening Facial",
+     "html": "The RF Skin Tightening Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "90 mins | $275",
+     "html": "90 mins | $275"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin that is losing collagen and elastin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "This 90 minute facial is the perfect treatment for anyone looking for instant tighter, brighter skin. It combines all the magic of our foundational facials including a double cleanse, exfoliation, facial massage and mask and ends with a 45 minute full face Forma (radiofrequency) skin tightening treatment. This includes lifting the cheekbones, contouring the jawline, tightening and lifting the jowls, while softening any fine lines and wrinkles.&nbsp;"
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: eye treatment, lip treatment, decollete treatment</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Men’s Facial",
+     "html": "Men’s Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60 mins | $155 75 Mins | $185",
+     "html": "60 mins | $155 75 Mins | $185"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict acne or acne scarring.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damaged skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/b7037e48-bdd1-4b80-9b1d-1118143cca61/face-skin-conditions-black2.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict aging skin that is losing collagen and elastin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2dc0bcf8-c513-4c61-9f16-a8f305d9bdca/face-skin-conditions-black1.png",
+     "alt": "Graphic of a circle with diagonal lines and small dashes around it, resembling a stylized planet or abstract design.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2be2d689-ffe7-4dca-a06b-244f695291af/face-skin-conditions-black5.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict sensitized or rosacea prone skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "This 60-minute men's facial includes a double cleanse, exfoliation, steam, extractions (optional), a targeted mask with massage, a targeted serum, moisturizer, and SPF. A pre-treatment consultation and skin analysis will ensure your individual needs and goals are addressed."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: resurfacers, eye treatment, dermaplaning, lip treatment</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Back Facial",
+     "html": "Back Facial"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "60 mins | $185",
+     "html": "60 mins | $185"
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/72e05859-2b2c-4b18-a423-668c2c44dacb/face-skin-conditions-black4.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict dull or lackluster skin.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/2cd639b9-d227-489c-b461-c81795671366/face-skin-conditions-black3.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict acne or acne scarring.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/3c44e0ab-d550-43c6-b93c-bf3e0ad0e8a1/face-skin-conditions-black6.png",
+     "alt": "An icon used at Face Skin & Body Bar to depict hyperpigmentation or sun damage.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "p",
+     "html": "Our back facial is designed for those who maintain an active lifestyle, helping to wash away oil and cell build-up caused by sweat. Our Clinical Esthetician will scrub, steam, and extract impurities from your back and shoulders, hydrating and toning the skin for a deep clean and refreshing experience."
+    },
+    {
+     "t": "p",
+     "html": "<em>Pairs well with: resurfacers, dermaplaning</em>"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/18313f7f-3702-4787-955f-5f7814c48fa6/face-skin-body-bar-calgary-injectables-laser-facial-16.jpg",
+     "alt": "Close-up of a person's neck, jawline, and ear in natural lighting.",
+     "title": "",
+     "sub": "",
+     "link": "",
+     "linkText": ""
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Add Ons",
+     "html": "The Add Ons"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Add on any of the following treatments to your targeted facial to get the customized results you need.",
+     "html": "Add on any of the following treatments to your targeted facial to get the customized results you need."
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Lip Treatment",
+     "html": "Lip Treatment"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "$25",
+     "html": "$25"
+    },
+    {
+     "t": "p",
+     "html": "This add-on is a restorative and effective remedy for dry, dehydrated lips. The treatment includes&nbsp; a lip scrub, lip mask and hydrating lip serum to leave skin feeling nourished."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Decollette Treatment",
+     "html": "Decollette Treatment"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "$40",
+     "html": "$40"
+    },
+    {
+     "t": "p",
+     "html": "This add-on is designed to target an area of the body that is often forgotten about: the neck &amp; upper chest.&nbsp;As an extension of your facial, this service will apply the same techniques and products to your neck and decollete, which will keep your neck looking young and rejuvenated."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Eye Treatment",
+     "html": "Eye Treatment"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "$25",
+     "html": "$25"
+    },
+    {
+     "t": "p",
+     "html": "This add-on is a soothing, gentle and hydrating treatment for tired eyes. A combination of targeted eye masks, hydrating serums and a specially designed micro-current device help reduce fine lines and puffiness."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Dermaplaning",
+     "html": "Dermaplaning"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "$55",
+     "html": "$55"
+    },
+    {
+     "t": "p",
+     "html": "This add-on is a non-invasive cosmetic procedure that involves the manual exfoliation of the epidermis (the outermost layer of your skin) with a sterile surgical blade. As a result, all the dead skin cells and vellus hair (peach fuzz) are removed, leaving your skin smooth and glowy. This procedure is great for those looking to soften the appearance of fine lines and wrinkles and even out the skin’s surface. Due to its smoothing abilities, dermaplaning is an incredible pre-event treatment."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Resurfacer",
+     "html": "Resurfacer"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "$40",
+     "html": "$40"
+    },
+    {
+     "t": "p",
+     "html": "For a deeper more comprehensive form of exfoliation, you can incorporate any of our DermaQuest resurfacing treatments (Lactic Acid, Pumpkin, Mangobrite &amp; C Infusion) into your facial."
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "LED Light Therapy",
+     "html": "LED Light Therapy"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "$55",
+     "html": "$55"
+    },
+    {
+     "t": "p",
+     "html": "This add-on LED Light Therapy utilizes therapeutic wavelengths of light to enhance collagen and elastin production (red light - 630nm), combat the overproduction of acne-causing sebaceous oils, and kill off p.acneus bacteria (blue light - 415nm), reduce redness, and improve overall circulation. Infrared light (830 nm) accelerates the healing process by promoting lymphatic flow. The mode will be selected by the Esthetician based on consultation and the desired course of treatment.&nbsp;"
+    }
+   ],
+   "bg": null
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book your targeted facial today",
+     "html": "Book your targeted facial today"
+    },
+    {
+     "t": "btn",
+     "text": "Book Now",
+     "href": "https://faceskin.zenoti.com/webstoreNew/services"
+    }
+   ],
+   "bg": {
+    "src": "https://images.squarespace-cdn.com/content/v1/64932f70636de43bbaa09635/f00f92fa-9019-4996-ba99-25a3623df043/face-skin-body-bar-calgary-injectables-laser-facial-11.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "blocks": [
+    {
+     "t": "newsletter",
+     "title": "Sign Up for Our Newsletter",
+     "desc": "Want to stay up-to-date on the latest skincare trends and innovations? Get your hands on our Skincare Files, delivered directly to your inbox every month."
+    }
+   ],
+   "bg": null
+  }
+ ]
+}
